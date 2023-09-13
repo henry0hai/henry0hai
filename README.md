@@ -19,12 +19,12 @@ I'm Henry Hai - a Full Stack Developer!
 [![Update README](https://github.com/henry0hai/henry0hai/actions/workflows/udpateReadme.yml/badge.svg)](https://github.com/henry0hai/henry0hai/actions/workflows/udpateReadme.yml)
 <!-- WEATHER:START -->Current City: Ho Chi Minh City - 13/09/2023
 
-Condition: Light rain, <img src="https://cdn.weatherapi.com/weather/64x64/night/296.png"/>
+Condition: Partly cloudy, <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
 
-Current temperature: 27.00 °C, Feels like: 31.40 °C, Humidity: 100%
+Current temperature: 27.00 °C, Feels like: 31.60 °C, Humidity: 100%
 
-Wind: 6.80 km/h, 300°, WNW
+Wind: 6.10 km/h, 270°, W
 
-Pressure: 1009.00 mb
+Pressure: 1011.00 mb
 
-Updated at: 2023-09-13 20:15<!-- WEATHER:END -->
+Updated at: 2023-09-13 21:15<!-- WEATHER:END -->
