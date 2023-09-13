@@ -23,8 +23,8 @@ Condition: Partly cloudy, <img src="https://cdn.weatherapi.com/weather/64x64/nig
 
 Current temperature: 26.00 °C, Feels like: 29.60 °C, Humidity: 100%
 
-Wind: 6.10 km/h, 260°, W
+Wind: 6.80 km/h, 260°, W
 
 Pressure: 1009.00 mb
 
-Updated at: 2023-09-14 04:15<!-- WEATHER:END -->
+Updated at: 2023-09-14 05:15<!-- WEATHER:END -->
