@@ -25,6 +25,6 @@ Current temperature: 27.00 °C, Feels like: 31.70 °C, Humidity: 94%
 
 Wind: 6.80 km/h, 290°, WNW
 
-Pressure: 1010.00 mb
+Pressure: 1009.00 mb
 
-Updated at: 2023-09-14 00:15<!-- WEATHER:END -->
+Updated at: 2023-09-14 01:15<!-- WEATHER:END -->
