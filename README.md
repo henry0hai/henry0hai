@@ -16,7 +16,7 @@ I'm Henry Hai - a Full Stack Developer!
 - Email: <henryhaiwork@gmail.com>
 
 ## 🌤️ Latest Weather in Ho Chi Minh City
-[![Update README](https://github.com/henry0hai/henry0hai/actions/workflows/main.yml/badge.svg)](https://github.com/henry0hai/henry0hai/actions/workflows/main.yml)
+[![Update README](https://github.com/henry0hai/henry0hai/actions/workflows/udpateReadme.yml/badge.svg)](https://github.com/henry0hai/henry0hai/actions/workflows/udpateReadme.yml)
 <!-- WEATHER:START -->Current City: Ho Chi Minh City - 13/09/2023
 
 Condition: Overcast, <img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"/>
