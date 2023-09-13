@@ -16,15 +16,15 @@ I'm Henry Hai - a Full Stack Developer!
 - Email: <henryhaiwork@gmail.com>
 
 ## 🌤️ Latest Weather in Ho Chi Minh City
-[![Update README](https://github.com/henry0hai/henry0hai/actions/workflows/udpateReadme.yml/badge.svg)](https://github.com/henry0hai/henry0hai/actions/workflows/udpateReadme.yml)
+[![Update README](https://github.com/henry0hai/henry0hai/actions/workflows/main.yml/badge.svg)](https://github.com/henry0hai/henry0hai/actions/workflows/main.yml)
 <!-- WEATHER:START -->Current City: Ho Chi Minh City - 13/09/2023
 
-Condition: Overcast, <img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"/>
+Condition: Moderate rain, <img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
 
-Current temperature: 31.00 °C, Feels like: 35.90 °C, Humidity: 71%
+Current temperature: 29.00 °C, Feels like: 33.10 °C, Humidity: 89%
 
-Wind: 28.10 km/h, 260°, W
+Wind: 25.90 km/h, 250°, WSW
 
 Pressure: 1007.00 mb
 
-Updated at: 2023-09-13 15:15<!-- WEATHER:END -->
+Updated at: 2023-09-13 16:15<!-- WEATHER:END -->
