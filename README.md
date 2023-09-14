@@ -23,10 +23,10 @@ Current City: Ho Chi Minh City - 14/09/2023
 
 Condition: Partly cloudy, <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
 
-Current temperature: 33.00 °C, Feels like: 42.50 °C, Humidity: 59%
+Current temperature: 32.00 °C, Feels like: 40.30 °C, Humidity: 67%
 
 Wind: 16.90 km/h, 280°, W
 
 Pressure: 1009.00 mb
 
-Updated at: 2023-12-15 12:15 (GMT+7)<!-- WEATHER:END -->
+Updated at: 0001-01-01 01:01 (GMT+7)<!-- WEATHER:END -->
