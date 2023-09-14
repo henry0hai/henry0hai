@@ -52,7 +52,7 @@ func main() {
 	var weather WeatherResponse
 	err = json.Unmarshal(readBody(resp), &weather)
 	if err != nil {
-		log.Fatalf("Error unmarshalling the response: %v", err)
+		log.Fatalf("Error unmarshal the response: %v", err)
 	}
 
 	templateData, err := os.ReadFile("README.md.template")
@@ -84,19 +84,23 @@ func updateReadme(template string, weather WeatherResponse) {
 	endIndex := strings.Index(template, "<!-- WEATHER:END -->")
 
 	if startIndex == -1 || endIndex == -1 {
-		log.Fatal("Cannot find weather section in README.md.template")
+		log.Fatal("Error find weather section in README.md.template")
 	}
 
 	location, _ := time.LoadLocation(weather.Location.TzID)
 
-	layout := "2006-01-02 01:02"
+	layout := "2006-01-02 15:04"
 	lastUpdated, _ := time.Parse(layout, weather.Current.LastUpdated)
-	lastUpdated = lastUpdated.In(location)
 
-	_, offset := lastUpdated.Zone()
+	// Get the timezone offset in seconds.
+	_, offset  := lastUpdated.In(location).Zone() 
+
+	// Convert to hour
 	offsetHours := offset / 3600
 
-	formattedTime := fmt.Sprintf("%s (GMT%+d)", lastUpdated.Format("2006-01-02 01:02"), offsetHours)
+	formattedTime := fmt.Sprintf("%s (GMT%+02d)", weather.Current.LastUpdated, offsetHours)
+
+	fmt.Printf("formattedTime: %v\n", formattedTime)
 
 	readme := template[:startIndex+len("<!-- WEATHER:START -->")] +
 		fmt.Sprintf(
@@ -127,15 +131,15 @@ func updateReadme(template string, weather WeatherResponse) {
 
 func generateWeatherString() string {
 	return `
-Current City: %s - %s
+**Current City**: %s - *%s*
 
-Condition: %s, <img src="https:%s"/>
+**Condition**: %s, <img src="https:%s"/>
 
-Current temperature: %.2f °C, Feels like: %.2f °C, Humidity: %d%%
+**Current temperature**: %.2f °C, **Feels like**: %.2f °C, **Humidity**: %d%%
 
-Wind: %.2f km/h, %d°, %s
+**Wind**: %.2f km/h, %d°, *%s*
 
-Pressure: %.2f mb
+**Pressure**: %.2f mb
 
-Updated at: %s`
+**Updated at**: %s`
 }
