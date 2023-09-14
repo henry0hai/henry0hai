@@ -34,12 +34,9 @@ type WeatherResponse struct {
 }
 
 func main() {
-	apiKey := os.Getenv("WEATHER_API_KEY")
-	if apiKey == "" {
-		log.Fatal("WEATHER_API_KEY not set in .env")
-	}
-
+	apiKey := getEnvVar("WEATHER_API_KEY")
 	baseUrl := "https://api.weatherapi.com/v1/current.json"
+
 	queryParams := url.Values{
 		"key": []string{apiKey},
 		"q":   []string{"Ho Chi Minh City"},
@@ -48,52 +45,62 @@ func main() {
 
 	resp, err := http.Get(baseUrl + "?" + queryParams.Encode())
 	if err != nil {
-		log.Fatal("Error:", err)
-		os.Exit(1)
+		log.Fatalf("Error making the request: %v", err)
 	}
 	defer resp.Body.Close()
 
-	body, err := io.ReadAll(resp.Body)
-	if err != nil {
-		fmt.Println("Error:", err)
-		os.Exit(1)
-	}
-
 	var weather WeatherResponse
-	err = json.Unmarshal(body, &weather)
+	err = json.Unmarshal(readBody(resp), &weather)
 	if err != nil {
-		fmt.Println("Error:", err)
-		os.Exit(1)
+		log.Fatalf("Error unmarshalling the response: %v", err)
 	}
 
 	templateData, err := os.ReadFile("README.md.template")
 	if err != nil {
-		fmt.Println("Error:", err)
-		os.Exit(1)
+		log.Fatalf("Error reading the template file: %v", err)
 	}
 
-	template := string(templateData)
+	updateReadme(string(templateData), weather)
+}
 
+func getEnvVar(key string) string {
+	value := os.Getenv(key)
+	if value == "" {
+		log.Fatalf("%s not set in .env", key)
+	}
+	return value
+}
+
+func readBody(resp *http.Response) []byte {
+	body, err := io.ReadAll(resp.Body)
+	if err != nil {
+		log.Fatalf("Error reading the response body: %v", err)
+	}
+	return body
+}
+
+func updateReadme(template string, weather WeatherResponse) {
 	startIndex := strings.Index(template, "<!-- WEATHER:START -->")
 	endIndex := strings.Index(template, "<!-- WEATHER:END -->")
+
 	if startIndex == -1 || endIndex == -1 {
-		fmt.Println("Cannot find weather section in README.md.template")
-		os.Exit(1)
+		log.Fatal("Cannot find weather section in README.md.template")
 	}
+
+	location, _ := time.LoadLocation(weather.Location.TzID)
+
+	layout := "2006-01-02 01:02"
+	lastUpdated, _ := time.Parse(layout, weather.Current.LastUpdated)
+	lastUpdated = lastUpdated.In(location)
+
+	_, offset := lastUpdated.Zone()
+	offsetHours := offset / 3600
+
+	formattedTime := fmt.Sprintf("%s (GMT%+d)", lastUpdated.Format("2006-01-02 01:02"), offsetHours)
 
 	readme := template[:startIndex+len("<!-- WEATHER:START -->")] +
 		fmt.Sprintf(
-			`Current City: %s - %s
-
-Condition: %s, <img src="https:%s"/>
-
-Current temperature: %.2f °C, Feels like: %.2f °C, Humidity: %d%%
-
-Wind: %.2f km/h, %d°, %s
-
-Pressure: %.2f mb
-
-Updated at: %s`,
+			generateWeatherString(),
 			weather.Location.Name,
 			time.Now().Format("02/01/2006"),
 			weather.Current.Condition.Text,
@@ -105,13 +112,30 @@ Updated at: %s`,
 			weather.Current.WindDegree,
 			weather.Current.WindDir,
 			weather.Current.PressureMb,
-			weather.Current.LastUpdated,
+			formattedTime,
 		) +
 		template[endIndex:]
 
-	err = os.WriteFile("README.md", []byte(readme), 0644)
+	err := os.WriteFile("README.md", []byte(readme), 0644)
 	if err != nil {
 		fmt.Println("Error:", err)
 		os.Exit(1)
 	}
+
+	fmt.Println("README.md updated successfully!")
+}
+
+func generateWeatherString() string {
+	return `
+Current City: %s - %s
+
+Condition: %s, <img src="https:%s"/>
+
+Current temperature: %.2f °C, Feels like: %.2f °C, Humidity: %d%%
+
+Wind: %.2f km/h, %d°, %s
+
+Pressure: %.2f mb
+
+Updated at: %s`
 }
