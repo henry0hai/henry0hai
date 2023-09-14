@@ -1,0 +1,33 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 6-18/2 * * *'  # Runs every 2 hours from 6:00 to 18:00
+    - cron: '0 18-23/6,0-6/6 * * *'  # Runs every 6 hours from 18:00 to 6:00
+
+jobs:
+  update-readme:
+    permissions: write-all
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v4
+
+      - name: Set up Go
+        uses: actions/setup-go@v4
+        with:
+          go-version: 1.16
+
+      - name: Run Go code
+        run: go run main.go
+        env:
+          WEATHER_API_KEY: ${{ secrets.WEATHER_API_KEY }}
+
+      - name: Commit and push changes
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git pull origin master
+          git add .
+          git commit -m "Update README with latest weather data"
+          git push -u origin master 
