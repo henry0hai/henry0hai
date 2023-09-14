@@ -21,12 +21,12 @@ I'm Henry Hai - a Full Stack Developer!
 <!-- WEATHER:START -->
 **Current City**: Ho Chi Minh City - *14/09/2023*
 
-**Condition**: Moderate rain, <img src="https://cdn.weatherapi.com/weather/64x64/night/302.png"/>
+**Condition**: Light rain, <img src="https://cdn.weatherapi.com/weather/64x64/night/296.png"/>
 
-**Current temperature**: 25.00 °C, **Feels like**: 27.20 °C, **Humidity**: 100%
+**Current temperature**: 25.00 °C, **Feels like**: 27.50 °C, **Humidity**: 100%
 
-**Wind**: 22.00 km/h, 230°, *SW*
+**Wind**: 16.90 km/h, 260°, *W*
 
-**Pressure**: 1008.00 mb
+**Pressure**: 1009.00 mb
 
-**Updated at**: 2023-09-14 18:00 (GMT+7)<!-- WEATHER:END -->
+**Updated at**: 2023-09-14 19:00 (GMT+7)<!-- WEATHER:END -->
