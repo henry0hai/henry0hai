@@ -25,8 +25,8 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Current temperature**: 27.00 °C, **Feels like**: 32.10 °C, **Humidity**: 94%
 
-**Wind**: 11.20 km/h, 270°, *W*
+**Wind**: 11.20 km/h, 250°, *WSW*
 
 **Pressure**: 1010.00 mb
 
-**Updated at**: 2023-09-16 00:00 (GMT+7)<!-- WEATHER:END -->
+**Updated at**: 2023-09-16 01:00 (GMT+7)<!-- WEATHER:END -->
