@@ -23,10 +23,10 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Condition**: Partly cloudy, <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
 
-**Current temperature**: 28.00 °C, **Feels like**: 34.00 °C, **Humidity**: 89%
+**Current temperature**: 28.00 °C, **Feels like**: 34.10 °C, **Humidity**: 89%
 
-**Wind**: 13.00 km/h, 260°, *W*
+**Wind**: 15.10 km/h, 260°, *W*
 
-**Pressure**: 1010.00 mb
+**Pressure**: 1011.00 mb
 
-**Updated at**: 2023-09-15 21:00 (GMT+7)<!-- WEATHER:END -->
+**Updated at**: 2023-09-15 22:00 (GMT+7)<!-- WEATHER:END -->
