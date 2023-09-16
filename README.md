@@ -6,6 +6,8 @@ I'm Henry Hai - a Full Stack Developer!
 
 - Go
 - NodeJS
+- DevOps
+- Automation
 
 ## 🌱 I’m currently learning
 
@@ -41,7 +43,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 1
 
-**Updated at**: 2023-09-16 14:15 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2023-09-16 14:30 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
