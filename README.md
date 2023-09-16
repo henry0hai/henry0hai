@@ -62,7 +62,7 @@ I'm Henry Hai - a Full Stack Developer!
 					<td>30.00 °C</td>
 					<td>35.20 °C</td>
 					<td>15.10 km/h</td>
-					<td>**76 %**</td>
+					<td>🌧️ 76 %</td>
 				</tr>
 				<tr>
 					<td>16:00</td>
@@ -71,7 +71,7 @@ I'm Henry Hai - a Full Stack Developer!
 					<td>29.40 °C</td>
 					<td>34.50 °C</td>
 					<td>14.00 km/h</td>
-					<td>**95 %**</td>
+					<td>🌧️ 95 %</td>
 				</tr>
 				<tr>
 					<td>17:00</td>
@@ -98,7 +98,7 @@ I'm Henry Hai - a Full Stack Developer!
 					<td>26.40 °C</td>
 					<td>29.80 °C</td>
 					<td>10.40 km/h</td>
-					<td>**88 %**</td>
+					<td>🌧️ 88 %</td>
 				</tr>
 				<tr>
 					<td>20:00</td>

@@ -359,7 +359,7 @@ func generateForecastWeatherTable(weather WeatherResponse) string {
 
 			chanceOfRain := fmt.Sprintf("%v %%", hour.ChanceOfRain)
 			if hour.ChanceOfRain > 75 {
-				chanceOfRain = fmt.Sprintf("**%v %%**", hour.ChanceOfRain)
+				chanceOfRain = fmt.Sprintf("🌧️ %v %%", hour.ChanceOfRain)
 			}
 
 			table += fmt.Sprintf(`
