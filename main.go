@@ -336,7 +336,7 @@ func updateForecastWeather(template string, weather WeatherResponse) {
 func generateForecastWeatherTable(weather WeatherResponse) string {
 	// Initialize the table with the headers
 	table := `
-	<table>
+<table>
 		<tr>
 			<th>Hour</th>
 			<th>Weather</th>
@@ -382,7 +382,7 @@ func generateForecastWeatherTable(weather WeatherResponse) string {
 		}
 	}
 
-	table += "\n	</table>\n"
+	table += "\n</table>\n"
 
 	return table
 }

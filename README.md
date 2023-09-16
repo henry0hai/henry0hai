@@ -45,7 +45,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
-	<table>
+<table>
 		<tr>
 			<th>Hour</th>
 			<th>Weather</th>
@@ -100,5 +100,5 @@ I'm Henry Hai - a Full Stack Developer!
 					<td>10.40 km/h</td>
 					<td><span style='color:red;'>88 %</span></td>
 				</tr>
-	</table>
+</table>
 <!-- FORECAST_WEATHER:END -->
