@@ -17,5 +17,8 @@ I'm Henry Hai - a Full Stack Developer!
 
 ## 🌤️ Latest Weather
 [![Update README](https://github.com/henry0hai/henry0hai/actions/workflows/udpateReadme.yml/badge.svg)](https://github.com/henry0hai/henry0hai/actions/workflows/udpateReadme.yml)
-(Update every *hour* from **6:00 to 18:00** and *6 hours* from **18:00 to 6:00** in Timezone Asia/Ho_Chi_Minh - GMT+7)
-<!-- WEATHER:START --><!-- WEATHER:END -->
+(Update every **hour**)
+<!-- CURRENT_WEATHER:START --><!-- CURRENT_WEATHER:END -->
+
+## 🌤️ / 🌧️ Forecast Weather
+<!-- FORECAST_WEATHER:START --><!-- FORECAST_WEATHER:END -->

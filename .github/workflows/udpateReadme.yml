@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 1-11/1,11-17/6 * * *' # Runs every hour from 6:00 to 18:00 and every 6 hours from 18:00 to 6:00 in GMT+7
+    - cron: '0 * * * *' # Runs every hour
 
 jobs:
   update-readme:
