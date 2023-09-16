@@ -335,16 +335,17 @@ func updateForecastWeather(template string, weather WeatherResponse) {
 
 func generateForecastWeatherTable(weather WeatherResponse) string {
 	// Initialize the table with the headers
-	table := `<table>
-	<tr>
-		<th>Hour</th>
-		<th>Weather</th>
-		<th>Condition</th>
-		<th>Temperature</th>
-		<th>Feel Like</th>
-		<th>Wind</th>
-		<th>Chance of Rain</th>
-	</tr>`
+	table := `
+	<table>
+		<tr>
+			<th>Hour</th>
+			<th>Weather</th>
+			<th>Condition</th>
+			<th>Temperature</th>
+			<th>Feel Like</th>
+			<th>Wind</th>
+			<th>Chance of Rain</th>
+		</tr>`
 
 	for _, forecastDay := range weather.Forecast.ForecastDay {
 		for _, hour := range forecastDay.Hour {
@@ -381,7 +382,7 @@ func generateForecastWeatherTable(weather WeatherResponse) string {
 		}
 	}
 
-	table += "</table>"
+	table += "\n	</table>\n"
 
 	return table
 }

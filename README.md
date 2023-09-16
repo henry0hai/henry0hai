@@ -44,16 +44,17 @@ I'm Henry Hai - a Full Stack Developer!
 **Updated at**: 2023-09-16 14:00 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
-<!-- FORECAST_WEATHER:START --><table>
-	<tr>
-		<th>Hour</th>
-		<th>Weather</th>
-		<th>Condition</th>
-		<th>Temperature</th>
-		<th>Feel Like</th>
-		<th>Wind</th>
-		<th>Chance of Rain</th>
-	</tr>
+<!-- FORECAST_WEATHER:START -->
+	<table>
+		<tr>
+			<th>Hour</th>
+			<th>Weather</th>
+			<th>Condition</th>
+			<th>Temperature</th>
+			<th>Feel Like</th>
+			<th>Wind</th>
+			<th>Chance of Rain</th>
+		</tr>
 				<tr>
 					<td>15:00</td>
 					<td>Light rain shower</td>
@@ -98,4 +99,6 @@ I'm Henry Hai - a Full Stack Developer!
 					<td>29.80 °C</td>
 					<td>10.40 km/h</td>
 					<td><span style='color:red;'>88 %</span></td>
-				</tr></table><!-- FORECAST_WEATHER:END -->
+				</tr>
+	</table>
+<!-- FORECAST_WEATHER:END -->
