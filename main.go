@@ -263,6 +263,7 @@ func getHoursAhead(hours int, weather WeatherResponse) WeatherResponse {
 			if hourTime.After(lastUpdated) && hourTime.Before(hoursAheadTime) && hourCount < hours {
 				newForecastDay.Hour = append(newForecastDay.Hour, hour)
 				hourCount++
+				fmt.Println("hourCount:", hourCount)
 			}
 		}
 
