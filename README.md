@@ -23,10 +23,10 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Condition**: Moderate or heavy rain with thunder, <img src="https://cdn.weatherapi.com/weather/64x64/day/389.png"/>
 
-**Current temperature**: 32.00 °C, **Feels like**: 39.40 °C, **Humidity**: 71%
+**Current temperature**: 28.00 °C, **Feels like**: 30.60 °C, **Humidity**: 89%
 
-**Wind**: 15.10 km/h, 240°, *WSW*
+**Wind**: 22.00 km/h, 230°, *SW*
 
-**Pressure**: 1010.00 mb
+**Pressure**: 1009.00 mb
 
-**Updated at**: 2023-09-16 12:00 (GMT+7)<!-- WEATHER:END -->
+**Updated at**: 2023-09-16 13:15 (GMT+7)<!-- WEATHER:END -->
