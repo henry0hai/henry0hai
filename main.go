@@ -337,7 +337,7 @@ func updateForecastWeather(template string, weather WeatherResponse) {
 func generateForecastWeatherTable(weather WeatherResponse) string {
 	// Initialize the table with the headers
 	table := `
-<table>
+	<table>
 		<tr>
 			<th>Hour</th>
 			<th>Weather</th>
@@ -359,7 +359,7 @@ func generateForecastWeatherTable(weather WeatherResponse) string {
 
 			chanceOfRain := fmt.Sprintf("%v %%", hour.ChanceOfRain)
 			if hour.ChanceOfRain > 75 {
-				chanceOfRain = fmt.Sprintf("<span style='color:red;'>%v %%</span>", hour.ChanceOfRain)
+				chanceOfRain = fmt.Sprintf("**%v %%**", hour.ChanceOfRain)
 			}
 
 			table += fmt.Sprintf(`
@@ -383,7 +383,7 @@ func generateForecastWeatherTable(weather WeatherResponse) string {
 		}
 	}
 
-	table += "\n</table>\n"
+	table += "</table>\n"
 
 	return table
 }
