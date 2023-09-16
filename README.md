@@ -17,16 +17,16 @@ I'm Henry Hai - a Full Stack Developer!
 
 ## 🌤️ Latest Weather
 [![Update README](https://github.com/henry0hai/henry0hai/actions/workflows/udpateReadme.yml/badge.svg)](https://github.com/henry0hai/henry0hai/actions/workflows/udpateReadme.yml)
-(Update every *hour* from **6:00 to 18:00** and *6 hours* from **18:00 to 6:00**)
+(Update every *hour* from **6:00 to 18:00** and *6 hours* from **18:00 to 6:00** in Timezone Asia/Ho_Chi_Minh - GMT+7)
 <!-- WEATHER:START -->
 **Current City**: Ho Chi Minh City - *16/09/2023*
 
-**Condition**: Partly cloudy, <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
+**Condition**: Moderate or heavy rain with thunder, <img src="https://cdn.weatherapi.com/weather/64x64/day/389.png"/>
 
-**Current temperature**: 31.00 °C, **Feels like**: 38.60 °C, **Humidity**: 75%
+**Current temperature**: 32.00 °C, **Feels like**: 39.40 °C, **Humidity**: 71%
 
-**Wind**: 15.10 km/h, 250°, *WSW*
+**Wind**: 15.10 km/h, 240°, *WSW*
 
-**Pressure**: 1011.00 mb
+**Pressure**: 1010.00 mb
 
-**Updated at**: 2023-09-16 10:00 (GMT+7)<!-- WEATHER:END -->
+**Updated at**: 2023-09-16 12:00 (GMT+7)<!-- WEATHER:END -->
