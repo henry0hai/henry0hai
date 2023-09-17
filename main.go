@@ -129,7 +129,7 @@ func main() {
 
 	currentData, err := os.ReadFile("README.md")
 	if err != nil {
-		log.Fatalf("Error reading the template file: %v", err)
+		log.Fatalf("Error reading the current file: %v", err)
 	}
 	updateForecastWeather(string(currentData), weather)
 }
@@ -158,52 +158,55 @@ func updateCurrentWeather(template string, weather WeatherResponse) {
 		log.Fatal("Error find weather section in README.md.template")
 	}
 
-	location, _ := time.LoadLocation(weather.Location.TzID)
+	if weather.Location.TzID == "" || len(weather.Forecast.ForecastDay) == 0 {
+		log.Fatal("Error: Location or TzID is nil or No forecast data available")
+	} else {
+		location, _ := time.LoadLocation(weather.Location.TzID)
 
-	layout := "2006-01-02 15:04"
-	lastUpdated, _ := time.Parse(layout, weather.Current.LastUpdated)
+		layout := "2006-01-02 15:04"
+		lastUpdated, _ := time.Parse(layout, weather.Current.LastUpdated)
 
-	// Get the timezone offset in seconds.
-	_, offset := lastUpdated.In(location).Zone()
+		// Get the timezone offset in seconds.
+		_, offset := lastUpdated.In(location).Zone()
 
-	// Convert to hour
-	offsetHours := offset / 3600
+		// Convert to hour
+		offsetHours := offset / 3600
 
-	formattedTime := fmt.Sprintf("%s (GMT%+02d)", weather.Current.LastUpdated, offsetHours)
+		formattedTime := fmt.Sprintf("%s (GMT%+02d)", weather.Current.LastUpdated, offsetHours)
 
-	fmt.Printf("formattedTime: %v\n", formattedTime)
+		fmt.Printf("formattedTime: %v\n", formattedTime)
 
-	readme := template[:startIndex+len(CURRENT_WEATHER_START_TEMPLATE)] +
-		fmt.Sprintf(
-			generateCurrentWeatherString(),
-			weather.Location.Name,
-			time.Now().Format("02/01/2006"),
-			weather.Current.ShareAttribute.Condition.Text,
-			weather.Current.ShareAttribute.Condition.Icon,
-			weather.Current.ShareAttribute.TempC,
-			weather.Current.ShareAttribute.FeelslikeC,
-			weather.Current.ShareAttribute.Humidity,
-			weather.Current.ShareAttribute.WindKph,
-			weather.Current.ShareAttribute.WindDegree,
-			weather.Current.ShareAttribute.WindDir,
-			weather.Current.ShareAttribute.PressureMb,
-			weather.Forecast.ForecastDay[0].Astro.Sunrise,
-			weather.Forecast.ForecastDay[0].Astro.Sunset,
-			weather.Forecast.ForecastDay[0].Astro.MoonPhase,
-			weather.Forecast.ForecastDay[0].Astro.Moonrise,
-			weather.Forecast.ForecastDay[0].Astro.Moonset,
-			weather.Forecast.ForecastDay[0].Astro.MoonIllumination,
-			formattedTime,
-		) +
-		template[endIndex:]
+		readme := template[:startIndex+len(CURRENT_WEATHER_START_TEMPLATE)] +
+			fmt.Sprintf(
+				generateCurrentWeatherString(),
+				weather.Location.Name,
+				time.Now().Format("02/01/2006"),
+				weather.Current.ShareAttribute.Condition.Text,
+				weather.Current.ShareAttribute.Condition.Icon,
+				weather.Current.ShareAttribute.TempC,
+				weather.Current.ShareAttribute.FeelslikeC,
+				weather.Current.ShareAttribute.Humidity,
+				weather.Current.ShareAttribute.WindKph,
+				weather.Current.ShareAttribute.WindDegree,
+				weather.Current.ShareAttribute.WindDir,
+				weather.Current.ShareAttribute.PressureMb,
+				weather.Forecast.ForecastDay[0].Astro.Sunrise,
+				weather.Forecast.ForecastDay[0].Astro.Sunset,
+				weather.Forecast.ForecastDay[0].Astro.MoonPhase,
+				weather.Forecast.ForecastDay[0].Astro.Moonrise,
+				weather.Forecast.ForecastDay[0].Astro.Moonset,
+				weather.Forecast.ForecastDay[0].Astro.MoonIllumination,
+				formattedTime,
+			) +
+			template[endIndex:]
 
-	err := os.WriteFile("README.md", []byte(readme), 0644)
-	if err != nil {
-		fmt.Println("Error:", err)
-		os.Exit(1)
+		err := os.WriteFile("README.md", []byte(readme), 0644)
+		if err != nil {
+			log.Fatalf("Error [updateCurrentWeather] writeFile: %v", err)
+		}
+
+		fmt.Println("README.md updated successfully for current weather!")
 	}
-
-	fmt.Println("README.md updated successfully for current weather!")
 }
 
 // generates a string representing the current weather conditions.
@@ -237,8 +240,7 @@ func generateCurrentWeatherString() string {
 func getHoursAhead(hours int, weather WeatherResponse) WeatherResponse {
 	lastUpdated, err := time.Parse("2006-01-02 15:04", weather.Current.LastUpdated)
 	if err != nil {
-		fmt.Println("Error:", err)
-		os.Exit(1)
+		log.Fatalf("Error [getHoursAhead] time.Parse: %v", err)
 	}
 
 	hoursAheadTime := lastUpdated.Add(time.Duration(hours) * time.Hour)
@@ -256,8 +258,7 @@ func getHoursAhead(hours int, weather WeatherResponse) WeatherResponse {
 		for _, hour := range forecastDay.Hour {
 			hourTime, err := time.Parse("2006-01-02 15:04", hour.Time)
 			if err != nil {
-				fmt.Println("Error:", err)
-				os.Exit(1)
+				log.Fatalf("Error [getHoursAhead] time.Parse: %v", err)
 			}
 
 			if hourTime.After(lastUpdated) && hourTime.Before(hoursAheadTime) && hourCount < hours {
@@ -289,6 +290,10 @@ func updateForecastWeather(template string, weather WeatherResponse) {
 
 	customHours := getHoursAhead(6, weather)
 
+	if len(weather.Forecast.ForecastDay) == 0 {
+		log.Fatal("Error: No forecast data available")
+	}
+
 	fmt.Printf("customHours: %v\n", len(customHours.Forecast.ForecastDay[0].Hour))
 
 	// Generate the forecast weather table.
@@ -300,11 +305,11 @@ func updateForecastWeather(template string, weather WeatherResponse) {
 
 	err := os.WriteFile("README.md", []byte(readme), 0644)
 	if err != nil {
-		fmt.Println("Error:", err)
-		os.Exit(1)
+		log.Fatalf("Error - [updateForecastWeather] - writeFile: %v", err)
 	}
 
 	fmt.Println("README.md updated successfully for forecast weather!")
+
 }
 
 // func generateForecastWeatherTable(weather WeatherResponse) string {
@@ -315,8 +320,7 @@ func updateForecastWeather(template string, weather WeatherResponse) {
 // 		for _, hour := range forecastDay.Hour {
 // 			hourTime, err := time.Parse("2006-01-02 15:04", hour.Time)
 // 			if err != nil {
-// 				fmt.Println("Error:", err)
-// 				os.Exit(1)
+// 				log.Fatalf("Error: %v", err)
 // 			}
 // 			formattedTime := hourTime.Format("15:04")
 
@@ -352,8 +356,7 @@ func generateForecastWeatherTable(weather WeatherResponse) string {
 		for _, hour := range forecastDay.Hour {
 			hourTime, err := time.Parse("2006-01-02 15:04", hour.Time)
 			if err != nil {
-				fmt.Println("Error:", err)
-				os.Exit(1)
+				log.Fatalf("Error [generateForecastWeatherTable] - time.Parse: %v", err)
 			}
 			formattedTime := hourTime.Format("15:04")
 
