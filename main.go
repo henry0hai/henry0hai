@@ -264,7 +264,7 @@ func getHoursAhead(hours int, weather WeatherResponse) WeatherResponse {
 			if hourTime.After(lastUpdated) && hourTime.Before(hoursAheadTime) && hourCount < hours {
 				newForecastDay.Hour = append(newForecastDay.Hour, hour)
 				hourCount++
-				fmt.Println("hourCount:", hourCount)
+				// fmt.Println("hourCount:", hourCount)
 			}
 		}
 
@@ -290,11 +290,11 @@ func updateForecastWeather(template string, weather WeatherResponse) {
 
 	customHours := getHoursAhead(6, weather)
 
-	if len(weather.Forecast.ForecastDay) == 0 {
+	if len(weather.Forecast.ForecastDay) == 0 || len(weather.Forecast.ForecastDay[0].Hour) == 0 {
 		log.Fatal("Error: No forecast data available")
-	}
+	} 
 
-	fmt.Printf("customHours: %v\n", len(customHours.Forecast.ForecastDay[0].Hour))
+	// fmt.Printf("customHours: %v\n", len(customHours.Forecast.ForecastDay[0].Hour))
 
 	// Generate the forecast weather table.
 	table := generateForecastWeatherTable(customHours)
@@ -362,7 +362,7 @@ func generateForecastWeatherTable(weather WeatherResponse) string {
 
 			chanceOfRain := fmt.Sprintf("%v %%", hour.ChanceOfRain)
 			if hour.ChanceOfRain > 75 {
-				chanceOfRain = fmt.Sprintf("🌧️ %v %%", hour.ChanceOfRain)
+				chanceOfRain = fmt.Sprintf("%v %% 🌧️", hour.ChanceOfRain)
 			}
 
 			table += fmt.Sprintf(`
