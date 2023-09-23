@@ -23,13 +23,13 @@ I'm Henry Hai - a Full Stack Developer!
 <!-- CURRENT_WEATHER:START -->
 **Current City**: Ho Chi Minh City - *23/09/2023*
 
-**Condition**: Partly cloudy, <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
+**Condition**: Moderate rain, <img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
 
-**Current temperature**: 29.00 °C, **Feels like**: 32.30 °C, **Humidity**: 89%
+**Current temperature**: 27.00 °C, **Feels like**: 28.80 °C, **Humidity**: 94%
 
-**Wind**: 3.60 km/h, 235°, *SW*
+**Wind**: 6.80 km/h, 310°, *NW*
 
-**Pressure**: 1011.00 mb
+**Pressure**: 1010.00 mb
 
 **Sunrise**: 05:43 AM
 
@@ -43,7 +43,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 52
 
-**Updated at**: 2023-09-23 10:00 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2023-09-23 11:15 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -57,15 +57,6 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Wind</th>
 			<th>Chance of Rain</th>
 		</tr>
-				<tr>
-					<td>11:00</td>
-					<td>Light rain shower</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/353.png'/></td>
-					<td>31.10 °C</td>
-					<td>36.40 °C</td>
-					<td>6.80 km/h</td>
-					<td>77 % 🌧️</td>
-				</tr>
 				<tr>
 					<td>12:00</td>
 					<td>Light rain shower</td>
@@ -101,6 +92,24 @@ I'm Henry Hai - a Full Stack Developer!
 					<td>36.00 °C</td>
 					<td>6.80 km/h</td>
 					<td>93 % 🌧️</td>
+				</tr>
+				<tr>
+					<td>16:00</td>
+					<td>Light rain shower</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/353.png'/></td>
+					<td>29.40 °C</td>
+					<td>34.50 °C</td>
+					<td>7.90 km/h</td>
+					<td>69 %</td>
+				</tr>
+				<tr>
+					<td>17:00</td>
+					<td>Moderate or heavy rain shower</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/356.png'/></td>
+					<td>27.40 °C</td>
+					<td>31.80 °C</td>
+					<td>7.60 km/h</td>
+					<td>92 % 🌧️</td>
 				</tr>
 </table>
 <!-- FORECAST_WEATHER:END -->
