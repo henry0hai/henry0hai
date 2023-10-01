@@ -23,13 +23,13 @@ I'm Henry Hai - a Full Stack Developer!
 <!-- CURRENT_WEATHER:START -->
 **Current City**: Ho Chi Minh City - *01/10/2023*
 
-**Condition**: Partly cloudy, <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
+**Condition**: Light rain, <img src="https://cdn.weatherapi.com/weather/64x64/night/296.png"/>
 
-**Current temperature**: 25.00 °C, **Feels like**: 27.90 °C, **Humidity**: 100%
+**Current temperature**: 25.00 °C, **Feels like**: 28.00 °C, **Humidity**: 100%
 
-**Wind**: 6.10 km/h, 270°, *W*
+**Wind**: 4.00 km/h, 250°, *WSW*
 
-**Pressure**: 1010.00 mb
+**Pressure**: 1008.00 mb
 
 **Sunrise**: 05:42 AM
 
@@ -43,7 +43,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 91
 
-**Updated at**: 2023-10-02 02:00 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2023-10-02 03:15 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -57,15 +57,6 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Wind</th>
 			<th>Chance of Rain</th>
 		</tr>
-				<tr>
-					<td>03:00</td>
-					<td>Cloudy</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/119.png'/></td>
-					<td>25.40 °C</td>
-					<td>28.60 °C</td>
-					<td>6.50 km/h</td>
-					<td>0 %</td>
-				</tr>
 				<tr>
 					<td>04:00</td>
 					<td>Moderate or heavy rain shower</td>
@@ -101,6 +92,24 @@ I'm Henry Hai - a Full Stack Developer!
 					<td>29.40 °C</td>
 					<td>6.80 km/h</td>
 					<td>66 %</td>
+				</tr>
+				<tr>
+					<td>08:00</td>
+					<td>Moderate or heavy rain shower</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/356.png'/></td>
+					<td>26.20 °C</td>
+					<td>29.60 °C</td>
+					<td>5.80 km/h</td>
+					<td>93 % 🌧️</td>
+				</tr>
+				<tr>
+					<td>09:00</td>
+					<td>Light rain shower</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/353.png'/></td>
+					<td>26.10 °C</td>
+					<td>29.40 °C</td>
+					<td>2.90 km/h</td>
+					<td>93 % 🌧️</td>
 				</tr>
 </table>
 <!-- FORECAST_WEATHER:END -->
