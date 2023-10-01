@@ -23,13 +23,13 @@ I'm Henry Hai - a Full Stack Developer!
 <!-- CURRENT_WEATHER:START -->
 **Current City**: Ho Chi Minh City - *01/10/2023*
 
-**Condition**: Moderate rain, <img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
+**Condition**: Torrential rain shower, <img src="https://cdn.weatherapi.com/weather/64x64/day/359.png"/>
 
-**Current temperature**: 32.00 °C, **Feels like**: 38.40 °C, **Humidity**: 75%
+**Current temperature**: 30.00 °C, **Feels like**: 34.10 °C, **Humidity**: 89%
 
-**Wind**: 11.20 km/h, 300°, *WNW*
+**Wind**: 15.10 km/h, 270°, *W*
 
-**Pressure**: 1009.00 mb
+**Pressure**: 1007.00 mb
 
 **Sunrise**: 05:42 AM
 
@@ -43,7 +43,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 96
 
-**Updated at**: 2023-10-01 12:00 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2023-10-01 13:15 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -57,15 +57,6 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Wind</th>
 			<th>Chance of Rain</th>
 		</tr>
-				<tr>
-					<td>13:00</td>
-					<td>Light rain shower</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/353.png'/></td>
-					<td>31.40 °C</td>
-					<td>37.30 °C</td>
-					<td>14.00 km/h</td>
-					<td>90 % 🌧️</td>
-				</tr>
 				<tr>
 					<td>14:00</td>
 					<td>Moderate or heavy rain shower</td>
@@ -101,6 +92,24 @@ I'm Henry Hai - a Full Stack Developer!
 					<td>35.40 °C</td>
 					<td>7.20 km/h</td>
 					<td>87 % 🌧️</td>
+				</tr>
+				<tr>
+					<td>18:00</td>
+					<td>Patchy rain possible</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/176.png'/></td>
+					<td>28.00 °C</td>
+					<td>32.30 °C</td>
+					<td>5.40 km/h</td>
+					<td>88 % 🌧️</td>
+				</tr>
+				<tr>
+					<td>19:00</td>
+					<td>Patchy rain possible</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/176.png'/></td>
+					<td>27.50 °C</td>
+					<td>31.60 °C</td>
+					<td>5.40 km/h</td>
+					<td>68 %</td>
 				</tr>
 </table>
 <!-- FORECAST_WEATHER:END -->
