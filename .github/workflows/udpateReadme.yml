@@ -16,7 +16,13 @@ jobs:
         uses: actions/setup-go@v4
         with:
           go-version: 1.16
-
+          
+      - name: Use variables
+        run: |
+          echo "checking variable : $TEST_VARIABLE_1"
+        env:
+          TEST_VARIABLE_1: ${{ vars.TEST_VARIABLE_1 }}
+        
       - name: Run Go code
         run: go run main.go
         env:
