@@ -27,23 +27,23 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Current temperature**: 25.00 °C, **Feels like**: 27.90 °C, **Humidity**: 100%
 
-**Wind**: 3.60 km/h, 147°, *SSE*
+**Wind**: 3.60 km/h, 136°, *SE*
 
-**Pressure**: 1014.00 mb
+**Pressure**: 1013.00 mb
 
 **Sunrise**: 05:42 AM
 
-**Sunset**: 05:38 PM
+**Sunset**: 05:37 PM
 
 **Moon Phase**: Waning Crescent
 
-**Moon Rise**: 03:41 AM
+**Moon Rise**: 04:25 AM
 
-**Moon Set**: 04:11 PM
+**Moon Set**: 04:46 PM
 
-**Moon Illumination**: 7
+**Moon Illumination**: 3
 
-**Updated at**: 2023-10-12 23:15 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2023-10-13 00:00 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -57,5 +57,50 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Wind</th>
 			<th>Chance of Rain</th>
 		</tr>
+				<tr>
+					<td>01:00</td>
+					<td>Partly cloudy</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/116.png'/></td>
+					<td>25.00 °C</td>
+					<td>28.80 °C</td>
+					<td>3.60 km/h</td>
+					<td>71 %</td>
+				</tr>
+				<tr>
+					<td>02:00</td>
+					<td>Partly cloudy</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/116.png'/></td>
+					<td>25.40 °C</td>
+					<td>28.70 °C</td>
+					<td>7.20 km/h</td>
+					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>03:00</td>
+					<td>Patchy rain possible</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/176.png'/></td>
+					<td>25.40 °C</td>
+					<td>28.50 °C</td>
+					<td>5.80 km/h</td>
+					<td>69 %</td>
+				</tr>
+				<tr>
+					<td>04:00</td>
+					<td>Partly cloudy</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/116.png'/></td>
+					<td>25.50 °C</td>
+					<td>28.60 °C</td>
+					<td>5.40 km/h</td>
+					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>05:00</td>
+					<td>Partly cloudy</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/116.png'/></td>
+					<td>25.40 °C</td>
+					<td>28.40 °C</td>
+					<td>4.70 km/h</td>
+					<td>0 %</td>
+				</tr>
 </table>
 <!-- FORECAST_WEATHER:END -->
