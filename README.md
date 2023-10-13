@@ -23,13 +23,13 @@ I'm Henry Hai - a Full Stack Developer!
 <!-- CURRENT_WEATHER:START -->
 **Current City**: Ho Chi Minh City - *13/10/2023*
 
-**Condition**: Light rain, <img src="https://cdn.weatherapi.com/weather/64x64/day/296.png"/>
+**Condition**: Partly cloudy, <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
 
-**Current temperature**: 28.00 °C, **Feels like**: 29.50 °C, **Humidity**: 89%
+**Current temperature**: 30.00 °C, **Feels like**: 32.50 °C, **Humidity**: 89%
 
-**Wind**: 3.60 km/h, 282°, *WNW*
+**Wind**: 6.10 km/h, 220°, *SW*
 
-**Pressure**: 1010.00 mb
+**Pressure**: 1008.00 mb
 
 **Sunrise**: 05:42 AM
 
@@ -43,7 +43,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 3
 
-**Updated at**: 2023-10-13 14:00 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2023-10-13 15:15 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -57,15 +57,6 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Wind</th>
 			<th>Chance of Rain</th>
 		</tr>
-				<tr>
-					<td>15:00</td>
-					<td>Partly cloudy</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/116.png'/></td>
-					<td>32.80 °C</td>
-					<td>38.10 °C</td>
-					<td>6.10 km/h</td>
-					<td>0 %</td>
-				</tr>
 				<tr>
 					<td>16:00</td>
 					<td>Patchy rain possible</td>
@@ -101,6 +92,24 @@ I'm Henry Hai - a Full Stack Developer!
 					<td>30.70 °C</td>
 					<td>10.10 km/h</td>
 					<td>80 % 🌧️</td>
+				</tr>
+				<tr>
+					<td>20:00</td>
+					<td>Patchy rain possible</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/176.png'/></td>
+					<td>26.80 °C</td>
+					<td>30.50 °C</td>
+					<td>9.00 km/h</td>
+					<td>81 % 🌧️</td>
+				</tr>
+				<tr>
+					<td>21:00</td>
+					<td>Patchy rain possible</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/176.png'/></td>
+					<td>26.40 °C</td>
+					<td>30.00 °C</td>
+					<td>8.30 km/h</td>
+					<td>88 % 🌧️</td>
 				</tr>
 </table>
 <!-- FORECAST_WEATHER:END -->
