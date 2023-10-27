@@ -97,17 +97,22 @@ type AirQuality struct {
 	GbDefraIndex int     `json:"gb_defra_index"`
 }
 
+var API_KEY string
+var TEST_VAR_1 string
+
+func init() {
+	API_KEY = getEnvVar("WEATHER_API_KEY")
+	TEST_VAR_1 = getEnvVar("TEST_VARIABLE_1")
+}
+
 func main() {
-	apiKey := getEnvVar("WEATHER_API_KEY")
 
-	testVar := getEnvVar("TEST_VARIABLE_1")
-
-	fmt.Printf("testVar: %s\n", testVar)
+	fmt.Printf("testVar: %s\n", TEST_VAR_1)
 
 	baseUrl := "https://api.weatherapi.com/v1/forecast.json"
 
 	queryParams := url.Values{
-		"key":  []string{apiKey},
+		"key":  []string{API_KEY},
 		"q":    []string{"Ho Chi Minh City"},
 		"days": []string{"1"},
 		"aqi":  []string{"yes"},
