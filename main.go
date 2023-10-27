@@ -64,12 +64,12 @@ type ForecastDay struct {
 		} `json:"condition"`
 	} `json:"day"`
 	Astro struct {
-		Sunrise          string `json:"sunrise"`
-		Sunset           string `json:"sunset"`
-		Moonrise         string `json:"moonrise"`
-		Moonset          string `json:"moonset"`
-		MoonPhase        string `json:"moon_phase"`
-		MoonIllumination string `json:"moon_illumination"`
+		Sunrise          string      `json:"sunrise"`
+		Sunset           string      `json:"sunset"`
+		Moonrise         string      `json:"moonrise"`
+		Moonset          string      `json:"moonset"`
+		MoonPhase        string      `json:"moon_phase"`
+		MoonIllumination json.Number `json:"moon_illumination"`
 	} `json:"astro"`
 	Hour []Hour `json:"hour"`
 }
@@ -99,6 +99,11 @@ type AirQuality struct {
 
 func main() {
 	apiKey := getEnvVar("WEATHER_API_KEY")
+
+	testVar := getEnvVar("TEST_VARIABLE_1")
+
+	fmt.Printf("testVar: %s\n", testVar)
+
 	baseUrl := "https://api.weatherapi.com/v1/forecast.json"
 
 	queryParams := url.Values{
@@ -292,7 +297,7 @@ func updateForecastWeather(template string, weather WeatherResponse) {
 
 	if len(weather.Forecast.ForecastDay) == 0 || len(weather.Forecast.ForecastDay[0].Hour) == 0 {
 		log.Fatal("Error: No forecast data available")
-	} 
+	}
 
 	// fmt.Printf("customHours: %v\n", len(customHours.Forecast.ForecastDay[0].Hour))
 
