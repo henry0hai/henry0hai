@@ -8,6 +8,8 @@ jobs:
   update-readme:
     permissions: write-all
     runs-on: ubuntu-latest
+    env:  
+      TEST_VARIABLE_1: ${{ vars.TEST_VARIABLE_1 }} 
     steps:
       - name: Check out code
         uses: actions/checkout@v4
@@ -16,12 +18,10 @@ jobs:
         uses: actions/setup-go@v4
         with:
           go-version: 1.16
-          
+
       - name: Use variables
         run: |
           echo "checking variable : $TEST_VARIABLE_1"
-        env:
-          TEST_VARIABLE_1: ${{ vars.TEST_VARIABLE_1 }}
         
       - name: Run Go code
         run: go run main.go
@@ -36,3 +36,4 @@ jobs:
           git add .
           git commit -m "Update README with latest weather data"
           git push -u origin master 
+    
