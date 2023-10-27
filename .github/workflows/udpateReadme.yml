@@ -10,6 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     env:  
       TEST_VARIABLE_1: ${{ vars.TEST_VARIABLE_1 }} 
+      LOCATION: ${{ vars.LOCATION }} 
     steps:
       - name: Check out code
         uses: actions/checkout@v4
@@ -19,9 +20,10 @@ jobs:
         with:
           go-version: 1.16
 
-      - name: Use variables
+      - name: Check variables
         run: |
-          echo "checking variable : $TEST_VARIABLE_1"
+          echo "checking TEST_VARIABLE_1 : $TEST_VARIABLE_1"
+          echo "checking LOCATION : $LOCATION"
         
       - name: Run Go code
         run: go run main.go

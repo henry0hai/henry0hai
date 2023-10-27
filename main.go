@@ -99,21 +99,24 @@ type AirQuality struct {
 
 var API_KEY string
 var TEST_VAR_1 string
+var LOCATION string
 
 func init() {
 	API_KEY = getEnvVar("WEATHER_API_KEY")
 	TEST_VAR_1 = getEnvVar("TEST_VARIABLE_1")
+	LOCATION = getEnvVar("LOCATION")
 }
 
 func main() {
 
 	fmt.Printf("testVar: %s\n", TEST_VAR_1)
+	fmt.Printf("LOCATION: %s\n", LOCATION)
 
 	baseUrl := "https://api.weatherapi.com/v1/forecast.json"
 
 	queryParams := url.Values{
 		"key":  []string{API_KEY},
-		"q":    []string{"Ho Chi Minh City"},
+		"q":    []string{LOCATION},
 		"days": []string{"1"},
 		"aqi":  []string{"yes"},
 	}
