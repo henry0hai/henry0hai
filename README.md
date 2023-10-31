@@ -21,15 +21,15 @@ I'm Henry Hai - a Full Stack Developer!
 [![Update README](https://github.com/henry0hai/henry0hai/actions/workflows/udpateReadme.yml/badge.svg)](https://github.com/henry0hai/henry0hai/actions/workflows/udpateReadme.yml)
 (Update every **hour**)
 <!-- CURRENT_WEATHER:START -->
-**Current City**: Ho Chi Minh City - *30/10/2023*
+**Current City**: Ho Chi Minh City - *31/10/2023*
 
 **Condition**: Partly cloudy, <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
 
-**Current temperature**: 25.00 °C, **Feels like**: 28.00 °C, **Humidity**: 94%
+**Current temperature**: 27.60 °C, **Feels like**: 31.60 °C, **Humidity**: 80%
 
-**Wind**: 3.60 km/h, 10°, *N*
+**Wind**: 8.60 km/h, 357°, *N*
 
-**Pressure**: 1010.00 mb
+**Pressure**: 1012.00 mb
 
 **Sunrise**: 05:45 AM
 
@@ -43,7 +43,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 94
 
-**Updated at**: 2023-10-31 06:00 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2023-10-31 08:00 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -57,24 +57,6 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Wind</th>
 			<th>Chance of Rain</th>
 		</tr>
-				<tr>
-					<td>07:00</td>
-					<td>Partly cloudy</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/116.png'/></td>
-					<td>26.10 °C</td>
-					<td>29.40 °C</td>
-					<td>7.60 km/h</td>
-					<td>0 %</td>
-				</tr>
-				<tr>
-					<td>08:00</td>
-					<td>Partly cloudy</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/116.png'/></td>
-					<td>27.60 °C</td>
-					<td>31.60 °C</td>
-					<td>8.60 km/h</td>
-					<td>0 %</td>
-				</tr>
 				<tr>
 					<td>09:00</td>
 					<td>Sunny</td>
@@ -101,6 +83,24 @@ I'm Henry Hai - a Full Stack Developer!
 					<td>37.30 °C</td>
 					<td>7.90 km/h</td>
 					<td>61 %</td>
+				</tr>
+				<tr>
+					<td>12:00</td>
+					<td>Patchy rain possible</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/176.png'/></td>
+					<td>32.70 °C</td>
+					<td>38.40 °C</td>
+					<td>7.20 km/h</td>
+					<td>66 %</td>
+				</tr>
+				<tr>
+					<td>13:00</td>
+					<td>Moderate or heavy rain shower</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/356.png'/></td>
+					<td>32.50 °C</td>
+					<td>38.30 °C</td>
+					<td>3.20 km/h</td>
+					<td>73 %</td>
 				</tr>
 </table>
 <!-- FORECAST_WEATHER:END -->
