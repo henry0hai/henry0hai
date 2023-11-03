@@ -25,11 +25,11 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Condition**: Partly cloudy, <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
 
-**Current temperature**: 29.00 °C, **Feels like**: 32.30 °C, **Humidity**: 94%
+**Current temperature**: 32.00 °C, **Feels like**: 37.90 °C, **Humidity**: 75%
 
-**Wind**: 3.60 km/h, 316°, *NW*
+**Wind**: 3.60 km/h, 299°, *WNW*
 
-**Pressure**: 1011.00 mb
+**Pressure**: 1010.00 mb
 
 **Sunrise**: 05:45 AM
 
@@ -43,7 +43,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 72
 
-**Updated at**: 2023-11-03 10:00 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2023-11-03 11:15 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -57,15 +57,6 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Wind</th>
 			<th>Chance of Rain</th>
 		</tr>
-				<tr>
-					<td>11:00</td>
-					<td>Patchy rain possible</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/176.png'/></td>
-					<td>31.80 °C</td>
-					<td>37.50 °C</td>
-					<td>5.40 km/h</td>
-					<td>67 %</td>
-				</tr>
 				<tr>
 					<td>12:00</td>
 					<td>Patchy rain possible</td>
@@ -101,6 +92,24 @@ I'm Henry Hai - a Full Stack Developer!
 					<td>36.60 °C</td>
 					<td>2.90 km/h</td>
 					<td>61 %</td>
+				</tr>
+				<tr>
+					<td>16:00</td>
+					<td>Patchy light rain with thunder</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/386.png'/></td>
+					<td>30.30 °C</td>
+					<td>36.10 °C</td>
+					<td>5.80 km/h</td>
+					<td>78 % 🌧️</td>
+				</tr>
+				<tr>
+					<td>17:00</td>
+					<td>Patchy rain possible</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/176.png'/></td>
+					<td>28.50 °C</td>
+					<td>33.30 °C</td>
+					<td>8.60 km/h</td>
+					<td>72 %</td>
 				</tr>
 </table>
 <!-- FORECAST_WEATHER:END -->
