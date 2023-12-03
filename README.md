@@ -27,23 +27,23 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Current temperature**: 27.00 °C, **Feels like**: 31.30 °C, **Humidity**: 94%
 
-**Wind**: 6.10 km/h, 140°, *SE*
+**Wind**: 3.60 km/h, 91°, *E*
 
 **Pressure**: 1012.00 mb
 
 **Sunrise**: 05:57 AM
 
-**Sunset**: 05:29 PM
+**Sunset**: 05:30 PM
 
 **Moon Phase**: Waning Gibbous
 
-**Moon Rise**: 10:42 PM
+**Moon Rise**: 11:29 PM
 
-**Moon Set**: 10:50 AM
+**Moon Set**: 11:30 AM
 
-**Moon Illumination**: 71
+**Moon Illumination**: 62
 
-**Updated at**: 2023-12-03 23:15 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2023-12-04 00:00 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -57,5 +57,50 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Wind</th>
 			<th>Chance of Rain</th>
 		</tr>
+				<tr>
+					<td>01:00</td>
+					<td>Partly cloudy</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/116.png'/></td>
+					<td>27.00 °C</td>
+					<td>27.20 °C</td>
+					<td>3.60 km/h</td>
+					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>02:00</td>
+					<td>Partly cloudy</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/116.png'/></td>
+					<td>24.70 °C</td>
+					<td>27.10 °C</td>
+					<td>5.00 km/h</td>
+					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>03:00</td>
+					<td>Partly cloudy</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/116.png'/></td>
+					<td>24.50 °C</td>
+					<td>26.90 °C</td>
+					<td>5.80 km/h</td>
+					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>04:00</td>
+					<td>Partly cloudy</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/116.png'/></td>
+					<td>24.30 °C</td>
+					<td>26.70 °C</td>
+					<td>6.80 km/h</td>
+					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>05:00</td>
+					<td>Partly cloudy</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/116.png'/></td>
+					<td>24.20 °C</td>
+					<td>26.60 °C</td>
+					<td>7.60 km/h</td>
+					<td>0 %</td>
+				</tr>
 </table>
 <!-- FORECAST_WEATHER:END -->
