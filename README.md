@@ -22,15 +22,15 @@ I'm Henry Hai - a Full Stack Developer!
 [![Update README](https://github.com/henry0hai/henry0hai/actions/workflows/udpateReadme.yml/badge.svg)](https://github.com/henry0hai/henry0hai/actions/workflows/udpateReadme.yml)
 (Update every **hour**)
 <!-- CURRENT_WEATHER:START -->
-**Current City**: Ho Chi Minh City - *24/12/2023*
+**Current City**: Ho Chi Minh City - *25/12/2023*
 
-**Condition**: Partly cloudy, <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
+**Condition**: Sunny, <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
 
-**Current temperature**: 24.00 °C, **Feels like**: 25.70 °C, **Humidity**: 78%
+**Current temperature**: 24.70 °C, **Feels like**: 26.00 °C, **Humidity**: 63%
 
-**Wind**: 6.80 km/h, 10°, *N*
+**Wind**: 13.30 km/h, 14°, *NNE*
 
-**Pressure**: 1014.00 mb
+**Pressure**: 1015.00 mb
 
 **Sunrise**: 06:08 AM
 
@@ -44,7 +44,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 96
 
-**Updated at**: 2023-12-25 06:15 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2023-12-25 08:00 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -58,24 +58,6 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Wind</th>
 			<th>Chance of Rain</th>
 		</tr>
-				<tr>
-					<td>07:00</td>
-					<td>Sunny</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/113.png'/></td>
-					<td>23.00 °C</td>
-					<td>25.00 °C</td>
-					<td>10.40 km/h</td>
-					<td>0 %</td>
-				</tr>
-				<tr>
-					<td>08:00</td>
-					<td>Sunny</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/113.png'/></td>
-					<td>24.70 °C</td>
-					<td>26.00 °C</td>
-					<td>13.30 km/h</td>
-					<td>0 %</td>
-				</tr>
 				<tr>
 					<td>09:00</td>
 					<td>Sunny</td>
@@ -110,6 +92,15 @@ I'm Henry Hai - a Full Stack Developer!
 					<td>31.00 °C</td>
 					<td>32.30 °C</td>
 					<td>10.10 km/h</td>
+					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>13:00</td>
+					<td>Cloudy</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/119.png'/></td>
+					<td>32.00 °C</td>
+					<td>33.50 °C</td>
+					<td>8.30 km/h</td>
 					<td>0 %</td>
 				</tr>
 </table>
