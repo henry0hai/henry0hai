@@ -26,25 +26,25 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Condition**: Partly cloudy, <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
 
-**Current temperature**: 27.00 °C, **Feels like**: 29.60 °C, **Humidity**: 84%
+**Current temperature**: 27.00 °C, **Feels like**: 29.50 °C, **Humidity**: 84%
 
-**Wind**: 3.60 km/h, 300°, *WNW*
+**Wind**: 3.60 km/h, 322°, *NW*
 
 **Pressure**: 1016.00 mb
 
-**Sunrise**: 06:08 AM
+**Sunrise**: 06:09 AM
 
 **Sunset**: 05:39 PM
 
 **Moon Phase**: Full Moon
 
-**Moon Rise**: 04:59 PM
+**Moon Rise**: 05:55 PM
 
-**Moon Set**: 05:18 AM
+**Moon Set**: 06:14 AM
 
-**Moon Illumination**: 99
+**Moon Illumination**: 100
 
-**Updated at**: 2023-12-26 23:15 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2023-12-27 00:00 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -58,5 +58,50 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Wind</th>
 			<th>Chance of Rain</th>
 		</tr>
+				<tr>
+					<td>01:00</td>
+					<td>Partly cloudy</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/116.png'/></td>
+					<td>27.00 °C</td>
+					<td>26.70 °C</td>
+					<td>3.60 km/h</td>
+					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>02:00</td>
+					<td>Clear</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/113.png'/></td>
+					<td>24.50 °C</td>
+					<td>26.10 °C</td>
+					<td>8.30 km/h</td>
+					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>03:00</td>
+					<td>Clear</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/113.png'/></td>
+					<td>24.00 °C</td>
+					<td>25.60 °C</td>
+					<td>7.60 km/h</td>
+					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>04:00</td>
+					<td>Clear</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/113.png'/></td>
+					<td>23.60 °C</td>
+					<td>25.30 °C</td>
+					<td>5.80 km/h</td>
+					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>05:00</td>
+					<td>Clear</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/113.png'/></td>
+					<td>23.30 °C</td>
+					<td>25.10 °C</td>
+					<td>4.30 km/h</td>
+					<td>0 %</td>
+				</tr>
 </table>
 <!-- FORECAST_WEATHER:END -->
