@@ -22,15 +22,15 @@ I'm Henry Hai - a Full Stack Developer!
 [![Update README](https://github.com/henry0hai/henry0hai/actions/workflows/udpateReadme.yml/badge.svg)](https://github.com/henry0hai/henry0hai/actions/workflows/udpateReadme.yml)
 (Update every **hour**)
 <!-- CURRENT_WEATHER:START -->
-**Current City**: Ho Chi Minh City - *26/03/2024*
+**Current City**: Ho Chi Minh City - *27/03/2024*
 
 **Condition**: Sunny, <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
 
-**Current temperature**: 28.00 °C, **Feels like**: 30.90 °C, **Humidity**: 66%
+**Current temperature**: 29.70 °C, **Feels like**: 31.90 °C, **Humidity**: 56%
 
-**Wind**: 6.80 km/h, 80°, *E*
+**Wind**: 11.90 km/h, 63°, *ENE*
 
-**Pressure**: 1013.00 mb
+**Pressure**: 1015.00 mb
 
 **Sunrise**: 05:53 AM
 
@@ -44,7 +44,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 97
 
-**Updated at**: 2024-03-27 06:15 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2024-03-27 08:00 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -58,24 +58,6 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Wind</th>
 			<th>Chance of Rain</th>
 		</tr>
-				<tr>
-					<td>07:00</td>
-					<td>Sunny</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/113.png'/></td>
-					<td>27.70 °C</td>
-					<td>29.80 °C</td>
-					<td>10.10 km/h</td>
-					<td>0 %</td>
-				</tr>
-				<tr>
-					<td>08:00</td>
-					<td>Sunny</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/113.png'/></td>
-					<td>29.70 °C</td>
-					<td>31.90 °C</td>
-					<td>11.90 km/h</td>
-					<td>0 %</td>
-				</tr>
 				<tr>
 					<td>09:00</td>
 					<td>Sunny</td>
@@ -110,6 +92,15 @@ I'm Henry Hai - a Full Stack Developer!
 					<td>37.30 °C</td>
 					<td>39.60 °C</td>
 					<td>7.90 km/h</td>
+					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>13:00</td>
+					<td>Sunny</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/113.png'/></td>
+					<td>39.00 °C</td>
+					<td>41.30 °C</td>
+					<td>4.00 km/h</td>
 					<td>0 %</td>
 				</tr>
 </table>
