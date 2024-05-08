@@ -28,7 +28,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Current temperature**: 30.00 °C, **Feels like**: 35.10 °C, **Humidity**: 79%
 
-**Wind**: 19.10 km/h, 120°, *ESE*
+**Wind**: 16.90 km/h, 120°, *ESE*
 
 **Pressure**: 1008.00 mb
 
@@ -44,7 +44,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 1
 
-**Updated at**: 2024-05-09 04:15 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2024-05-09 05:00 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -58,15 +58,6 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Wind</th>
 			<th>Chance of Rain</th>
 		</tr>
-				<tr>
-					<td>05:00</td>
-					<td>Patchy light drizzle</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/263.png'/></td>
-					<td>29.00 °C</td>
-					<td>33.00 °C</td>
-					<td>15.10 km/h</td>
-					<td>100 % 🌧️</td>
-				</tr>
 				<tr>
 					<td>06:00</td>
 					<td>Patchy rain nearby</td>
