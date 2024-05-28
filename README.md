@@ -24,13 +24,13 @@ I'm Henry Hai - a Full Stack Developer!
 <!-- CURRENT_WEATHER:START -->
 **Current City**: Ho Chi Minh City - *28/05/2024*
 
-**Condition**: Patchy rain nearby, <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
+**Condition**: Partly cloudy, <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
 
-**Current temperature**: 29.10 °C, **Feels like**: 33.80 °C, **Humidity**: 75%
+**Current temperature**: 31.00 °C, **Feels like**: 38.20 °C, **Humidity**: 84%
 
-**Wind**: 10.10 km/h, 259°, *W*
+**Wind**: 9.00 km/h, 310°, *NW*
 
-**Pressure**: 1008.00 mb
+**Pressure**: 1009.00 mb
 
 **Sunrise**: 05:30 AM
 
@@ -44,7 +44,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 79
 
-**Updated at**: 2024-05-28 08:00 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2024-05-28 09:30 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -58,15 +58,6 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Wind</th>
 			<th>Chance of Rain</th>
 		</tr>
-				<tr>
-					<td>09:00</td>
-					<td>Partly Cloudy </td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/116.png'/></td>
-					<td>29.20 °C</td>
-					<td>33.70 °C</td>
-					<td>9.40 km/h</td>
-					<td>0 %</td>
-				</tr>
 				<tr>
 					<td>10:00</td>
 					<td>Partly Cloudy </td>
@@ -100,6 +91,24 @@ I'm Henry Hai - a Full Stack Developer!
 					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/113.png'/></td>
 					<td>32.80 °C</td>
 					<td>37.80 °C</td>
+					<td>7.90 km/h</td>
+					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>14:00</td>
+					<td>Partly Cloudy </td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/116.png'/></td>
+					<td>34.50 °C</td>
+					<td>39.90 °C</td>
+					<td>7.60 km/h</td>
+					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>15:00</td>
+					<td>Partly Cloudy </td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/116.png'/></td>
+					<td>35.40 °C</td>
+					<td>41.10 °C</td>
 					<td>7.90 km/h</td>
 					<td>0 %</td>
 				</tr>
