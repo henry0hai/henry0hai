@@ -26,11 +26,11 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Condition**: Partly cloudy, <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
 
-**Current temperature**: 28.00 °C, **Feels like**: 29.10 °C, **Humidity**: 79%
+**Current temperature**: 29.00 °C, **Feels like**: 31.00 °C, **Humidity**: 75%
 
-**Wind**: 15.10 km/h, 290°, *WNW*
+**Wind**: 9.00 km/h, 300°, *WNW*
 
-**Pressure**: 1009.00 mb
+**Pressure**: 1010.00 mb
 
 **Sunrise**: 05:31 AM
 
@@ -44,7 +44,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 29
 
-**Updated at**: 2024-06-12 19:30 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2024-06-12 20:15 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -59,39 +59,30 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Chance of Rain</th>
 		</tr>
 				<tr>
-					<td>20:00</td>
-					<td>Partly Cloudy </td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/116.png'/></td>
-					<td>31.10 °C</td>
-					<td>35.20 °C</td>
-					<td>11.20 km/h</td>
-					<td>0 %</td>
-				</tr>
-				<tr>
 					<td>21:00</td>
-					<td>Partly Cloudy </td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/116.png'/></td>
-					<td>30.50 °C</td>
-					<td>34.70 °C</td>
-					<td>12.60 km/h</td>
+					<td>Clear </td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/113.png'/></td>
+					<td>30.60 °C</td>
+					<td>34.90 °C</td>
+					<td>14.40 km/h</td>
 					<td>0 %</td>
 				</tr>
 				<tr>
 					<td>22:00</td>
 					<td>Clear </td>
 					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/113.png'/></td>
-					<td>29.80 °C</td>
-					<td>33.90 °C</td>
-					<td>13.00 km/h</td>
+					<td>29.90 °C</td>
+					<td>34.20 °C</td>
+					<td>13.70 km/h</td>
 					<td>0 %</td>
 				</tr>
 				<tr>
 					<td>23:00</td>
 					<td>Clear </td>
 					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/113.png'/></td>
-					<td>29.10 °C</td>
-					<td>33.00 °C</td>
-					<td>12.60 km/h</td>
+					<td>29.40 °C</td>
+					<td>33.40 °C</td>
+					<td>14.00 km/h</td>
 					<td>0 %</td>
 				</tr>
 </table>
