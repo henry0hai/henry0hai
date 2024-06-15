@@ -26,11 +26,11 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Condition**: Thundery outbreaks in nearby, <img src="https://cdn.weatherapi.com/weather/64x64/day/200.png"/>
 
-**Current temperature**: 36.30 °C, **Feels like**: 41.90 °C, **Humidity**: 44%
+**Current temperature**: 37.50 °C, **Feels like**: 43.10 °C, **Humidity**: 40%
 
-**Wind**: 8.30 km/h, 284°, *WNW*
+**Wind**: 8.60 km/h, 283°, *WNW*
 
-**Pressure**: 1006.00 mb
+**Pressure**: 1005.00 mb
 
 **Sunrise**: 05:32 AM
 
@@ -44,7 +44,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 57
 
-**Updated at**: 2024-06-15 11:15 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2024-06-15 12:15 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -58,15 +58,6 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Wind</th>
 			<th>Chance of Rain</th>
 		</tr>
-				<tr>
-					<td>12:00</td>
-					<td>Thundery outbreaks in nearby</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/200.png'/></td>
-					<td>37.50 °C</td>
-					<td>43.10 °C</td>
-					<td>8.60 km/h</td>
-					<td>0 %</td>
-				</tr>
 				<tr>
 					<td>13:00</td>
 					<td>Thundery outbreaks in nearby</td>
@@ -110,6 +101,15 @@ I'm Henry Hai - a Full Stack Developer!
 					<td>33.10 °C</td>
 					<td>38.70 °C</td>
 					<td>13.30 km/h</td>
+					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>18:00</td>
+					<td>Thundery outbreaks in nearby</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/200.png'/></td>
+					<td>32.10 °C</td>
+					<td>37.80 °C</td>
+					<td>15.50 km/h</td>
 					<td>0 %</td>
 				</tr>
 </table>
