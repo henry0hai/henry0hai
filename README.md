@@ -26,11 +26,11 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Condition**: Partly cloudy, <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
 
-**Current temperature**: 26.00 °C, **Feels like**: 28.90 °C, **Humidity**: 94%
+**Current temperature**: 26.20 °C, **Feels like**: 29.10 °C, **Humidity**: 94%
 
-**Wind**: 9.00 km/h, 40°, *NE*
+**Wind**: 9.00 km/h, 50°, *NE*
 
-**Pressure**: 1010.00 mb
+**Pressure**: 1009.00 mb
 
 **Sunrise**: 05:36 AM
 
@@ -44,7 +44,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 1
 
-**Updated at**: 2024-07-05 01:15 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2024-07-05 02:00 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -59,57 +59,48 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Chance of Rain</th>
 		</tr>
 				<tr>
-					<td>02:00</td>
-					<td>Partly Cloudy </td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/116.png'/></td>
-					<td>26.30 °C</td>
-					<td>29.50 °C</td>
-					<td>5.40 km/h</td>
-					<td>0 %</td>
-				</tr>
-				<tr>
 					<td>03:00</td>
 					<td>Partly Cloudy </td>
 					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/116.png'/></td>
-					<td>26.10 °C</td>
+					<td>26.20 °C</td>
 					<td>29.10 °C</td>
-					<td>4.00 km/h</td>
+					<td>2.90 km/h</td>
 					<td>0 %</td>
 				</tr>
 				<tr>
 					<td>04:00</td>
 					<td>Partly Cloudy </td>
 					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/116.png'/></td>
-					<td>25.90 °C</td>
-					<td>28.80 °C</td>
-					<td>5.40 km/h</td>
-					<td>0 %</td>
-				</tr>
-				<tr>
-					<td>05:00</td>
-					<td>Partly Cloudy </td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/116.png'/></td>
-					<td>26.00 °C</td>
-					<td>29.00 °C</td>
-					<td>4.70 km/h</td>
-					<td>0 %</td>
-				</tr>
-				<tr>
-					<td>06:00</td>
-					<td>Partly Cloudy </td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/116.png'/></td>
 					<td>26.10 °C</td>
 					<td>29.00 °C</td>
 					<td>4.00 km/h</td>
 					<td>0 %</td>
 				</tr>
 				<tr>
-					<td>07:00</td>
+					<td>05:00</td>
+					<td>Partly Cloudy </td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/116.png'/></td>
+					<td>25.90 °C</td>
+					<td>28.80 °C</td>
+					<td>4.00 km/h</td>
+					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>06:00</td>
 					<td>Partly Cloudy </td>
 					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/116.png'/></td>
-					<td>26.40 °C</td>
-					<td>29.50 °C</td>
-					<td>5.40 km/h</td>
+					<td>26.00 °C</td>
+					<td>29.00 °C</td>
+					<td>5.00 km/h</td>
+					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>07:00</td>
+					<td>Thundery outbreaks in nearby</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/200.png'/></td>
+					<td>26.60 °C</td>
+					<td>29.70 °C</td>
+					<td>4.70 km/h</td>
 					<td>0 %</td>
 				</tr>
 </table>
