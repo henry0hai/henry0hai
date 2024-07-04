@@ -24,11 +24,11 @@ I'm Henry Hai - a Full Stack Developer!
 <!-- CURRENT_WEATHER:START -->
 **Current City**: Ho Chi Minh City - *04/07/2024*
 
-**Condition**: Partly cloudy, <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
+**Condition**: Partly cloudy, <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
 
-**Current temperature**: 27.00 °C, **Feels like**: 30.00 °C, **Humidity**: 79%
+**Current temperature**: 26.10 °C, **Feels like**: 28.70 °C, **Humidity**: 84%
 
-**Wind**: 16.90 km/h, 240°, *WSW*
+**Wind**: 9.00 km/h, 230°, *SW*
 
 **Pressure**: 1009.00 mb
 
@@ -44,7 +44,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 5
 
-**Updated at**: 2024-07-04 18:15 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2024-07-04 19:30 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -59,48 +59,39 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Chance of Rain</th>
 		</tr>
 				<tr>
-					<td>19:00</td>
-					<td>Patchy rain nearby</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/176.png'/></td>
-					<td>27.50 °C</td>
-					<td>31.30 °C</td>
-					<td>6.50 km/h</td>
-					<td>100 % 🌧️</td>
-				</tr>
-				<tr>
 					<td>20:00</td>
-					<td>Thundery outbreaks in nearby</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/200.png'/></td>
-					<td>27.30 °C</td>
+					<td>Patchy light rain in area with thunder</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/386.png'/></td>
+					<td>27.40 °C</td>
 					<td>31.10 °C</td>
-					<td>6.10 km/h</td>
-					<td>0 %</td>
+					<td>5.00 km/h</td>
+					<td>100 % 🌧️</td>
 				</tr>
 				<tr>
 					<td>21:00</td>
 					<td>Thundery outbreaks in nearby</td>
 					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/200.png'/></td>
-					<td>27.10 °C</td>
+					<td>27.20 °C</td>
 					<td>30.80 °C</td>
-					<td>5.00 km/h</td>
+					<td>2.50 km/h</td>
 					<td>0 %</td>
 				</tr>
 				<tr>
 					<td>22:00</td>
 					<td>Thundery outbreaks in nearby</td>
 					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/200.png'/></td>
-					<td>26.90 °C</td>
-					<td>30.50 °C</td>
-					<td>5.80 km/h</td>
+					<td>27.10 °C</td>
+					<td>30.70 °C</td>
+					<td>3.20 km/h</td>
 					<td>0 %</td>
 				</tr>
 				<tr>
 					<td>23:00</td>
-					<td>Partly Cloudy </td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/116.png'/></td>
-					<td>26.70 °C</td>
-					<td>30.00 °C</td>
-					<td>5.40 km/h</td>
+					<td>Thundery outbreaks in nearby</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/200.png'/></td>
+					<td>27.00 °C</td>
+					<td>30.50 °C</td>
+					<td>3.60 km/h</td>
 					<td>0 %</td>
 				</tr>
 </table>
