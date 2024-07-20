@@ -24,13 +24,13 @@ I'm Henry Hai - a Full Stack Developer!
 <!-- CURRENT_WEATHER:START -->
 **Current City**: Ho Chi Minh City - *20/07/2024*
 
-**Condition**: Light rain, <img src="https://cdn.weatherapi.com/weather/64x64/day/296.png"/>
+**Condition**: Light rain, <img src="https://cdn.weatherapi.com/weather/64x64/night/296.png"/>
 
-**Current temperature**: 28.30 °C, **Feels like**: 35.70 °C, **Humidity**: 84%
+**Current temperature**: 27.10 °C, **Feels like**: 32.50 °C, **Humidity**: 94%
 
-**Wind**: 19.10 km/h, 250°, *WSW*
+**Wind**: 13.00 km/h, 220°, *SW*
 
-**Pressure**: 1006.00 mb
+**Pressure**: 1008.00 mb
 
 **Sunrise**: 05:40 AM
 
@@ -44,7 +44,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 97
 
-**Updated at**: 2024-07-20 18:00 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2024-07-20 19:15 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -59,48 +59,39 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Chance of Rain</th>
 		</tr>
 				<tr>
-					<td>19:00</td>
-					<td>Mist</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/143.png'/></td>
-					<td>24.70 °C</td>
-					<td>27.60 °C</td>
-					<td>6.50 km/h</td>
-					<td>0 %</td>
-				</tr>
-				<tr>
 					<td>20:00</td>
 					<td>Mist</td>
 					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/143.png'/></td>
 					<td>24.50 °C</td>
 					<td>27.30 °C</td>
-					<td>7.20 km/h</td>
+					<td>6.10 km/h</td>
 					<td>0 %</td>
 				</tr>
 				<tr>
 					<td>21:00</td>
-					<td>Partly Cloudy </td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/116.png'/></td>
-					<td>24.30 °C</td>
-					<td>26.90 °C</td>
-					<td>8.60 km/h</td>
+					<td>Mist</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/143.png'/></td>
+					<td>24.50 °C</td>
+					<td>27.30 °C</td>
+					<td>6.10 km/h</td>
 					<td>0 %</td>
 				</tr>
 				<tr>
 					<td>22:00</td>
 					<td>Mist</td>
 					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/143.png'/></td>
-					<td>24.00 °C</td>
-					<td>26.60 °C</td>
-					<td>8.30 km/h</td>
+					<td>24.50 °C</td>
+					<td>27.30 °C</td>
+					<td>5.00 km/h</td>
 					<td>0 %</td>
 				</tr>
 				<tr>
 					<td>23:00</td>
 					<td>Mist</td>
 					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/143.png'/></td>
-					<td>23.80 °C</td>
-					<td>26.40 °C</td>
-					<td>7.90 km/h</td>
+					<td>24.10 °C</td>
+					<td>26.90 °C</td>
+					<td>6.10 km/h</td>
 					<td>0 %</td>
 				</tr>
 </table>
