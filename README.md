@@ -24,13 +24,13 @@ I'm Henry Hai - a Full Stack Developer!
 <!-- CURRENT_WEATHER:START -->
 **Current City**: Ho Chi Minh City - *22/07/2024*
 
-**Condition**: Light rain shower, <img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"/>
+**Condition**: Patchy light rain in area with thunder, <img src="https://cdn.weatherapi.com/weather/64x64/day/386.png"/>
 
-**Current temperature**: 31.20 °C, **Feels like**: 36.70 °C, **Humidity**: 66%
+**Current temperature**: 28.50 °C, **Feels like**: 32.70 °C, **Humidity**: 76%
 
-**Wind**: 22.70 km/h, 247°, *WSW*
+**Wind**: 17.60 km/h, 246°, *WSW*
 
-**Pressure**: 1006.00 mb
+**Pressure**: 1007.00 mb
 
 **Sunrise**: 05:40 AM
 
@@ -44,7 +44,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 99
 
-**Updated at**: 2024-07-22 16:15 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2024-07-22 18:00 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -58,24 +58,6 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Wind</th>
 			<th>Chance of Rain</th>
 		</tr>
-				<tr>
-					<td>17:00</td>
-					<td>Patchy light rain in area with thunder</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/386.png'/></td>
-					<td>30.00 °C</td>
-					<td>34.90 °C</td>
-					<td>21.20 km/h</td>
-					<td>100 % 🌧️</td>
-				</tr>
-				<tr>
-					<td>18:00</td>
-					<td>Patchy light rain in area with thunder</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/386.png'/></td>
-					<td>28.50 °C</td>
-					<td>32.70 °C</td>
-					<td>17.60 km/h</td>
-					<td>100 % 🌧️</td>
-				</tr>
 				<tr>
 					<td>19:00</td>
 					<td>Clear </td>
@@ -110,6 +92,15 @@ I'm Henry Hai - a Full Stack Developer!
 					<td>26.10 °C</td>
 					<td>29.20 °C</td>
 					<td>10.40 km/h</td>
+					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>23:00</td>
+					<td>Partly Cloudy </td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/116.png'/></td>
+					<td>25.90 °C</td>
+					<td>29.00 °C</td>
+					<td>12.20 km/h</td>
 					<td>0 %</td>
 				</tr>
 </table>
