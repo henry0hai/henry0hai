@@ -26,11 +26,11 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Condition**: Clear, <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
 
-**Current temperature**: 29.00 °C, **Feels like**: 32.80 °C, **Humidity**: 84%
+**Current temperature**: 28.10 °C, **Feels like**: 31.70 °C, **Humidity**: 89%
 
-**Wind**: 19.10 km/h, 230°, *SW*
+**Wind**: 13.00 km/h, 250°, *WSW*
 
-**Pressure**: 1007.00 mb
+**Pressure**: 1008.00 mb
 
 **Sunrise**: 05:44 AM
 
@@ -44,7 +44,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 20
 
-**Updated at**: 2024-09-08 18:00 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2024-09-08 19:30 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -59,21 +59,12 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Chance of Rain</th>
 		</tr>
 				<tr>
-					<td>19:00</td>
-					<td>Partly Cloudy </td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/116.png'/></td>
-					<td>28.10 °C</td>
-					<td>31.50 °C</td>
-					<td>15.50 km/h</td>
-					<td>0 %</td>
-				</tr>
-				<tr>
 					<td>20:00</td>
 					<td>Clear </td>
 					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/113.png'/></td>
-					<td>27.50 °C</td>
+					<td>27.40 °C</td>
 					<td>30.70 °C</td>
-					<td>16.20 km/h</td>
+					<td>15.10 km/h</td>
 					<td>0 %</td>
 				</tr>
 				<tr>
@@ -81,8 +72,8 @@ I'm Henry Hai - a Full Stack Developer!
 					<td>Clear </td>
 					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/113.png'/></td>
 					<td>26.90 °C</td>
-					<td>29.90 °C</td>
-					<td>15.50 km/h</td>
+					<td>30.00 °C</td>
+					<td>14.00 km/h</td>
 					<td>0 %</td>
 				</tr>
 				<tr>
@@ -91,16 +82,16 @@ I'm Henry Hai - a Full Stack Developer!
 					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/113.png'/></td>
 					<td>26.50 °C</td>
 					<td>29.40 °C</td>
-					<td>15.10 km/h</td>
+					<td>14.80 km/h</td>
 					<td>0 %</td>
 				</tr>
 				<tr>
 					<td>23:00</td>
 					<td>Clear </td>
 					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/113.png'/></td>
-					<td>26.30 °C</td>
-					<td>29.10 °C</td>
-					<td>14.00 km/h</td>
+					<td>26.40 °C</td>
+					<td>29.20 °C</td>
+					<td>15.10 km/h</td>
 					<td>0 %</td>
 				</tr>
 </table>
