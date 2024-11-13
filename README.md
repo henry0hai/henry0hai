@@ -24,13 +24,13 @@ I'm Henry Hai - a Full Stack Developer!
 <!-- CURRENT_WEATHER:START -->
 **Current City**: Ho Chi Minh City - *13/11/2024*
 
-**Condition**: Clear, <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
+**Condition**: Partly Cloudy, <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
 
-**Current temperature**: 29.00 °C, **Feels like**: 36.50 °C, **Humidity**: 84%
+**Current temperature**: 25.40 °C, **Feels like**: 28.60 °C, **Humidity**: 91%
 
-**Wind**: 9.70 km/h, 144°, *SE*
+**Wind**: 10.40 km/h, 134°, *SE*
 
-**Pressure**: 1007.00 mb
+**Pressure**: 1009.00 mb
 
 **Sunrise**: 05:48 AM
 
@@ -44,7 +44,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 88
 
-**Updated at**: 2024-11-13 18:15 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2024-11-13 19:30 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -59,21 +59,12 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Chance of Rain</th>
 		</tr>
 				<tr>
-					<td>19:00</td>
-					<td>Clear </td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/113.png'/></td>
-					<td>25.30 °C</td>
-					<td>28.40 °C</td>
-					<td>9.40 km/h</td>
-					<td>0 %</td>
-				</tr>
-				<tr>
 					<td>20:00</td>
 					<td>Clear </td>
 					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/113.png'/></td>
-					<td>25.00 °C</td>
-					<td>27.90 °C</td>
-					<td>8.60 km/h</td>
+					<td>25.10 °C</td>
+					<td>28.10 °C</td>
+					<td>9.70 km/h</td>
 					<td>0 %</td>
 				</tr>
 				<tr>
@@ -81,25 +72,25 @@ I'm Henry Hai - a Full Stack Developer!
 					<td>Clear </td>
 					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/113.png'/></td>
 					<td>24.80 °C</td>
-					<td>27.50 °C</td>
-					<td>8.60 km/h</td>
+					<td>27.70 °C</td>
+					<td>9.40 km/h</td>
 					<td>0 %</td>
 				</tr>
 				<tr>
 					<td>22:00</td>
 					<td>Clear </td>
 					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/113.png'/></td>
-					<td>24.50 °C</td>
-					<td>27.20 °C</td>
-					<td>7.90 km/h</td>
+					<td>24.60 °C</td>
+					<td>27.30 °C</td>
+					<td>8.60 km/h</td>
 					<td>0 %</td>
 				</tr>
 				<tr>
 					<td>23:00</td>
 					<td>Clear </td>
 					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/113.png'/></td>
-					<td>24.30 °C</td>
-					<td>27.00 °C</td>
+					<td>24.40 °C</td>
+					<td>27.10 °C</td>
 					<td>8.60 km/h</td>
 					<td>0 %</td>
 				</tr>
