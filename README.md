@@ -24,11 +24,11 @@ I'm Henry Hai - a Full Stack Developer!
 <!-- CURRENT_WEATHER:START -->
 **Current City**: Ho Chi Minh City - *05/12/2024*
 
-**Condition**: Moderate or heavy rain shower, <img src="https://cdn.weatherapi.com/weather/64x64/day/356.png"/>
+**Condition**: Moderate or heavy rain shower, <img src="https://cdn.weatherapi.com/weather/64x64/night/356.png"/>
 
-**Current temperature**: 26.80 °C, **Feels like**: 30.60 °C, **Humidity**: 87%
+**Current temperature**: 25.90 °C, **Feels like**: 29.20 °C, **Humidity**: 89%
 
-**Wind**: 4.70 km/h, 194°, *SSW*
+**Wind**: 7.60 km/h, 157°, *SSE*
 
 **Pressure**: 1006.00 mb
 
@@ -44,7 +44,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 14
 
-**Updated at**: 2024-12-05 17:15 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2024-12-05 18:00 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -59,56 +59,47 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Chance of Rain</th>
 		</tr>
 				<tr>
-					<td>18:00</td>
-					<td>Moderate or heavy rain shower</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/356.png'/></td>
-					<td>25.60 °C</td>
-					<td>28.80 °C</td>
-					<td>5.40 km/h</td>
-					<td>100 % 🌧️</td>
-				</tr>
-				<tr>
 					<td>19:00</td>
 					<td>Light rain shower</td>
 					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/353.png'/></td>
-					<td>25.50 °C</td>
-					<td>28.60 °C</td>
-					<td>5.40 km/h</td>
+					<td>25.40 °C</td>
+					<td>28.50 °C</td>
+					<td>7.20 km/h</td>
 					<td>100 % 🌧️</td>
 				</tr>
 				<tr>
 					<td>20:00</td>
 					<td>Light rain shower</td>
 					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/353.png'/></td>
-					<td>25.30 °C</td>
-					<td>28.40 °C</td>
-					<td>5.80 km/h</td>
+					<td>25.10 °C</td>
+					<td>28.20 °C</td>
+					<td>7.90 km/h</td>
 					<td>100 % 🌧️</td>
 				</tr>
 				<tr>
 					<td>21:00</td>
-					<td>Patchy rain nearby</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/176.png'/></td>
-					<td>24.80 °C</td>
-					<td>27.70 °C</td>
-					<td>5.80 km/h</td>
+					<td>Light rain shower</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/353.png'/></td>
+					<td>25.00 °C</td>
+					<td>28.00 °C</td>
+					<td>9.40 km/h</td>
 					<td>100 % 🌧️</td>
 				</tr>
 				<tr>
 					<td>22:00</td>
-					<td>Cloudy </td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/119.png'/></td>
-					<td>24.70 °C</td>
-					<td>27.50 °C</td>
-					<td>5.80 km/h</td>
+					<td>Partly Cloudy </td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/116.png'/></td>
+					<td>25.00 °C</td>
+					<td>28.10 °C</td>
+					<td>7.90 km/h</td>
 					<td>0 %</td>
 				</tr>
 				<tr>
 					<td>23:00</td>
-					<td>Cloudy </td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/119.png'/></td>
-					<td>24.50 °C</td>
-					<td>27.20 °C</td>
+					<td>Partly Cloudy </td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/116.png'/></td>
+					<td>25.00 °C</td>
+					<td>28.10 °C</td>
 					<td>5.00 km/h</td>
 					<td>0 %</td>
 				</tr>
