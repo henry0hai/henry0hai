@@ -30,7 +30,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Wind**: 9.00 km/h, 6°, *N*
 
-**Pressure**: 1007.00 mb
+**Pressure**: 1006.00 mb
 
 **Sunrise**: 06:01 AM
 
@@ -44,7 +44,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 76
 
-**Updated at**: 2024-12-11 01:30 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2024-12-11 01:45 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
