@@ -26,11 +26,11 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Condition**: Clear, <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
 
-**Current temperature**: 22.90 °C, **Feels like**: 25.00 °C, **Humidity**: 81%
+**Current temperature**: 22.40 °C, **Feels like**: 24.70 °C, **Humidity**: 82%
 
-**Wind**: 7.60 km/h, 358°, *N*
+**Wind**: 7.60 km/h, 7°, *N*
 
-**Pressure**: 1009.00 mb
+**Pressure**: 1010.00 mb
 
 **Sunrise**: 06:05 AM
 
@@ -44,7 +44,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 85
 
-**Updated at**: 2024-12-19 03:45 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2024-12-19 05:15 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -58,24 +58,6 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Wind</th>
 			<th>Chance of Rain</th>
 		</tr>
-				<tr>
-					<td>04:00</td>
-					<td>Clear </td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/113.png'/></td>
-					<td>22.60 °C</td>
-					<td>24.90 °C</td>
-					<td>7.20 km/h</td>
-					<td>0 %</td>
-				</tr>
-				<tr>
-					<td>05:00</td>
-					<td>Clear </td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/113.png'/></td>
-					<td>22.40 °C</td>
-					<td>24.70 °C</td>
-					<td>7.60 km/h</td>
-					<td>0 %</td>
-				</tr>
 				<tr>
 					<td>06:00</td>
 					<td>Clear </td>
@@ -110,6 +92,24 @@ I'm Henry Hai - a Full Stack Developer!
 					<td>26.20 °C</td>
 					<td>27.90 °C</td>
 					<td>8.30 km/h</td>
+					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>10:00</td>
+					<td>Partly Cloudy </td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/116.png'/></td>
+					<td>27.80 °C</td>
+					<td>29.70 °C</td>
+					<td>7.60 km/h</td>
+					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>11:00</td>
+					<td>Sunny</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/113.png'/></td>
+					<td>28.90 °C</td>
+					<td>31.00 °C</td>
+					<td>9.00 km/h</td>
 					<td>0 %</td>
 				</tr>
 </table>
