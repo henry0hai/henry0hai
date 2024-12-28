@@ -26,9 +26,9 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Condition**: Partly cloudy, <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
 
-**Current temperature**: 32.10 °C, **Feels like**: 36.60 °C, **Humidity**: 59%
+**Current temperature**: 32.10 °C, **Feels like**: 36.90 °C, **Humidity**: 59%
 
-**Wind**: 3.60 km/h, 310°, *NW*
+**Wind**: 3.60 km/h, 181°, *S*
 
 **Pressure**: 1010.00 mb
 
@@ -44,7 +44,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 9
 
-**Updated at**: 2024-12-28 13:30 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2024-12-28 15:15 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -58,24 +58,6 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Wind</th>
 			<th>Chance of Rain</th>
 		</tr>
-				<tr>
-					<td>14:00</td>
-					<td>Patchy rain nearby</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/176.png'/></td>
-					<td>31.10 °C</td>
-					<td>34.40 °C</td>
-					<td>1.80 km/h</td>
-					<td>51 %</td>
-				</tr>
-				<tr>
-					<td>15:00</td>
-					<td>Patchy rain nearby</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/176.png'/></td>
-					<td>30.60 °C</td>
-					<td>33.80 °C</td>
-					<td>3.20 km/h</td>
-					<td>100 % 🌧️</td>
-				</tr>
 				<tr>
 					<td>16:00</td>
 					<td>Light rain shower</td>
@@ -111,6 +93,24 @@ I'm Henry Hai - a Full Stack Developer!
 					<td>28.50 °C</td>
 					<td>7.20 km/h</td>
 					<td>100 % 🌧️</td>
+				</tr>
+				<tr>
+					<td>20:00</td>
+					<td>Patchy rain nearby</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/176.png'/></td>
+					<td>25.60 °C</td>
+					<td>28.20 °C</td>
+					<td>6.10 km/h</td>
+					<td>75 %</td>
+				</tr>
+				<tr>
+					<td>21:00</td>
+					<td>Overcast </td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/122.png'/></td>
+					<td>25.20 °C</td>
+					<td>27.60 °C</td>
+					<td>7.90 km/h</td>
+					<td>0 %</td>
 				</tr>
 </table>
 <!-- FORECAST_WEATHER:END -->
