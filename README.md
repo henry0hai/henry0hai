@@ -26,7 +26,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Condition**: Partly cloudy, <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
 
-**Current temperature**: 25.10 °C, **Feels like**: 27.60 °C, **Humidity**: 83%
+**Current temperature**: 25.20 °C, **Feels like**: 27.80 °C, **Humidity**: 83%
 
 **Wind**: 9.40 km/h, 1°, *N*
 
@@ -44,7 +44,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 9
 
-**Updated at**: 2024-12-28 23:15 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2024-12-28 23:30 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
