@@ -26,11 +26,11 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Condition**: Partly cloudy, <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
 
-**Current temperature**: 28.30 °C, **Feels like**: 32.20 °C, **Humidity**: 66%
+**Current temperature**: 29.40 °C, **Feels like**: 33.30 °C, **Humidity**: 66%
 
-**Wind**: 3.60 km/h, 349°, *N*
+**Wind**: 3.60 km/h, 10°, *N*
 
-**Pressure**: 1012.00 mb
+**Pressure**: 1011.00 mb
 
 **Sunrise**: 06:11 AM
 
@@ -44,7 +44,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 1
 
-**Updated at**: 2025-01-01 09:45 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2025-01-01 11:15 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -58,24 +58,6 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Wind</th>
 			<th>Chance of Rain</th>
 		</tr>
-				<tr>
-					<td>10:00</td>
-					<td>Partly Cloudy </td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/116.png'/></td>
-					<td>26.40 °C</td>
-					<td>28.50 °C</td>
-					<td>2.20 km/h</td>
-					<td>0 %</td>
-				</tr>
-				<tr>
-					<td>11:00</td>
-					<td>Patchy rain nearby</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/176.png'/></td>
-					<td>27.40 °C</td>
-					<td>29.60 °C</td>
-					<td>1.40 km/h</td>
-					<td>79 % 🌧️</td>
-				</tr>
 				<tr>
 					<td>12:00</td>
 					<td>Patchy rain nearby</td>
@@ -111,6 +93,24 @@ I'm Henry Hai - a Full Stack Developer!
 					<td>29.00 °C</td>
 					<td>3.20 km/h</td>
 					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>16:00</td>
+					<td>Overcast </td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/122.png'/></td>
+					<td>26.40 °C</td>
+					<td>28.80 °C</td>
+					<td>2.90 km/h</td>
+					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>17:00</td>
+					<td>Patchy rain nearby</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/176.png'/></td>
+					<td>26.10 °C</td>
+					<td>28.50 °C</td>
+					<td>2.20 km/h</td>
+					<td>79 % 🌧️</td>
 				</tr>
 </table>
 <!-- FORECAST_WEATHER:END -->
