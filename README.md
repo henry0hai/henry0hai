@@ -26,11 +26,11 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Condition**: Partly cloudy, <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
 
-**Current temperature**: 28.30 °C, **Feels like**: 31.70 °C, **Humidity**: 70%
+**Current temperature**: 28.10 °C, **Feels like**: 31.30 °C, **Humidity**: 70%
 
 **Wind**: 9.40 km/h, 158°, *SSE*
 
-**Pressure**: 1013.00 mb
+**Pressure**: 1014.00 mb
 
 **Sunrise**: 06:14 AM
 
