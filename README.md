@@ -24,11 +24,11 @@ I'm Henry Hai - a Full Stack Developer!
 <!-- CURRENT_WEATHER:START -->
 **Current City**: Ho Chi Minh City - *21/01/2025*
 
-**Condition**: Mist, <img src="https://cdn.weatherapi.com/weather/64x64/day/143.png"/>
+**Condition**: Sunny, <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
 
-**Current temperature**: 24.40 °C, **Feels like**: 26.00 °C, **Humidity**: 89%
+**Current temperature**: 27.60 °C, **Feels like**: 28.80 °C, **Humidity**: 56%
 
-**Wind**: 3.60 km/h, 291°, *WNW*
+**Wind**: 6.80 km/h, 296°, *WNW*
 
 **Pressure**: 1012.00 mb
 
@@ -44,7 +44,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 58
 
-**Updated at**: 2025-01-21 08:30 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2025-01-21 10:30 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -58,24 +58,6 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Wind</th>
 			<th>Chance of Rain</th>
 		</tr>
-				<tr>
-					<td>09:00</td>
-					<td>Sunny</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/113.png'/></td>
-					<td>26.10 °C</td>
-					<td>27.50 °C</td>
-					<td>2.90 km/h</td>
-					<td>0 %</td>
-				</tr>
-				<tr>
-					<td>10:00</td>
-					<td>Sunny</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/113.png'/></td>
-					<td>27.60 °C</td>
-					<td>28.80 °C</td>
-					<td>6.80 km/h</td>
-					<td>0 %</td>
-				</tr>
 				<tr>
 					<td>11:00</td>
 					<td>Sunny</td>
@@ -110,6 +92,24 @@ I'm Henry Hai - a Full Stack Developer!
 					<td>32.40 °C</td>
 					<td>32.70 °C</td>
 					<td>5.80 km/h</td>
+					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>15:00</td>
+					<td>Sunny</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/113.png'/></td>
+					<td>32.40 °C</td>
+					<td>32.60 °C</td>
+					<td>6.10 km/h</td>
+					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>16:00</td>
+					<td>Sunny</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/113.png'/></td>
+					<td>30.80 °C</td>
+					<td>31.50 °C</td>
+					<td>11.20 km/h</td>
 					<td>0 %</td>
 				</tr>
 </table>
