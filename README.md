@@ -24,9 +24,9 @@ I'm Henry Hai - a Full Stack Developer!
 <!-- CURRENT_WEATHER:START -->
 **Current City**: Ho Chi Minh City - *21/01/2025*
 
-**Condition**: Sunny, <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
+**Condition**: Mist, <img src="https://cdn.weatherapi.com/weather/64x64/day/143.png"/>
 
-**Current temperature**: 27.60 °C, **Feels like**: 28.80 °C, **Humidity**: 56%
+**Current temperature**: 27.30 °C, **Feels like**: 28.40 °C, **Humidity**: 70%
 
 **Wind**: 6.80 km/h, 296°, *WNW*
 
@@ -44,7 +44,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 58
 
-**Updated at**: 2025-01-21 10:30 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2025-01-21 10:15 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
