@@ -26,25 +26,25 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Condition**: Clear, <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
 
-**Current temperature**: 27.10 °C, **Feels like**: 29.80 °C, **Humidity**: 74%
+**Current temperature**: 27.20 °C, **Feels like**: 30.10 °C, **Humidity**: 74%
 
-**Wind**: 17.60 km/h, 137°, *SE*
+**Wind**: 16.60 km/h, 139°, *SE*
 
 **Pressure**: 1009.00 mb
 
 **Sunrise**: 06:07 AM
 
-**Sunset**: 06:03 PM
+**Sunset**: 06:04 PM
 
 **Moon Phase**: Waxing Crescent
 
-**Moon Rise**: 07:42 AM
+**Moon Rise**: 08:27 AM
 
-**Moon Set**: 08:16 PM
+**Moon Set**: 09:14 PM
 
-**Moon Illumination**: 5
+**Moon Illumination**: 12
 
-**Updated at**: 2025-03-02 23:15 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2025-03-03 00:00 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -58,5 +58,50 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Wind</th>
 			<th>Chance of Rain</th>
 		</tr>
+				<tr>
+					<td>01:00</td>
+					<td>Clear</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/113.png'/></td>
+					<td>27.20 °C</td>
+					<td>27.20 °C</td>
+					<td>16.60 km/h</td>
+					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>02:00</td>
+					<td>Clear </td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/113.png'/></td>
+					<td>25.00 °C</td>
+					<td>27.00 °C</td>
+					<td>16.20 km/h</td>
+					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>03:00</td>
+					<td>Clear </td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/113.png'/></td>
+					<td>24.90 °C</td>
+					<td>26.90 °C</td>
+					<td>13.30 km/h</td>
+					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>04:00</td>
+					<td>Clear </td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/113.png'/></td>
+					<td>24.70 °C</td>
+					<td>26.70 °C</td>
+					<td>12.20 km/h</td>
+					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>05:00</td>
+					<td>Clear </td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/113.png'/></td>
+					<td>24.50 °C</td>
+					<td>26.50 °C</td>
+					<td>11.20 km/h</td>
+					<td>0 %</td>
+				</tr>
 </table>
 <!-- FORECAST_WEATHER:END -->
