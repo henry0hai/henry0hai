@@ -26,11 +26,11 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Condition**: Sunny, <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
 
-**Current temperature**: 38.00 °C, **Feels like**: 40.20 °C, **Humidity**: 30%
+**Current temperature**: 34.10 °C, **Feels like**: 37.60 °C, **Humidity**: 53%
 
-**Wind**: 7.90 km/h, 135°, *SE*
+**Wind**: 26.30 km/h, 152°, *SSE*
 
-**Pressure**: 1006.00 mb
+**Pressure**: 1005.00 mb
 
 **Sunrise**: 05:37 AM
 
@@ -44,7 +44,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 0
 
-**Updated at**: 2025-04-28 14:45 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2025-04-28 16:15 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -58,24 +58,6 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Wind</th>
 			<th>Chance of Rain</th>
 		</tr>
-				<tr>
-					<td>15:00</td>
-					<td>Sunny</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/113.png'/></td>
-					<td>36.40 °C</td>
-					<td>39.30 °C</td>
-					<td>20.50 km/h</td>
-					<td>0 %</td>
-				</tr>
-				<tr>
-					<td>16:00</td>
-					<td>Sunny</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/113.png'/></td>
-					<td>34.00 °C</td>
-					<td>37.50 °C</td>
-					<td>26.30 km/h</td>
-					<td>0 %</td>
-				</tr>
 				<tr>
 					<td>17:00</td>
 					<td>Sunny</td>
@@ -110,6 +92,24 @@ I'm Henry Hai - a Full Stack Developer!
 					<td>28.90 °C</td>
 					<td>32.60 °C</td>
 					<td>22.70 km/h</td>
+					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>21:00</td>
+					<td>Partly Cloudy </td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/116.png'/></td>
+					<td>28.60 °C</td>
+					<td>32.30 °C</td>
+					<td>23.00 km/h</td>
+					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>22:00</td>
+					<td>Thundery outbreaks in nearby</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/200.png'/></td>
+					<td>28.50 °C</td>
+					<td>32.00 °C</td>
+					<td>19.40 km/h</td>
 					<td>0 %</td>
 				</tr>
 </table>
