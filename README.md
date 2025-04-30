@@ -26,11 +26,11 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Condition**: Partly cloudy, <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
 
-**Current temperature**: 34.00 °C, **Feels like**: 34.30 °C, **Humidity**: 53%
+**Current temperature**: 34.20 °C, **Feels like**: 33.80 °C, **Humidity**: 53%
 
-**Wind**: 5.00 km/h, 10°, *N*
+**Wind**: 5.00 km/h, 46°, *NE*
 
-**Pressure**: 1009.00 mb
+**Pressure**: 1008.00 mb
 
 **Sunrise**: 05:36 AM
 
@@ -44,7 +44,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 7
 
-**Updated at**: 2025-04-30 12:15 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2025-04-30 13:30 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -59,30 +59,21 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Chance of Rain</th>
 		</tr>
 				<tr>
-					<td>13:00</td>
-					<td>Sunny</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/113.png'/></td>
-					<td>38.50 °C</td>
-					<td>40.20 °C</td>
-					<td>2.90 km/h</td>
-					<td>0 %</td>
-				</tr>
-				<tr>
 					<td>14:00</td>
 					<td>Partly Cloudy </td>
 					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/116.png'/></td>
-					<td>39.30 °C</td>
+					<td>39.00 °C</td>
 					<td>40.60 °C</td>
-					<td>7.20 km/h</td>
+					<td>7.90 km/h</td>
 					<td>0 %</td>
 				</tr>
 				<tr>
 					<td>15:00</td>
 					<td>Partly Cloudy </td>
 					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/116.png'/></td>
-					<td>38.10 °C</td>
+					<td>37.70 °C</td>
 					<td>39.80 °C</td>
-					<td>19.10 km/h</td>
+					<td>20.20 km/h</td>
 					<td>0 %</td>
 				</tr>
 				<tr>
@@ -90,15 +81,15 @@ I'm Henry Hai - a Full Stack Developer!
 					<td>Sunny</td>
 					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/113.png'/></td>
 					<td>35.40 °C</td>
-					<td>37.80 °C</td>
-					<td>27.40 km/h</td>
+					<td>37.90 °C</td>
+					<td>26.30 km/h</td>
 					<td>0 %</td>
 				</tr>
 				<tr>
 					<td>17:00</td>
 					<td>Sunny</td>
 					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/113.png'/></td>
-					<td>33.60 °C</td>
+					<td>33.70 °C</td>
 					<td>35.60 °C</td>
 					<td>25.90 km/h</td>
 					<td>0 %</td>
@@ -107,9 +98,18 @@ I'm Henry Hai - a Full Stack Developer!
 					<td>18:00</td>
 					<td>Sunny</td>
 					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/113.png'/></td>
-					<td>31.90 °C</td>
-					<td>33.70 °C</td>
-					<td>24.10 km/h</td>
+					<td>31.50 °C</td>
+					<td>33.80 °C</td>
+					<td>24.50 km/h</td>
+					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>19:00</td>
+					<td>Clear </td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/113.png'/></td>
+					<td>29.70 °C</td>
+					<td>32.80 °C</td>
+					<td>23.80 km/h</td>
 					<td>0 %</td>
 				</tr>
 </table>
