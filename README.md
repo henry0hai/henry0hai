@@ -26,13 +26,13 @@ I'm Henry Hai - a Full Stack Developer!
 <!-- CURRENT_WEATHER:START -->
 **Current City**: Ho Chi Minh City - *20/06/2025*
 
-**Condition**: Partly cloudy, <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
+**Condition**: Moderate rain, <img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
 
-**Current temperature**: 31.30 °C, **Feels like**: 35.30 °C, **Humidity**: 75%
+**Current temperature**: 33.20 °C, **Feels like**: 38.40 °C, **Humidity**: 67%
 
-**Wind**: 10.10 km/h, 307°, *NW*
+**Wind**: 9.40 km/h, 295°, *WNW*
 
-**Pressure**: 1009.00 mb
+**Pressure**: 1008.00 mb
 
 **Sunrise**: 05:33 AM
 
@@ -46,7 +46,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 37
 
-**Updated at**: 2025-06-20 10:00 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2025-06-20 11:30 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -60,15 +60,6 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Wind</th>
 			<th>Chance of Rain</th>
 		</tr>
-				<tr>
-					<td>11:00</td>
-					<td>Patchy light rain</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/293.png'/></td>
-					<td>33.40 °C</td>
-					<td>38.80 °C</td>
-					<td>9.40 km/h</td>
-					<td>100 % 🌧️</td>
-				</tr>
 				<tr>
 					<td>12:00</td>
 					<td>Light rain shower</td>
@@ -104,6 +95,24 @@ I'm Henry Hai - a Full Stack Developer!
 					<td>38.40 °C</td>
 					<td>5.80 km/h</td>
 					<td>100 % 🌧️</td>
+				</tr>
+				<tr>
+					<td>16:00</td>
+					<td>Thundery outbreaks in nearby</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/200.png'/></td>
+					<td>32.40 °C</td>
+					<td>37.80 °C</td>
+					<td>7.20 km/h</td>
+					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>17:00</td>
+					<td>Thundery outbreaks in nearby</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/200.png'/></td>
+					<td>31.70 °C</td>
+					<td>37.40 °C</td>
+					<td>7.60 km/h</td>
+					<td>0 %</td>
 				</tr>
 </table>
 <!-- FORECAST_WEATHER:END -->
