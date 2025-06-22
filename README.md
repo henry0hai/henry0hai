@@ -26,13 +26,13 @@ I'm Henry Hai - a Full Stack Developer!
 <!-- CURRENT_WEATHER:START -->
 **Current City**: Ho Chi Minh City - *22/06/2025*
 
-**Condition**: Partly cloudy, <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
+**Condition**: Light rain shower, <img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"/>
 
-**Current temperature**: 27.20 °C, **Feels like**: 31.70 °C, **Humidity**: 89%
+**Current temperature**: 30.40 °C, **Feels like**: 39.90 °C, **Humidity**: 70%
 
-**Wind**: 12.60 km/h, 208°, *SSW*
+**Wind**: 14.00 km/h, 202°, *SSW*
 
-**Pressure**: 1010.00 mb
+**Pressure**: 1009.00 mb
 
 **Sunrise**: 05:33 AM
 
@@ -46,7 +46,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 16
 
-**Updated at**: 2025-06-22 09:00 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2025-06-22 10:45 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -60,15 +60,6 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Wind</th>
 			<th>Chance of Rain</th>
 		</tr>
-				<tr>
-					<td>10:00</td>
-					<td>Light rain shower</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/353.png'/></td>
-					<td>26.40 °C</td>
-					<td>29.90 °C</td>
-					<td>14.00 km/h</td>
-					<td>100 % 🌧️</td>
-				</tr>
 				<tr>
 					<td>11:00</td>
 					<td>Light rain shower</td>
@@ -102,6 +93,24 @@ I'm Henry Hai - a Full Stack Developer!
 					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/353.png'/></td>
 					<td>27.80 °C</td>
 					<td>31.80 °C</td>
+					<td>11.90 km/h</td>
+					<td>100 % 🌧️</td>
+				</tr>
+				<tr>
+					<td>15:00</td>
+					<td>Light rain</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/296.png'/></td>
+					<td>27.20 °C</td>
+					<td>31.00 °C</td>
+					<td>11.50 km/h</td>
+					<td>100 % 🌧️</td>
+				</tr>
+				<tr>
+					<td>16:00</td>
+					<td>Light rain shower</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/353.png'/></td>
+					<td>27.00 °C</td>
+					<td>30.70 °C</td>
 					<td>11.90 km/h</td>
 					<td>100 % 🌧️</td>
 				</tr>
