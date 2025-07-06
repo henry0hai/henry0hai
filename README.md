@@ -28,9 +28,9 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Condition**: Partly cloudy, <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
 
-**Current temperature**: 30.00 °C, **Feels like**: 36.90 °C, **Humidity**: 79%
+**Current temperature**: 32.10 °C, **Feels like**: 40.30 °C, **Humidity**: 71%
 
-**Wind**: 17.30 km/h, 237°, *WSW*
+**Wind**: 19.10 km/h, 243°, *WSW*
 
 **Pressure**: 1008.00 mb
 
@@ -46,7 +46,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 78
 
-**Updated at**: 2025-07-06 08:45 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2025-07-06 10:30 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -60,24 +60,6 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Wind</th>
 			<th>Chance of Rain</th>
 		</tr>
-				<tr>
-					<td>09:00</td>
-					<td>Light rain shower</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/353.png'/></td>
-					<td>28.90 °C</td>
-					<td>33.30 °C</td>
-					<td>19.10 km/h</td>
-					<td>100 % 🌧️</td>
-				</tr>
-				<tr>
-					<td>10:00</td>
-					<td>Light rain shower</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/353.png'/></td>
-					<td>29.60 °C</td>
-					<td>34.10 °C</td>
-					<td>19.10 km/h</td>
-					<td>100 % 🌧️</td>
-				</tr>
 				<tr>
 					<td>11:00</td>
 					<td>Light rain shower</td>
@@ -112,6 +94,24 @@ I'm Henry Hai - a Full Stack Developer!
 					<td>31.00 °C</td>
 					<td>35.60 °C</td>
 					<td>20.90 km/h</td>
+					<td>100 % 🌧️</td>
+				</tr>
+				<tr>
+					<td>15:00</td>
+					<td>Light rain shower</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/353.png'/></td>
+					<td>30.50 °C</td>
+					<td>34.70 °C</td>
+					<td>21.20 km/h</td>
+					<td>100 % 🌧️</td>
+				</tr>
+				<tr>
+					<td>16:00</td>
+					<td>Light rain shower</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/353.png'/></td>
+					<td>30.00 °C</td>
+					<td>34.00 °C</td>
+					<td>17.60 km/h</td>
 					<td>100 % 🌧️</td>
 				</tr>
 </table>
