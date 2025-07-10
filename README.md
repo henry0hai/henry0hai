@@ -28,11 +28,11 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Condition**: Patchy rain nearby, <img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"/>
 
-**Current temperature**: 33.40 °C, **Feels like**: 40.70 °C, **Humidity**: 63%
+**Current temperature**: 27.50 °C, **Feels like**: 30.40 °C, **Humidity**: 74%
 
-**Wind**: 21.20 km/h, 242°, *WSW*
+**Wind**: 17.30 km/h, 234°, *SW*
 
-**Pressure**: 1002.00 mb
+**Pressure**: 1004.00 mb
 
 **Sunrise**: 05:38 AM
 
@@ -46,7 +46,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 99
 
-**Updated at**: 2025-07-10 18:15 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2025-07-10 19:45 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -60,15 +60,6 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Wind</th>
 			<th>Chance of Rain</th>
 		</tr>
-				<tr>
-					<td>19:00</td>
-					<td>Patchy rain nearby</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/176.png'/></td>
-					<td>27.50 °C</td>
-					<td>30.40 °C</td>
-					<td>17.30 km/h</td>
-					<td>100 % 🌧️</td>
-				</tr>
 				<tr>
 					<td>20:00</td>
 					<td>Patchy rain nearby</td>
