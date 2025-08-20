@@ -24,29 +24,29 @@ I'm Henry Hai - a Full Stack Developer!
 [![Update README](https://github.com/henry0hai/henry0hai/actions/workflows/udpateReadme.yml/badge.svg)](https://github.com/henry0hai/henry0hai/actions/workflows/udpateReadme.yml)
 (Update every **hour**)
 <!-- CURRENT_WEATHER:START -->
-**Current City**: Ho Chi Minh City - *20/08/2025*
+**Current City**: Sendanga Ho - *20/08/2025*
 
-**Condition**: Patchy light rain with thunder, <img src="https://cdn.weatherapi.com/weather/64x64/night/386.png"/>
+**Condition**: Partly Cloudy, <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
 
-**Current temperature**: 28.00 °C, **Feels like**: 30.70 °C, **Humidity**: 84%
+**Current temperature**: 26.60 °C, **Feels like**: 30.70 °C, **Humidity**: 90%
 
-**Wind**: 13.70 km/h, 145°, *SE*
+**Wind**: 13.30 km/h, 125°, *SE*
 
-**Pressure**: 1007.00 mb
+**Pressure**: 1004.00 mb
 
-**Sunrise**: 05:44 AM
+**Sunrise**: 05:41 AM
 
-**Sunset**: 06:09 PM
+**Sunset**: 06:31 PM
 
 **Moon Phase**: Waning Crescent
 
-**Moon Rise**: 02:42 AM
+**Moon Rise**: 03:28 AM
 
-**Moon Set**: 03:56 PM
+**Moon Set**: 05:24 PM
 
-**Moon Illumination**: 12
+**Moon Illumination**: 6
 
-**Updated at**: 2025-08-20 18:15 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2025-08-21 03:15 (GMT+6)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -61,48 +61,57 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Chance of Rain</th>
 		</tr>
 				<tr>
-					<td>19:00</td>
-					<td>Moderate or heavy rain shower</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/356.png'/></td>
-					<td>28.20 °C</td>
-					<td>31.60 °C</td>
-					<td>15.80 km/h</td>
-					<td>100 % 🌧️</td>
+					<td>04:00</td>
+					<td>Partly Cloudy </td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/116.png'/></td>
+					<td>26.60 °C</td>
+					<td>30.70 °C</td>
+					<td>13.30 km/h</td>
+					<td>0 %</td>
 				</tr>
 				<tr>
-					<td>20:00</td>
-					<td>Light rain shower</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/353.png'/></td>
-					<td>27.50 °C</td>
-					<td>30.90 °C</td>
-					<td>13.00 km/h</td>
-					<td>100 % 🌧️</td>
+					<td>05:00</td>
+					<td>Partly Cloudy </td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/116.png'/></td>
+					<td>26.60 °C</td>
+					<td>30.70 °C</td>
+					<td>13.30 km/h</td>
+					<td>0 %</td>
 				</tr>
 				<tr>
-					<td>21:00</td>
-					<td>Light rain shower</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/353.png'/></td>
-					<td>27.00 °C</td>
-					<td>30.10 °C</td>
-					<td>12.60 km/h</td>
-					<td>100 % 🌧️</td>
+					<td>06:00</td>
+					<td>Partly Cloudy </td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/116.png'/></td>
+					<td>26.60 °C</td>
+					<td>30.60 °C</td>
+					<td>14.80 km/h</td>
+					<td>0 %</td>
 				</tr>
 				<tr>
-					<td>22:00</td>
-					<td>Light rain shower</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/353.png'/></td>
-					<td>26.70 °C</td>
-					<td>29.70 °C</td>
-					<td>11.50 km/h</td>
-					<td>100 % 🌧️</td>
+					<td>07:00</td>
+					<td>Partly Cloudy </td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/116.png'/></td>
+					<td>27.40 °C</td>
+					<td>31.90 °C</td>
+					<td>17.30 km/h</td>
+					<td>0 %</td>
 				</tr>
 				<tr>
-					<td>23:00</td>
+					<td>08:00</td>
+					<td>Partly Cloudy </td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/116.png'/></td>
+					<td>28.50 °C</td>
+					<td>33.60 °C</td>
+					<td>20.90 km/h</td>
+					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>09:00</td>
 					<td>Cloudy </td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/119.png'/></td>
-					<td>26.40 °C</td>
-					<td>29.40 °C</td>
-					<td>9.70 km/h</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/119.png'/></td>
+					<td>29.30 °C</td>
+					<td>34.90 °C</td>
+					<td>20.90 km/h</td>
 					<td>0 %</td>
 				</tr>
 </table>
