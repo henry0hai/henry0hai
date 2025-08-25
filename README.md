@@ -14,6 +14,8 @@ I'm Henry Hai - a Full Stack Developer!
 ## 🌱 I’m currently learning
 
 - Machine Learning
+- MCP Server & Client
+- Data Fine-tuning (counterfactual **fine‑tuning**, **knowledge editing**, or ~~fact injection~~)
 - ~~Ardunio (pending for now)~~
 
 ## 📫 How to reach me
@@ -26,13 +28,13 @@ I'm Henry Hai - a Full Stack Developer!
 <!-- CURRENT_WEATHER:START -->
 **Current City**: Ho Chi Minh City - *25/08/2025*
 
-**Condition**: Moderate or heavy rain with thunder, <img src="https://cdn.weatherapi.com/weather/64x64/day/389.png"/>
+**Condition**: Patchy light rain with thunder, <img src="https://cdn.weatherapi.com/weather/64x64/day/386.png"/>
 
-**Current temperature**: 30.10 °C, **Feels like**: 34.20 °C, **Humidity**: 70%
+**Current temperature**: 28.30 °C, **Feels like**: 30.90 °C, **Humidity**: 94%
 
-**Wind**: 24.80 km/h, 242°, *WSW*
+**Wind**: 25.60 km/h, 238°, *WSW*
 
-**Pressure**: 1007.00 mb
+**Pressure**: 1006.00 mb
 
 **Sunrise**: 05:44 AM
 
@@ -46,7 +48,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 3
 
-**Updated at**: 2025-08-25 12:15 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2025-08-25 13:30 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -60,15 +62,6 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Wind</th>
 			<th>Chance of Rain</th>
 		</tr>
-				<tr>
-					<td>13:00</td>
-					<td>Light rain</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/296.png'/></td>
-					<td>30.50 °C</td>
-					<td>35.20 °C</td>
-					<td>25.60 km/h</td>
-					<td>100 % 🌧️</td>
-				</tr>
 				<tr>
 					<td>14:00</td>
 					<td>Light rain shower</td>
@@ -112,6 +105,15 @@ I'm Henry Hai - a Full Stack Developer!
 					<td>27.40 °C</td>
 					<td>30.30 °C</td>
 					<td>17.60 km/h</td>
+					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>19:00</td>
+					<td>Clear </td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/113.png'/></td>
+					<td>26.70 °C</td>
+					<td>29.30 °C</td>
+					<td>15.50 km/h</td>
 					<td>0 %</td>
 				</tr>
 </table>
