@@ -14,7 +14,7 @@ I'm Henry Hai - a Full Stack Developer!
 ## 🌱 I’m currently learning
 
 - Machine Learning
-- ~~Ardunio (pending for now)
+- ~~Ardunio (pending for now)~~
 
 ## 📫 How to reach me
 
