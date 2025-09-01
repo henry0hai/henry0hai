@@ -30,25 +30,25 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Condition**: Light rain, <img src="https://cdn.weatherapi.com/weather/64x64/night/296.png"/>
 
-**Current temperature**: 26.30 °C, **Feels like**: 30.50 °C, **Humidity**: 100%
+**Current temperature**: 26.30 °C, **Feels like**: 30.20 °C, **Humidity**: 100%
 
-**Wind**: 11.90 km/h, 264°, *W*
+**Wind**: 10.40 km/h, 236°, *WSW*
 
 **Pressure**: 1009.00 mb
 
 **Sunrise**: 05:44 AM
 
-**Sunset**: 06:03 PM
+**Sunset**: 06:02 PM
 
 **Moon Phase**: Waxing Gibbous
 
-**Moon Rise**: 12:49 PM
+**Moon Rise**: 01:43 PM
 
-**Moon Set**: No moonset
+**Moon Set**: 12:25 AM
 
-**Moon Illumination**: 57
+**Moon Illumination**: 66
 
-**Updated at**: 2025-09-01 23:15 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2025-09-02 00:15 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -62,5 +62,59 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Wind</th>
 			<th>Chance of Rain</th>
 		</tr>
+				<tr>
+					<td>01:00</td>
+					<td>Light rain</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/296.png'/></td>
+					<td>26.30 °C</td>
+					<td>28.70 °C</td>
+					<td>10.40 km/h</td>
+					<td>100 % 🌧️</td>
+				</tr>
+				<tr>
+					<td>02:00</td>
+					<td>Patchy light rain</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/293.png'/></td>
+					<td>25.40 °C</td>
+					<td>28.50 °C</td>
+					<td>9.00 km/h</td>
+					<td>100 % 🌧️</td>
+				</tr>
+				<tr>
+					<td>03:00</td>
+					<td>Light rain shower</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/353.png'/></td>
+					<td>25.00 °C</td>
+					<td>28.00 °C</td>
+					<td>8.60 km/h</td>
+					<td>100 % 🌧️</td>
+				</tr>
+				<tr>
+					<td>04:00</td>
+					<td>Light rain shower</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/353.png'/></td>
+					<td>24.80 °C</td>
+					<td>27.70 °C</td>
+					<td>6.80 km/h</td>
+					<td>100 % 🌧️</td>
+				</tr>
+				<tr>
+					<td>05:00</td>
+					<td>Light rain shower</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/353.png'/></td>
+					<td>24.70 °C</td>
+					<td>27.60 °C</td>
+					<td>4.00 km/h</td>
+					<td>100 % 🌧️</td>
+				</tr>
+				<tr>
+					<td>06:00</td>
+					<td>Moderate or heavy rain shower</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/356.png'/></td>
+					<td>24.70 °C</td>
+					<td>27.50 °C</td>
+					<td>4.30 km/h</td>
+					<td>100 % 🌧️</td>
+				</tr>
 </table>
 <!-- FORECAST_WEATHER:END -->
