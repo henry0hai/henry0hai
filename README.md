@@ -48,7 +48,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 23
 
-**Updated at**: 2025-09-17 10:00 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2025-09-17 10:30 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -105,6 +105,15 @@ I'm Henry Hai - a Full Stack Developer!
 					<td>31.80 °C</td>
 					<td>36.90 °C</td>
 					<td>13.30 km/h</td>
+					<td>100 % 🌧️</td>
+				</tr>
+				<tr>
+					<td>16:00</td>
+					<td>Light rain shower</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/353.png'/></td>
+					<td>29.40 °C</td>
+					<td>33.90 °C</td>
+					<td>15.50 km/h</td>
 					<td>100 % 🌧️</td>
 				</tr>
 </table>
