@@ -30,11 +30,11 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Condition**: Patchy rain nearby, <img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"/>
 
-**Current temperature**: 28.40 °C, **Feels like**: 34.40 °C, **Humidity**: 89%
+**Current temperature**: 27.30 °C, **Feels like**: 31.80 °C, **Humidity**: 89%
 
 **Wind**: 11.20 km/h, 256°, *WSW*
 
-**Pressure**: 1006.00 mb
+**Pressure**: 1007.00 mb
 
 **Sunrise**: 05:45 AM
 
