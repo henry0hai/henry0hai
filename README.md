@@ -30,25 +30,25 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Condition**: Partly Cloudy, <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
 
-**Current temperature**: 27.00 °C, **Feels like**: 31.00 °C, **Humidity**: 70%
+**Current temperature**: 26.30 °C, **Feels like**: 29.60 °C, **Humidity**: 74%
 
-**Wind**: 9.40 km/h, 9°, *N*
+**Wind**: 8.30 km/h, 15°, *NNE*
 
-**Pressure**: 1012.00 mb
+**Pressure**: 1011.00 mb
 
-**Sunrise**: 05:51 AM
+**Sunrise**: 05:52 AM
 
 **Sunset**: 05:27 PM
 
 **Moon Phase**: Waxing Crescent
 
-**Moon Rise**: 06:29 AM
+**Moon Rise**: 07:22 AM
 
-**Moon Set**: 06:07 PM
+**Moon Set**: 06:58 PM
 
-**Moon Illumination**: 1
+**Moon Illumination**: 3
 
-**Updated at**: 2025-11-21 23:15 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2025-11-22 00:15 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -62,5 +62,59 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Wind</th>
 			<th>Chance of Rain</th>
 		</tr>
+				<tr>
+					<td>01:00</td>
+					<td>Partly Cloudy </td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/116.png'/></td>
+					<td>26.30 °C</td>
+					<td>24.40 °C</td>
+					<td>8.30 km/h</td>
+					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>02:00</td>
+					<td>Clear </td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/113.png'/></td>
+					<td>21.90 °C</td>
+					<td>21.90 °C</td>
+					<td>7.20 km/h</td>
+					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>03:00</td>
+					<td>Clear </td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/113.png'/></td>
+					<td>22.00 °C</td>
+					<td>24.50 °C</td>
+					<td>7.20 km/h</td>
+					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>04:00</td>
+					<td>Partly Cloudy </td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/116.png'/></td>
+					<td>22.20 °C</td>
+					<td>24.60 °C</td>
+					<td>7.60 km/h</td>
+					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>05:00</td>
+					<td>Partly Cloudy </td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/116.png'/></td>
+					<td>22.20 °C</td>
+					<td>24.60 °C</td>
+					<td>7.90 km/h</td>
+					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>06:00</td>
+					<td>Patchy rain nearby</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/176.png'/></td>
+					<td>22.30 °C</td>
+					<td>24.60 °C</td>
+					<td>7.20 km/h</td>
+					<td>89 % 🌧️</td>
+				</tr>
 </table>
 <!-- FORECAST_WEATHER:END -->
