@@ -28,11 +28,11 @@ I'm Henry Hai - a Full Stack Developer!
 <!-- CURRENT_WEATHER:START -->
 **Current City**: Ho Chi Minh City - *05/01/2026*
 
-**Condition**: Partly Cloudy, <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
+**Condition**: Overcast, <img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"/>
 
-**Current temperature**: 28.10 °C, **Feels like**: 30.50 °C, **Humidity**: 66%
+**Current temperature**: 29.00 °C, **Feels like**: 31.50 °C, **Humidity**: 62%
 
-**Wind**: 5.40 km/h, 357°, *N*
+**Wind**: 6.50 km/h, 317°, *NW*
 
 **Pressure**: 1014.00 mb
 
@@ -48,7 +48,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 96
 
-**Updated at**: 2026-01-05 09:15 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2026-01-05 11:15 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -62,24 +62,6 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Wind</th>
 			<th>Chance of Rain</th>
 		</tr>
-				<tr>
-					<td>10:00</td>
-					<td>Cloudy </td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/119.png'/></td>
-					<td>26.50 °C</td>
-					<td>27.90 °C</td>
-					<td>5.40 km/h</td>
-					<td>0 %</td>
-				</tr>
-				<tr>
-					<td>11:00</td>
-					<td>Overcast </td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/122.png'/></td>
-					<td>26.50 °C</td>
-					<td>27.90 °C</td>
-					<td>6.50 km/h</td>
-					<td>0 %</td>
-				</tr>
 				<tr>
 					<td>12:00</td>
 					<td>Overcast </td>
@@ -114,6 +96,24 @@ I'm Henry Hai - a Full Stack Developer!
 					<td>29.40 °C</td>
 					<td>31.00 °C</td>
 					<td>1.10 km/h</td>
+					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>16:00</td>
+					<td>Partly Cloudy </td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/116.png'/></td>
+					<td>29.10 °C</td>
+					<td>30.70 °C</td>
+					<td>1.40 km/h</td>
+					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>17:00</td>
+					<td>Overcast </td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/122.png'/></td>
+					<td>28.60 °C</td>
+					<td>30.40 °C</td>
+					<td>3.60 km/h</td>
 					<td>0 %</td>
 				</tr>
 </table>
