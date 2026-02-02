@@ -32,7 +32,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Current temperature**: 25.40 °C, **Feels like**: 27.40 °C, **Humidity**: 83%
 
-**Wind**: 5.40 km/h, 93°, *E*
+**Wind**: 10.80 km/h, 355°, *N*
 
 **Pressure**: 1014.00 mb
 
@@ -42,13 +42,13 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Phase**: Waning Gibbous
 
-**Moon Rise**: 06:25 PM
+**Moon Rise**: 07:20 PM
 
-**Moon Set**: 06:26 AM
+**Moon Set**: 07:13 AM
 
-**Moon Illumination**: 100
+**Moon Illumination**: 99
 
-**Updated at**: 2026-02-02 23:45 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2026-02-03 00:30 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -62,5 +62,59 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Wind</th>
 			<th>Chance of Rain</th>
 		</tr>
+				<tr>
+					<td>01:00</td>
+					<td>Clear </td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/113.png'/></td>
+					<td>25.40 °C</td>
+					<td>25.40 °C</td>
+					<td>10.80 km/h</td>
+					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>02:00</td>
+					<td>Clear </td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/113.png'/></td>
+					<td>23.40 °C</td>
+					<td>25.30 °C</td>
+					<td>11.50 km/h</td>
+					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>03:00</td>
+					<td>Clear </td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/113.png'/></td>
+					<td>22.90 °C</td>
+					<td>24.90 °C</td>
+					<td>9.70 km/h</td>
+					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>04:00</td>
+					<td>Clear </td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/113.png'/></td>
+					<td>22.40 °C</td>
+					<td>24.70 °C</td>
+					<td>8.60 km/h</td>
+					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>05:00</td>
+					<td>Clear </td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/113.png'/></td>
+					<td>22.00 °C</td>
+					<td>22.00 °C</td>
+					<td>6.80 km/h</td>
+					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>06:00</td>
+					<td>Clear </td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/113.png'/></td>
+					<td>21.70 °C</td>
+					<td>21.70 °C</td>
+					<td>5.80 km/h</td>
+					<td>0 %</td>
+				</tr>
 </table>
 <!-- FORECAST_WEATHER:END -->
