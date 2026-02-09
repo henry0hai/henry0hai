@@ -28,13 +28,13 @@ I'm Henry Hai - a Full Stack Developer!
 <!-- CURRENT_WEATHER:START -->
 **Current City**: Ho Chi Minh City - *09/02/2026*
 
-**Condition**: Sunny, <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
+**Condition**: Clear, <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
 
-**Current temperature**: 32.10 °C, **Feels like**: 33.60 °C, **Humidity**: 49%
+**Current temperature**: 28.00 °C, **Feels like**: 29.30 °C, **Humidity**: 74%
 
-**Wind**: 17.30 km/h, 161°, *SSE*
+**Wind**: 20.20 km/h, 154°, *SSE*
 
-**Pressure**: 1009.00 mb
+**Pressure**: 1010.00 mb
 
 **Sunrise**: 06:15 AM
 
@@ -48,7 +48,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 55
 
-**Updated at**: 2026-02-09 18:00 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2026-02-09 18:45 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
