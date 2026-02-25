@@ -30,25 +30,25 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Condition**: Partly Cloudy, <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
 
-**Current temperature**: 28.20 °C, **Feels like**: 31.20 °C, **Humidity**: 70%
+**Current temperature**: 28.10 °C, **Feels like**: 31.10 °C, **Humidity**: 70%
 
-**Wind**: 14.40 km/h, 126°, *SE*
+**Wind**: 11.90 km/h, 138°, *SE*
 
 **Pressure**: 1009.00 mb
 
-**Sunrise**: 06:10 AM
+**Sunrise**: 06:09 AM
 
 **Sunset**: 06:03 PM
 
 **Moon Phase**: Waxing Gibbous
 
-**Moon Rise**: 12:06 PM
+**Moon Rise**: 01:08 PM
 
-**Moon Set**: 12:21 AM
+**Moon Set**: 01:25 AM
 
-**Moon Illumination**: 55
+**Moon Illumination**: 67
 
-**Updated at**: 2026-02-25 23:00 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2026-02-26 01:00 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -62,5 +62,50 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Wind</th>
 			<th>Chance of Rain</th>
 		</tr>
+				<tr>
+					<td>02:00</td>
+					<td>Partly Cloudy </td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/116.png'/></td>
+					<td>26.50 °C</td>
+					<td>28.50 °C</td>
+					<td>10.80 km/h</td>
+					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>03:00</td>
+					<td>Partly Cloudy </td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/116.png'/></td>
+					<td>26.50 °C</td>
+					<td>28.50 °C</td>
+					<td>7.60 km/h</td>
+					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>04:00</td>
+					<td>Partly Cloudy </td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/116.png'/></td>
+					<td>26.40 °C</td>
+					<td>28.30 °C</td>
+					<td>3.60 km/h</td>
+					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>05:00</td>
+					<td>Partly Cloudy </td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/116.png'/></td>
+					<td>26.30 °C</td>
+					<td>28.20 °C</td>
+					<td>1.10 km/h</td>
+					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>06:00</td>
+					<td>Patchy rain nearby</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/176.png'/></td>
+					<td>26.30 °C</td>
+					<td>28.30 °C</td>
+					<td>2.20 km/h</td>
+					<td>67 %</td>
+				</tr>
 </table>
 <!-- FORECAST_WEATHER:END -->
