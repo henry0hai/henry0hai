@@ -30,11 +30,11 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Condition**: Partly cloudy, <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
 
-**Current temperature**: 28.40 °C, **Feels like**: 30.60 °C, **Humidity**: 79%
+**Current temperature**: 31.10 °C, **Feels like**: 33.20 °C, **Humidity**: 63%
 
-**Wind**: 6.80 km/h, 34°, *NE*
+**Wind**: 4.70 km/h, 342°, *NNW*
 
-**Pressure**: 1012.00 mb
+**Pressure**: 1011.00 mb
 
 **Sunrise**: 06:06 AM
 
@@ -48,7 +48,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 93
 
-**Updated at**: 2026-03-06 09:30 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2026-03-06 11:45 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -62,24 +62,6 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Wind</th>
 			<th>Chance of Rain</th>
 		</tr>
-				<tr>
-					<td>10:00</td>
-					<td>Patchy light drizzle</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/263.png'/></td>
-					<td>31.00 °C</td>
-					<td>33.90 °C</td>
-					<td>4.70 km/h</td>
-					<td>100 % 🌧️</td>
-				</tr>
-				<tr>
-					<td>11:00</td>
-					<td>Patchy light drizzle</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/263.png'/></td>
-					<td>32.30 °C</td>
-					<td>35.40 °C</td>
-					<td>4.70 km/h</td>
-					<td>100 % 🌧️</td>
-				</tr>
 				<tr>
 					<td>12:00</td>
 					<td>Patchy rain nearby</td>
@@ -115,6 +97,24 @@ I'm Henry Hai - a Full Stack Developer!
 					<td>33.90 °C</td>
 					<td>8.60 km/h</td>
 					<td>100 % 🌧️</td>
+				</tr>
+				<tr>
+					<td>16:00</td>
+					<td>Light rain shower</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/353.png'/></td>
+					<td>30.60 °C</td>
+					<td>33.00 °C</td>
+					<td>10.10 km/h</td>
+					<td>100 % 🌧️</td>
+				</tr>
+				<tr>
+					<td>17:00</td>
+					<td>Patchy rain nearby</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/176.png'/></td>
+					<td>29.20 °C</td>
+					<td>31.50 °C</td>
+					<td>11.50 km/h</td>
+					<td>61 %</td>
 				</tr>
 </table>
 <!-- FORECAST_WEATHER:END -->
