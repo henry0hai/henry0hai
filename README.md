@@ -30,9 +30,9 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Condition**: Clear, <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
 
-**Current temperature**: 28.10 °C, **Feels like**: 31.00 °C, **Humidity**: 70%
+**Current temperature**: 27.20 °C, **Feels like**: 29.50 °C, **Humidity**: 74%
 
-**Wind**: 18.70 km/h, 136°, *SE*
+**Wind**: 17.60 km/h, 133°, *SE*
 
 **Pressure**: 1011.00 mb
 
@@ -40,15 +40,15 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Sunset**: 06:04 PM
 
-**Moon Phase**: Full Moon
+**Moon Phase**: Waning Gibbous
 
-**Moon Rise**: 06:16 PM
+**Moon Rise**: 07:04 PM
 
-**Moon Set**: 05:41 AM
+**Moon Set**: 06:19 AM
 
-**Moon Illumination**: 100
+**Moon Illumination**: 99
 
-**Updated at**: 2026-04-02 22:00 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2026-04-03 00:00 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -63,12 +63,48 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Chance of Rain</th>
 		</tr>
 				<tr>
-					<td>23:00</td>
+					<td>01:00</td>
 					<td>Clear </td>
 					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/113.png'/></td>
-					<td>26.40 °C</td>
-					<td>28.30 °C</td>
-					<td>18.70 km/h</td>
+					<td>27.20 °C</td>
+					<td>27.70 °C</td>
+					<td>17.60 km/h</td>
+					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>02:00</td>
+					<td>Clear </td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/113.png'/></td>
+					<td>25.70 °C</td>
+					<td>27.40 °C</td>
+					<td>15.80 km/h</td>
+					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>03:00</td>
+					<td>Clear </td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/113.png'/></td>
+					<td>25.40 °C</td>
+					<td>27.10 °C</td>
+					<td>13.00 km/h</td>
+					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>04:00</td>
+					<td>Clear </td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/113.png'/></td>
+					<td>25.00 °C</td>
+					<td>26.70 °C</td>
+					<td>9.70 km/h</td>
+					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>05:00</td>
+					<td>Clear </td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/113.png'/></td>
+					<td>24.60 °C</td>
+					<td>26.30 °C</td>
+					<td>8.30 km/h</td>
 					<td>0 %</td>
 				</tr>
 </table>
