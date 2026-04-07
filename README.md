@@ -26,15 +26,15 @@ I'm Henry Hai - a Full Stack Developer!
 [![Update README](https://github.com/henry0hai/henry0hai/actions/workflows/udpateReadme.yml/badge.svg)](https://github.com/henry0hai/henry0hai/actions/workflows/udpateReadme.yml)
 (Update every **hour**)
 <!-- CURRENT_WEATHER:START -->
-**Current City**: Ho Chi Minh City - *06/04/2026*
+**Current City**: Ho Chi Minh City - *07/04/2026*
 
-**Condition**: Sunny, <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
+**Condition**: Partly cloudy, <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
 
-**Current temperature**: 27.30 °C, **Feels like**: 31.40 °C, **Humidity**: 89%
+**Current temperature**: 30.10 °C, **Feels like**: 32.20 °C, **Humidity**: 70%
 
-**Wind**: 6.50 km/h, 168°, *S*
+**Wind**: 7.60 km/h, 202°, *SSW*
 
-**Pressure**: 1010.00 mb
+**Pressure**: 1012.00 mb
 
 **Sunrise**: 05:47 AM
 
@@ -48,7 +48,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 79
 
-**Updated at**: 2026-04-07 06:30 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2026-04-07 09:45 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -62,33 +62,6 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Wind</th>
 			<th>Chance of Rain</th>
 		</tr>
-				<tr>
-					<td>07:00</td>
-					<td>Sunny</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/113.png'/></td>
-					<td>26.70 °C</td>
-					<td>29.40 °C</td>
-					<td>6.50 km/h</td>
-					<td>0 %</td>
-				</tr>
-				<tr>
-					<td>08:00</td>
-					<td>Sunny</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/113.png'/></td>
-					<td>28.80 °C</td>
-					<td>31.80 °C</td>
-					<td>7.20 km/h</td>
-					<td>0 %</td>
-				</tr>
-				<tr>
-					<td>09:00</td>
-					<td>Sunny</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/113.png'/></td>
-					<td>31.10 °C</td>
-					<td>34.00 °C</td>
-					<td>7.60 km/h</td>
-					<td>0 %</td>
-				</tr>
 				<tr>
 					<td>10:00</td>
 					<td>Sunny</td>
@@ -114,6 +87,33 @@ I'm Henry Hai - a Full Stack Developer!
 					<td>36.90 °C</td>
 					<td>38.70 °C</td>
 					<td>8.60 km/h</td>
+					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>13:00</td>
+					<td>Sunny</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/113.png'/></td>
+					<td>38.30 °C</td>
+					<td>39.80 °C</td>
+					<td>7.60 km/h</td>
+					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>14:00</td>
+					<td>Sunny</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/113.png'/></td>
+					<td>38.70 °C</td>
+					<td>40.10 °C</td>
+					<td>10.40 km/h</td>
+					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>15:00</td>
+					<td>Sunny</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/113.png'/></td>
+					<td>37.70 °C</td>
+					<td>40.10 °C</td>
+					<td>19.40 km/h</td>
 					<td>0 %</td>
 				</tr>
 </table>
