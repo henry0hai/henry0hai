@@ -30,11 +30,11 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Condition**: Sunny, <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
 
-**Current temperature**: 36.00 °C, **Feels like**: 39.70 °C, **Humidity**: 45%
+**Current temperature**: 33.10 °C, **Feels like**: 38.80 °C, **Humidity**: 63%
 
-**Wind**: 25.20 km/h, 155°, *SSE*
+**Wind**: 23.00 km/h, 155°, *SSE*
 
-**Pressure**: 1007.00 mb
+**Pressure**: 1008.00 mb
 
 **Sunrise**: 05:47 AM
 
@@ -48,7 +48,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 70
 
-**Updated at**: 2026-04-08 16:00 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2026-04-08 18:00 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -62,24 +62,6 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Wind</th>
 			<th>Chance of Rain</th>
 		</tr>
-				<tr>
-					<td>17:00</td>
-					<td>Sunny</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/113.png'/></td>
-					<td>32.50 °C</td>
-					<td>35.40 °C</td>
-					<td>25.20 km/h</td>
-					<td>0 %</td>
-				</tr>
-				<tr>
-					<td>18:00</td>
-					<td>Sunny</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/113.png'/></td>
-					<td>30.20 °C</td>
-					<td>32.90 °C</td>
-					<td>23.00 km/h</td>
-					<td>0 %</td>
-				</tr>
 				<tr>
 					<td>19:00</td>
 					<td>Clear </td>
@@ -105,6 +87,24 @@ I'm Henry Hai - a Full Stack Developer!
 					<td>27.90 °C</td>
 					<td>30.70 °C</td>
 					<td>17.30 km/h</td>
+					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>22:00</td>
+					<td>Clear </td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/113.png'/></td>
+					<td>27.70 °C</td>
+					<td>30.40 °C</td>
+					<td>15.80 km/h</td>
+					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>23:00</td>
+					<td>Clear </td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/113.png'/></td>
+					<td>27.40 °C</td>
+					<td>30.10 °C</td>
+					<td>15.10 km/h</td>
 					<td>0 %</td>
 				</tr>
 </table>
