@@ -30,11 +30,11 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Condition**: Clear, <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
 
-**Current temperature**: 30.40 °C, **Feels like**: 33.40 °C, **Humidity**: 59%
+**Current temperature**: 29.30 °C, **Feels like**: 32.00 °C, **Humidity**: 66%
 
-**Wind**: 21.20 km/h, 142°, *SE*
+**Wind**: 19.10 km/h, 132°, *SE*
 
-**Pressure**: 1007.00 mb
+**Pressure**: 1009.00 mb
 
 **Sunrise**: 05:40 AM
 
@@ -48,7 +48,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 17
 
-**Updated at**: 2026-04-21 19:00 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2026-04-21 21:45 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -63,39 +63,21 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Chance of Rain</th>
 		</tr>
 				<tr>
-					<td>20:00</td>
-					<td>Clear</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/113.png'/></td>
-					<td>28.00 °C</td>
-					<td>29.70 °C</td>
-					<td>19.40 km/h</td>
-					<td>0 %</td>
-				</tr>
-				<tr>
-					<td>21:00</td>
-					<td>Clear</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/113.png'/></td>
-					<td>27.80 °C</td>
-					<td>29.50 °C</td>
-					<td>16.20 km/h</td>
-					<td>0 %</td>
-				</tr>
-				<tr>
 					<td>22:00</td>
 					<td>Clear</td>
 					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/113.png'/></td>
-					<td>27.60 °C</td>
-					<td>29.30 °C</td>
-					<td>12.60 km/h</td>
+					<td>27.50 °C</td>
+					<td>29.40 °C</td>
+					<td>16.90 km/h</td>
 					<td>0 %</td>
 				</tr>
 				<tr>
 					<td>23:00</td>
 					<td>Clear</td>
 					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/113.png'/></td>
-					<td>27.30 °C</td>
-					<td>29.00 °C</td>
-					<td>9.40 km/h</td>
+					<td>27.40 °C</td>
+					<td>29.30 °C</td>
+					<td>11.20 km/h</td>
 					<td>0 %</td>
 				</tr>
 </table>
