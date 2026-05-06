@@ -28,13 +28,13 @@ I'm Henry Hai - a Full Stack Developer!
 <!-- CURRENT_WEATHER:START -->
 **Current City**: Ho Chi Minh City - *06/05/2026*
 
-**Condition**: Patchy light rain with thunder, <img src="https://cdn.weatherapi.com/weather/64x64/day/386.png"/>
+**Condition**: Partly cloudy, <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
 
-**Current temperature**: 30.10 °C, **Feels like**: 32.40 °C, **Humidity**: 75%
+**Current temperature**: 27.00 °C, **Feels like**: 28.40 °C, **Humidity**: 89%
 
-**Wind**: 15.80 km/h, 148°, *SSE*
+**Wind**: 17.30 km/h, 150°, *SSE*
 
-**Pressure**: 1006.00 mb
+**Pressure**: 1008.00 mb
 
 **Sunrise**: 05:34 AM
 
@@ -48,7 +48,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 84
 
-**Updated at**: 2026-05-06 16:15 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2026-05-06 18:45 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -62,24 +62,6 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Wind</th>
 			<th>Chance of Rain</th>
 		</tr>
-				<tr>
-					<td>17:00</td>
-					<td>Partly Cloudy</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/116.png'/></td>
-					<td>31.60 °C</td>
-					<td>35.90 °C</td>
-					<td>16.90 km/h</td>
-					<td>0 %</td>
-				</tr>
-				<tr>
-					<td>18:00</td>
-					<td>Partly Cloudy</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/116.png'/></td>
-					<td>30.80 °C</td>
-					<td>34.80 °C</td>
-					<td>17.30 km/h</td>
-					<td>0 %</td>
-				</tr>
 				<tr>
 					<td>19:00</td>
 					<td>Patchy rain nearby</td>
@@ -114,6 +96,15 @@ I'm Henry Hai - a Full Stack Developer!
 					<td>28.70 °C</td>
 					<td>33.00 °C</td>
 					<td>15.10 km/h</td>
+					<td>0 %</td>
+				</tr>
+				<tr>
+					<td>23:00</td>
+					<td>Partly Cloudy</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/116.png'/></td>
+					<td>28.50 °C</td>
+					<td>32.70 °C</td>
+					<td>15.50 km/h</td>
 					<td>0 %</td>
 				</tr>
 </table>
