@@ -28,13 +28,13 @@ I'm Henry Hai - a Full Stack Developer!
 <!-- CURRENT_WEATHER:START -->
 **Current City**: Ho Chi Minh City - *29/05/2026*
 
-**Condition**: Partly Cloudy, <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
+**Condition**: Overcast, <img src="https://cdn.weatherapi.com/weather/64x64/night/122.png"/>
 
-**Current temperature**: 26.00 °C, **Feels like**: 28.00 °C, **Humidity**: 89%
+**Current temperature**: 26.00 °C, **Feels like**: 28.90 °C, **Humidity**: 94%
 
-**Wind**: 9.70 km/h, 222°, *SW*
+**Wind**: 10.40 km/h, 229°, *SW*
 
-**Pressure**: 1008.00 mb
+**Pressure**: 1010.00 mb
 
 **Sunrise**: 05:29 AM
 
@@ -48,7 +48,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 99
 
-**Updated at**: 2026-05-29 19:15 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2026-05-29 23:45 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -62,41 +62,5 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Wind</th>
 			<th>Chance of Rain</th>
 		</tr>
-				<tr>
-					<td>20:00</td>
-					<td>Patchy rain nearby</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/176.png'/></td>
-					<td>27.20 °C</td>
-					<td>30.70 °C</td>
-					<td>9.40 km/h</td>
-					<td>89 % 🌧️</td>
-				</tr>
-				<tr>
-					<td>21:00</td>
-					<td>Patchy rain nearby</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/176.png'/></td>
-					<td>27.30 °C</td>
-					<td>31.10 °C</td>
-					<td>10.10 km/h</td>
-					<td>100 % 🌧️</td>
-				</tr>
-				<tr>
-					<td>22:00</td>
-					<td>Thundery outbreaks in nearby</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/200.png'/></td>
-					<td>27.10 °C</td>
-					<td>30.90 °C</td>
-					<td>9.70 km/h</td>
-					<td>100 % 🌧️</td>
-				</tr>
-				<tr>
-					<td>23:00</td>
-					<td>Overcast</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/122.png'/></td>
-					<td>27.00 °C</td>
-					<td>30.80 °C</td>
-					<td>10.40 km/h</td>
-					<td>0 %</td>
-				</tr>
 </table>
 <!-- FORECAST_WEATHER:END -->
