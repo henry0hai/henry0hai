@@ -30,9 +30,9 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Condition**: Patchy rain nearby, <img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"/>
 
-**Current temperature**: 28.40 °C, **Feels like**: 33.50 °C, **Humidity**: 89%
+**Current temperature**: 28.10 °C, **Feels like**: 33.40 °C, **Humidity**: 89%
 
-**Wind**: 12.60 km/h, 240°, *WSW*
+**Wind**: 10.40 km/h, 234°, *SW*
 
 **Pressure**: 1009.00 mb
 
@@ -48,7 +48,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 33
 
-**Updated at**: 2026-06-08 03:00 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2026-06-08 05:00 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -62,24 +62,6 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Wind</th>
 			<th>Chance of Rain</th>
 		</tr>
-				<tr>
-					<td>04:00</td>
-					<td>Clear</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/113.png'/></td>
-					<td>27.00 °C</td>
-					<td>30.60 °C</td>
-					<td>11.50 km/h</td>
-					<td>5 %</td>
-				</tr>
-				<tr>
-					<td>05:00</td>
-					<td>Patchy rain nearby</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/176.png'/></td>
-					<td>26.70 °C</td>
-					<td>30.30 °C</td>
-					<td>10.40 km/h</td>
-					<td>73 %</td>
-				</tr>
 				<tr>
 					<td>06:00</td>
 					<td>Sunny</td>
@@ -106,6 +88,24 @@ I'm Henry Hai - a Full Stack Developer!
 					<td>34.70 °C</td>
 					<td>17.60 km/h</td>
 					<td>2 %</td>
+				</tr>
+				<tr>
+					<td>09:00</td>
+					<td>Partly Cloudy</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/116.png'/></td>
+					<td>31.80 °C</td>
+					<td>36.50 °C</td>
+					<td>18.40 km/h</td>
+					<td>2 %</td>
+				</tr>
+				<tr>
+					<td>10:00</td>
+					<td>Partly Cloudy</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/116.png'/></td>
+					<td>33.10 °C</td>
+					<td>38.10 °C</td>
+					<td>19.10 km/h</td>
+					<td>1 %</td>
 				</tr>
 </table>
 <!-- FORECAST_WEATHER:END -->
