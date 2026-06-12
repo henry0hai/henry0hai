@@ -26,15 +26,15 @@ I'm Henry Hai - a Full Stack Developer!
 [![Update README](https://github.com/henry0hai/henry0hai/actions/workflows/udpateReadme.yml/badge.svg)](https://github.com/henry0hai/henry0hai/actions/workflows/udpateReadme.yml)
 (Update every **hour**)
 <!-- CURRENT_WEATHER:START -->
-**Current City**: Ho Chi Minh City - *11/06/2026*
+**Current City**: Ho Chi Minh City - *12/06/2026*
 
-**Condition**: Smoky haze, <img src="https://cdn.weatherapi.com/weather/64x64/day/149.png"/>
+**Condition**: Partly cloudy, <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
 
-**Current temperature**: 25.20 °C, **Feels like**: 27.50 °C, **Humidity**: 100%
+**Current temperature**: 31.10 °C, **Feels like**: 39.00 °C, **Humidity**: 75%
 
-**Wind**: 4.30 km/h, 265°, *W*
+**Wind**: 7.90 km/h, 300°, *WNW*
 
-**Pressure**: 1012.00 mb
+**Pressure**: 1014.00 mb
 
 **Sunrise**: 05:30 AM
 
@@ -48,7 +48,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 3
 
-**Updated at**: 2026-06-12 06:15 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2026-06-12 11:15 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -63,58 +63,58 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Chance of Rain</th>
 		</tr>
 				<tr>
-					<td>07:00</td>
-					<td>Smoky haze</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/149.png'/></td>
-					<td>27.60 °C</td>
-					<td>31.10 °C</td>
-					<td>5.00 km/h</td>
-					<td>11 %</td>
-				</tr>
-				<tr>
-					<td>08:00</td>
-					<td>Smoky haze</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/149.png'/></td>
-					<td>28.80 °C</td>
-					<td>32.80 °C</td>
-					<td>6.10 km/h</td>
-					<td>9 %</td>
-				</tr>
-				<tr>
-					<td>09:00</td>
-					<td>Smoky haze</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/149.png'/></td>
-					<td>30.30 °C</td>
-					<td>34.70 °C</td>
-					<td>6.10 km/h</td>
-					<td>9 %</td>
-				</tr>
-				<tr>
-					<td>10:00</td>
-					<td>Partly Cloudy</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/116.png'/></td>
-					<td>32.00 °C</td>
-					<td>36.90 °C</td>
-					<td>7.20 km/h</td>
-					<td>8 %</td>
-				</tr>
-				<tr>
-					<td>11:00</td>
-					<td>Patchy rain nearby</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/176.png'/></td>
-					<td>33.10 °C</td>
-					<td>38.30 °C</td>
-					<td>8.60 km/h</td>
-					<td>10 %</td>
-				</tr>
-				<tr>
 					<td>12:00</td>
 					<td>Overcast</td>
 					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/122.png'/></td>
-					<td>34.30 °C</td>
-					<td>39.90 °C</td>
-					<td>9.40 km/h</td>
+					<td>34.20 °C</td>
+					<td>39.60 °C</td>
+					<td>8.60 km/h</td>
 					<td>11 %</td>
+				</tr>
+				<tr>
+					<td>13:00</td>
+					<td>Patchy rain nearby</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/176.png'/></td>
+					<td>34.90 °C</td>
+					<td>40.20 °C</td>
+					<td>10.40 km/h</td>
+					<td>8 %</td>
+				</tr>
+				<tr>
+					<td>14:00</td>
+					<td>Partly Cloudy</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/116.png'/></td>
+					<td>34.90 °C</td>
+					<td>39.90 °C</td>
+					<td>11.20 km/h</td>
+					<td>5 %</td>
+				</tr>
+				<tr>
+					<td>15:00</td>
+					<td>Patchy light drizzle</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/263.png'/></td>
+					<td>34.30 °C</td>
+					<td>39.20 °C</td>
+					<td>10.40 km/h</td>
+					<td>36 %</td>
+				</tr>
+				<tr>
+					<td>16:00</td>
+					<td>Patchy rain nearby</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/176.png'/></td>
+					<td>32.60 °C</td>
+					<td>37.50 °C</td>
+					<td>7.20 km/h</td>
+					<td>26 %</td>
+				</tr>
+				<tr>
+					<td>17:00</td>
+					<td>Patchy rain nearby</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/176.png'/></td>
+					<td>32.50 °C</td>
+					<td>37.70 °C</td>
+					<td>4.00 km/h</td>
+					<td>13 %</td>
 				</tr>
 </table>
 <!-- FORECAST_WEATHER:END -->
