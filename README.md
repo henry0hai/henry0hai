@@ -28,27 +28,27 @@ I'm Henry Hai - a Full Stack Developer!
 <!-- CURRENT_WEATHER:START -->
 **Current City**: Ho Chi Minh City - *18/06/2026*
 
-**Condition**: Moderate or heavy rain with thunder, <img src="https://cdn.weatherapi.com/weather/64x64/night/389.png"/>
+**Condition**: Smoky haze, <img src="https://cdn.weatherapi.com/weather/64x64/night/149.png"/>
 
-**Current temperature**: 25.20 °C, **Feels like**: 26.80 °C, **Humidity**: 100%
+**Current temperature**: 26.20 °C, **Feels like**: 28.60 °C, **Humidity**: 94%
 
-**Wind**: 11.50 km/h, 213°, *SSW*
+**Wind**: 4.30 km/h, 275°, *W*
 
-**Pressure**: 1011.00 mb
+**Pressure**: 1010.00 mb
 
-**Sunrise**: 05:31 AM
+**Sunrise**: 05:32 AM
 
 **Sunset**: 06:17 PM
 
 **Moon Phase**: Waxing Crescent
 
-**Moon Rise**: 08:20 AM
+**Moon Rise**: 09:21 AM
 
-**Moon Set**: 09:21 PM
+**Moon Set**: 10:10 PM
 
-**Moon Illumination**: 19
+**Moon Illumination**: 28
 
-**Updated at**: 2026-06-18 21:00 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2026-06-19 01:00 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -63,22 +63,49 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Chance of Rain</th>
 		</tr>
 				<tr>
-					<td>22:00</td>
-					<td>Smog</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/152.png'/></td>
-					<td>28.60 °C</td>
-					<td>32.40 °C</td>
-					<td>9.70 km/h</td>
+					<td>02:00</td>
+					<td>Smoky haze</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/149.png'/></td>
+					<td>27.40 °C</td>
+					<td>30.80 °C</td>
+					<td>1.80 km/h</td>
+					<td>11 %</td>
+				</tr>
+				<tr>
+					<td>03:00</td>
+					<td>Smoky haze</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/149.png'/></td>
+					<td>27.20 °C</td>
+					<td>30.50 °C</td>
+					<td>2.50 km/h</td>
+					<td>11 %</td>
+				</tr>
+				<tr>
+					<td>04:00</td>
+					<td>Smoky haze</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/149.png'/></td>
+					<td>27.00 °C</td>
+					<td>30.20 °C</td>
+					<td>1.40 km/h</td>
 					<td>10 %</td>
 				</tr>
 				<tr>
-					<td>23:00</td>
-					<td>Smog</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/152.png'/></td>
-					<td>28.10 °C</td>
-					<td>31.60 °C</td>
-					<td>8.60 km/h</td>
-					<td>8 %</td>
+					<td>05:00</td>
+					<td>Smoky haze</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/149.png'/></td>
+					<td>27.00 °C</td>
+					<td>30.10 °C</td>
+					<td>2.90 km/h</td>
+					<td>10 %</td>
+				</tr>
+				<tr>
+					<td>06:00</td>
+					<td>Smoky haze</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/149.png'/></td>
+					<td>27.00 °C</td>
+					<td>30.20 °C</td>
+					<td>2.90 km/h</td>
+					<td>11 %</td>
 				</tr>
 </table>
 <!-- FORECAST_WEATHER:END -->
