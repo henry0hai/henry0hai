@@ -28,13 +28,13 @@ I'm Henry Hai - a Full Stack Developer!
 <!-- CURRENT_WEATHER:START -->
 **Current City**: Ho Chi Minh City - *18/06/2026*
 
-**Condition**: Patchy light rain with thunder, <img src="https://cdn.weatherapi.com/weather/64x64/day/386.png"/>
+**Condition**: Moderate or heavy rain with thunder, <img src="https://cdn.weatherapi.com/weather/64x64/night/389.png"/>
 
-**Current temperature**: 32.30 °C, **Feels like**: 38.60 °C, **Humidity**: 67%
+**Current temperature**: 25.20 °C, **Feels like**: 26.80 °C, **Humidity**: 100%
 
-**Wind**: 9.00 km/h, 186°, *S*
+**Wind**: 11.50 km/h, 213°, *SSW*
 
-**Pressure**: 1007.00 mb
+**Pressure**: 1011.00 mb
 
 **Sunrise**: 05:31 AM
 
@@ -48,7 +48,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 19
 
-**Updated at**: 2026-06-18 17:30 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2026-06-18 21:00 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -62,42 +62,6 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Wind</th>
 			<th>Chance of Rain</th>
 		</tr>
-				<tr>
-					<td>18:00</td>
-					<td>Light rain shower</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/353.png'/></td>
-					<td>30.80 °C</td>
-					<td>35.40 °C</td>
-					<td>9.00 km/h</td>
-					<td>36 %</td>
-				</tr>
-				<tr>
-					<td>19:00</td>
-					<td>Smoky haze</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/149.png'/></td>
-					<td>30.30 °C</td>
-					<td>34.70 °C</td>
-					<td>8.30 km/h</td>
-					<td>8 %</td>
-				</tr>
-				<tr>
-					<td>20:00</td>
-					<td>Patchy rain nearby</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/176.png'/></td>
-					<td>29.80 °C</td>
-					<td>34.00 °C</td>
-					<td>10.10 km/h</td>
-					<td>13 %</td>
-				</tr>
-				<tr>
-					<td>21:00</td>
-					<td>Smoky haze</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/149.png'/></td>
-					<td>29.10 °C</td>
-					<td>33.10 °C</td>
-					<td>11.50 km/h</td>
-					<td>8 %</td>
-				</tr>
 				<tr>
 					<td>22:00</td>
 					<td>Smog</td>
