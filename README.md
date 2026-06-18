@@ -26,13 +26,13 @@ I'm Henry Hai - a Full Stack Developer!
 [![Update README](https://github.com/henry0hai/henry0hai/actions/workflows/udpateReadme.yml/badge.svg)](https://github.com/henry0hai/henry0hai/actions/workflows/udpateReadme.yml)
 (Update every **hour**)
 <!-- CURRENT_WEATHER:START -->
-**Current City**: Ho Chi Minh City - *17/06/2026*
+**Current City**: Ho Chi Minh City - *18/06/2026*
 
-**Condition**: Smoky haze, <img src="https://cdn.weatherapi.com/weather/64x64/night/149.png"/>
+**Condition**: Partly Cloudy, <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
 
-**Current temperature**: 26.10 °C, **Feels like**: 28.90 °C, **Humidity**: 89%
+**Current temperature**: 26.10 °C, **Feels like**: 28.40 °C, **Humidity**: 94%
 
-**Wind**: 7.90 km/h, 205°, *SSW*
+**Wind**: 8.60 km/h, 213°, *SSW*
 
 **Pressure**: 1010.00 mb
 
@@ -48,7 +48,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 19
 
-**Updated at**: 2026-06-18 04:45 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2026-06-18 07:00 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -62,33 +62,6 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Wind</th>
 			<th>Chance of Rain</th>
 		</tr>
-				<tr>
-					<td>05:00</td>
-					<td>Patchy rain nearby</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/176.png'/></td>
-					<td>26.50 °C</td>
-					<td>29.90 °C</td>
-					<td>6.80 km/h</td>
-					<td>21 %</td>
-				</tr>
-				<tr>
-					<td>06:00</td>
-					<td>Sunny</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/113.png'/></td>
-					<td>26.70 °C</td>
-					<td>30.10 °C</td>
-					<td>6.80 km/h</td>
-					<td>12 %</td>
-				</tr>
-				<tr>
-					<td>07:00</td>
-					<td>Partly Cloudy</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/116.png'/></td>
-					<td>28.00 °C</td>
-					<td>31.80 °C</td>
-					<td>8.60 km/h</td>
-					<td>13 %</td>
-				</tr>
 				<tr>
 					<td>08:00</td>
 					<td>Partly Cloudy</td>
@@ -115,6 +88,24 @@ I'm Henry Hai - a Full Stack Developer!
 					<td>37.50 °C</td>
 					<td>10.10 km/h</td>
 					<td>10 %</td>
+				</tr>
+				<tr>
+					<td>11:00</td>
+					<td>Cloudy</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/119.png'/></td>
+					<td>34.00 °C</td>
+					<td>38.80 °C</td>
+					<td>11.20 km/h</td>
+					<td>9 %</td>
+				</tr>
+				<tr>
+					<td>12:00</td>
+					<td>Patchy rain nearby</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/176.png'/></td>
+					<td>34.80 °C</td>
+					<td>39.60 °C</td>
+					<td>11.90 km/h</td>
+					<td>17 %</td>
 				</tr>
 </table>
 <!-- FORECAST_WEATHER:END -->
