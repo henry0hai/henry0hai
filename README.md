@@ -30,11 +30,11 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Condition**: Partly cloudy, <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
 
-**Current temperature**: 31.10 °C, **Feels like**: 37.20 °C, **Humidity**: 75%
+**Current temperature**: 30.10 °C, **Feels like**: 36.30 °C, **Humidity**: 75%
 
-**Wind**: 12.20 km/h, 150°, *SSE*
+**Wind**: 12.60 km/h, 180°, *S*
 
-**Pressure**: 1008.00 mb
+**Pressure**: 1010.00 mb
 
 **Sunrise**: 05:32 AM
 
@@ -48,7 +48,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 38
 
-**Updated at**: 2026-06-20 18:45 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2026-06-20 21:45 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -63,49 +63,22 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Chance of Rain</th>
 		</tr>
 				<tr>
-					<td>19:00</td>
-					<td>Smoky haze</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/149.png'/></td>
-					<td>28.80 °C</td>
-					<td>32.80 °C</td>
-					<td>11.90 km/h</td>
-					<td>8 %</td>
-				</tr>
-				<tr>
-					<td>20:00</td>
-					<td>Smoky haze</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/149.png'/></td>
-					<td>28.30 °C</td>
-					<td>32.20 °C</td>
-					<td>13.00 km/h</td>
-					<td>11 %</td>
-				</tr>
-				<tr>
-					<td>21:00</td>
-					<td>Smoky haze</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/149.png'/></td>
-					<td>28.10 °C</td>
-					<td>32.00 °C</td>
-					<td>12.20 km/h</td>
-					<td>10 %</td>
-				</tr>
-				<tr>
 					<td>22:00</td>
 					<td>Smog</td>
 					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/152.png'/></td>
-					<td>28.00 °C</td>
-					<td>31.90 °C</td>
+					<td>28.90 °C</td>
+					<td>32.90 °C</td>
 					<td>11.50 km/h</td>
-					<td>11 %</td>
+					<td>10 %</td>
 				</tr>
 				<tr>
 					<td>23:00</td>
 					<td>Smog</td>
 					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/152.png'/></td>
-					<td>27.50 °C</td>
-					<td>31.00 °C</td>
-					<td>9.40 km/h</td>
-					<td>10 %</td>
+					<td>28.50 °C</td>
+					<td>32.20 °C</td>
+					<td>10.40 km/h</td>
+					<td>11 %</td>
 				</tr>
 </table>
 <!-- FORECAST_WEATHER:END -->
