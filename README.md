@@ -28,11 +28,11 @@ I'm Henry Hai - a Full Stack Developer!
 <!-- CURRENT_WEATHER:START -->
 **Current City**: Ho Chi Minh City - *20/06/2026*
 
-**Condition**: Partly cloudy, <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
+**Condition**: Partly cloudy, <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
 
-**Current temperature**: 28.30 °C, **Feels like**: 32.90 °C, **Humidity**: 89%
+**Current temperature**: 28.20 °C, **Feels like**: 32.80 °C, **Humidity**: 89%
 
-**Wind**: 6.50 km/h, 213°, *SSW*
+**Wind**: 5.00 km/h, 207°, *SSW*
 
 **Pressure**: 1010.00 mb
 
@@ -48,7 +48,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 48
 
-**Updated at**: 2026-06-21 04:00 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2026-06-21 06:00 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -62,24 +62,6 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Wind</th>
 			<th>Chance of Rain</th>
 		</tr>
-				<tr>
-					<td>05:00</td>
-					<td>Smoky haze</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/149.png'/></td>
-					<td>26.30 °C</td>
-					<td>29.10 °C</td>
-					<td>6.10 km/h</td>
-					<td>10 %</td>
-				</tr>
-				<tr>
-					<td>06:00</td>
-					<td>Smoky haze</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/149.png'/></td>
-					<td>26.50 °C</td>
-					<td>29.40 °C</td>
-					<td>5.00 km/h</td>
-					<td>10 %</td>
-				</tr>
 				<tr>
 					<td>07:00</td>
 					<td>Smoky haze</td>
@@ -106,6 +88,24 @@ I'm Henry Hai - a Full Stack Developer!
 					<td>35.90 °C</td>
 					<td>6.50 km/h</td>
 					<td>8 %</td>
+				</tr>
+				<tr>
+					<td>10:00</td>
+					<td>Patchy rain nearby</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/176.png'/></td>
+					<td>33.10 °C</td>
+					<td>37.70 °C</td>
+					<td>7.20 km/h</td>
+					<td>11 %</td>
+				</tr>
+				<tr>
+					<td>11:00</td>
+					<td>Overcast</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/122.png'/></td>
+					<td>34.50 °C</td>
+					<td>39.20 °C</td>
+					<td>7.60 km/h</td>
+					<td>9 %</td>
 				</tr>
 </table>
 <!-- FORECAST_WEATHER:END -->
