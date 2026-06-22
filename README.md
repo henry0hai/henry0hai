@@ -28,13 +28,13 @@ I'm Henry Hai - a Full Stack Developer!
 <!-- CURRENT_WEATHER:START -->
 **Current City**: Ho Chi Minh City - *22/06/2026*
 
-**Condition**: Clear, <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
+**Condition**: Partly cloudy, <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
 
-**Current temperature**: 29.00 °C, **Feels like**: 34.50 °C, **Humidity**: 89%
+**Current temperature**: 29.10 °C, **Feels like**: 35.40 °C, **Humidity**: 89%
 
-**Wind**: 8.60 km/h, 219°, *SW*
+**Wind**: 8.60 km/h, 213°, *SW*
 
-**Pressure**: 1007.00 mb
+**Pressure**: 1008.00 mb
 
 **Sunrise**: 05:33 AM
 
@@ -48,7 +48,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 69
 
-**Updated at**: 2026-06-23 03:45 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2026-06-23 05:45 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -62,24 +62,6 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Wind</th>
 			<th>Chance of Rain</th>
 		</tr>
-				<tr>
-					<td>04:00</td>
-					<td>Clear</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/113.png'/></td>
-					<td>27.50 °C</td>
-					<td>31.50 °C</td>
-					<td>8.30 km/h</td>
-					<td>11 %</td>
-				</tr>
-				<tr>
-					<td>05:00</td>
-					<td>Haze</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/125.png'/></td>
-					<td>27.30 °C</td>
-					<td>31.20 °C</td>
-					<td>8.60 km/h</td>
-					<td>12 %</td>
-				</tr>
 				<tr>
 					<td>06:00</td>
 					<td>Smoky haze</td>
@@ -115,6 +97,24 @@ I'm Henry Hai - a Full Stack Developer!
 					<td>36.20 °C</td>
 					<td>10.80 km/h</td>
 					<td>6 %</td>
+				</tr>
+				<tr>
+					<td>10:00</td>
+					<td>Smoky haze</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/149.png'/></td>
+					<td>32.90 °C</td>
+					<td>37.90 °C</td>
+					<td>12.60 km/h</td>
+					<td>3 %</td>
+				</tr>
+				<tr>
+					<td>11:00</td>
+					<td>Patchy rain nearby</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/176.png'/></td>
+					<td>34.10 °C</td>
+					<td>39.20 °C</td>
+					<td>13.30 km/h</td>
+					<td>7 %</td>
 				</tr>
 </table>
 <!-- FORECAST_WEATHER:END -->
