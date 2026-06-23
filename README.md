@@ -26,13 +26,13 @@ I'm Henry Hai - a Full Stack Developer!
 [![Update README](https://github.com/henry0hai/henry0hai/actions/workflows/udpateReadme.yml/badge.svg)](https://github.com/henry0hai/henry0hai/actions/workflows/udpateReadme.yml)
 (Update every **hour**)
 <!-- CURRENT_WEATHER:START -->
-**Current City**: Ho Chi Minh City - *22/06/2026*
+**Current City**: Ho Chi Minh City - *23/06/2026*
 
 **Condition**: Partly cloudy, <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
 
-**Current temperature**: 29.10 °C, **Feels like**: 35.40 °C, **Humidity**: 89%
+**Current temperature**: 29.10 °C, **Feels like**: 34.30 °C, **Humidity**: 89%
 
-**Wind**: 8.60 km/h, 213°, *SW*
+**Wind**: 8.60 km/h, 233°, *SW*
 
 **Pressure**: 1008.00 mb
 
@@ -48,7 +48,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 69
 
-**Updated at**: 2026-06-23 05:45 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2026-06-23 07:00 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -62,24 +62,6 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Wind</th>
 			<th>Chance of Rain</th>
 		</tr>
-				<tr>
-					<td>06:00</td>
-					<td>Smoky haze</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/149.png'/></td>
-					<td>27.40 °C</td>
-					<td>31.40 °C</td>
-					<td>8.30 km/h</td>
-					<td>13 %</td>
-				</tr>
-				<tr>
-					<td>07:00</td>
-					<td>Smoky haze</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/149.png'/></td>
-					<td>28.40 °C</td>
-					<td>32.70 °C</td>
-					<td>8.60 km/h</td>
-					<td>10 %</td>
-				</tr>
 				<tr>
 					<td>08:00</td>
 					<td>Smoky haze</td>
@@ -114,6 +96,15 @@ I'm Henry Hai - a Full Stack Developer!
 					<td>34.10 °C</td>
 					<td>39.20 °C</td>
 					<td>13.30 km/h</td>
+					<td>7 %</td>
+				</tr>
+				<tr>
+					<td>12:00</td>
+					<td>Thundery outbreaks in nearby</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/200.png'/></td>
+					<td>35.20 °C</td>
+					<td>40.50 °C</td>
+					<td>12.20 km/h</td>
 					<td>7 %</td>
 				</tr>
 </table>
