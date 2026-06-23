@@ -28,13 +28,13 @@ I'm Henry Hai - a Full Stack Developer!
 <!-- CURRENT_WEATHER:START -->
 **Current City**: Ho Chi Minh City - *23/06/2026*
 
-**Condition**: Partly cloudy, <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
+**Condition**: Partly Cloudy, <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
 
-**Current temperature**: 32.20 °C, **Feels like**: 36.80 °C, **Humidity**: 71%
+**Current temperature**: 30.30 °C, **Feels like**: 33.70 °C, **Humidity**: 62%
 
-**Wind**: 13.30 km/h, 232°, *SW*
+**Wind**: 15.50 km/h, 238°, *WSW*
 
-**Pressure**: 1006.00 mb
+**Pressure**: 1008.00 mb
 
 **Sunrise**: 05:33 AM
 
@@ -48,7 +48,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 69
 
-**Updated at**: 2026-06-23 16:30 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2026-06-23 19:30 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -62,33 +62,6 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Wind</th>
 			<th>Chance of Rain</th>
 		</tr>
-				<tr>
-					<td>17:00</td>
-					<td>Thundery outbreaks in nearby</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/200.png'/></td>
-					<td>32.60 °C</td>
-					<td>37.60 °C</td>
-					<td>10.10 km/h</td>
-					<td>5 %</td>
-				</tr>
-				<tr>
-					<td>18:00</td>
-					<td>Partly Cloudy</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/116.png'/></td>
-					<td>32.10 °C</td>
-					<td>36.90 °C</td>
-					<td>11.20 km/h</td>
-					<td>5 %</td>
-				</tr>
-				<tr>
-					<td>19:00</td>
-					<td>Partly Cloudy</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/116.png'/></td>
-					<td>31.40 °C</td>
-					<td>35.80 °C</td>
-					<td>15.50 km/h</td>
-					<td>5 %</td>
-				</tr>
 				<tr>
 					<td>20:00</td>
 					<td>Smoky haze</td>
@@ -115,6 +88,15 @@ I'm Henry Hai - a Full Stack Developer!
 					<td>32.80 °C</td>
 					<td>15.80 km/h</td>
 					<td>8 %</td>
+				</tr>
+				<tr>
+					<td>23:00</td>
+					<td>Partly Cloudy</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/116.png'/></td>
+					<td>28.60 °C</td>
+					<td>32.40 °C</td>
+					<td>14.80 km/h</td>
+					<td>9 %</td>
 				</tr>
 </table>
 <!-- FORECAST_WEATHER:END -->
