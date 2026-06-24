@@ -28,13 +28,13 @@ I'm Henry Hai - a Full Stack Developer!
 <!-- CURRENT_WEATHER:START -->
 **Current City**: Ho Chi Minh City - *24/06/2026*
 
-**Condition**: Patchy rain nearby, <img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"/>
+**Condition**: Partly cloudy, <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
 
-**Current temperature**: 28.00 °C, **Feels like**: 33.30 °C, **Humidity**: 94%
+**Current temperature**: 28.20 °C, **Feels like**: 34.30 °C, **Humidity**: 94%
 
-**Wind**: 7.20 km/h, 213°, *SSW*
+**Wind**: 6.50 km/h, 210°, *SSW*
 
-**Pressure**: 1007.00 mb
+**Pressure**: 1008.00 mb
 
 **Sunrise**: 05:33 AM
 
@@ -48,7 +48,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 87
 
-**Updated at**: 2026-06-25 04:15 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2026-06-25 06:00 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -62,24 +62,6 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Wind</th>
 			<th>Chance of Rain</th>
 		</tr>
-				<tr>
-					<td>05:00</td>
-					<td>Patchy rain nearby</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/176.png'/></td>
-					<td>26.00 °C</td>
-					<td>29.40 °C</td>
-					<td>7.60 km/h</td>
-					<td>53 %</td>
-				</tr>
-				<tr>
-					<td>06:00</td>
-					<td>Partly Cloudy</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/116.png'/></td>
-					<td>26.10 °C</td>
-					<td>29.70 °C</td>
-					<td>6.50 km/h</td>
-					<td>16 %</td>
-				</tr>
 				<tr>
 					<td>07:00</td>
 					<td>Partly Cloudy</td>
@@ -115,6 +97,15 @@ I'm Henry Hai - a Full Stack Developer!
 					<td>37.10 °C</td>
 					<td>17.30 km/h</td>
 					<td>57 %</td>
+				</tr>
+				<tr>
+					<td>11:00</td>
+					<td>Light rain shower</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/353.png'/></td>
+					<td>32.70 °C</td>
+					<td>37.90 °C</td>
+					<td>16.90 km/h</td>
+					<td>36 %</td>
 				</tr>
 </table>
 <!-- FORECAST_WEATHER:END -->
