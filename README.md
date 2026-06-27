@@ -30,11 +30,11 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Condition**: Smoky haze, <img src="https://cdn.weatherapi.com/weather/64x64/night/149.png"/>
 
-**Current temperature**: 29.20 °C, **Feels like**: 33.60 °C, **Humidity**: 84%
+**Current temperature**: 29.30 °C, **Feels like**: 33.60 °C, **Humidity**: 84%
 
-**Wind**: 15.10 km/h, 237°, *WSW*
+**Wind**: 13.00 km/h, 239°, *WSW*
 
-**Pressure**: 1008.00 mb
+**Pressure**: 1009.00 mb
 
 **Sunrise**: 05:33 AM
 
@@ -48,7 +48,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 97
 
-**Updated at**: 2026-06-27 21:45 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2026-06-27 23:00 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -62,23 +62,5 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Wind</th>
 			<th>Chance of Rain</th>
 		</tr>
-				<tr>
-					<td>22:00</td>
-					<td>Smog</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/152.png'/></td>
-					<td>28.80 °C</td>
-					<td>32.20 °C</td>
-					<td>13.70 km/h</td>
-					<td>12 %</td>
-				</tr>
-				<tr>
-					<td>23:00</td>
-					<td>Smoky haze</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/149.png'/></td>
-					<td>28.50 °C</td>
-					<td>31.90 °C</td>
-					<td>13.00 km/h</td>
-					<td>16 %</td>
-				</tr>
 </table>
 <!-- FORECAST_WEATHER:END -->
