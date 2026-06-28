@@ -30,9 +30,9 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Condition**: Smoky haze, <img src="https://cdn.weatherapi.com/weather/64x64/night/149.png"/>
 
-**Current temperature**: 28.10 °C, **Feels like**: 31.70 °C, **Humidity**: 84%
+**Current temperature**: 29.10 °C, **Feels like**: 35.00 °C, **Humidity**: 79%
 
-**Wind**: 14.00 km/h, 242°, *WSW*
+**Wind**: 15.50 km/h, 241°, *WSW*
 
 **Pressure**: 1008.00 mb
 
@@ -42,13 +42,13 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Phase**: Full Moon
 
-**Moon Rise**: 05:18 PM
+**Moon Rise**: 06:10 PM
 
-**Moon Set**: 04:02 AM
+**Moon Set**: 04:55 AM
 
 **Moon Illumination**: 100
 
-**Updated at**: 2026-06-28 22:15 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2026-06-29 00:00 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -63,12 +63,48 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Chance of Rain</th>
 		</tr>
 				<tr>
-					<td>23:00</td>
+					<td>01:00</td>
+					<td>Smoky haze</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/149.png'/></td>
+					<td>29.10 °C</td>
+					<td>31.30 °C</td>
+					<td>15.50 km/h</td>
+					<td>12 %</td>
+				</tr>
+				<tr>
+					<td>02:00</td>
+					<td>Smoky haze</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/149.png'/></td>
+					<td>27.30 °C</td>
+					<td>31.00 °C</td>
+					<td>14.80 km/h</td>
+					<td>15 %</td>
+				</tr>
+				<tr>
+					<td>03:00</td>
+					<td>Smoky haze</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/149.png'/></td>
+					<td>27.20 °C</td>
+					<td>30.80 °C</td>
+					<td>13.30 km/h</td>
+					<td>14 %</td>
+				</tr>
+				<tr>
+					<td>04:00</td>
 					<td>Partly Cloudy</td>
 					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/116.png'/></td>
-					<td>28.00 °C</td>
-					<td>31.70 °C</td>
-					<td>15.50 km/h</td>
+					<td>27.00 °C</td>
+					<td>30.50 °C</td>
+					<td>11.50 km/h</td>
+					<td>12 %</td>
+				</tr>
+				<tr>
+					<td>05:00</td>
+					<td>Smoky haze</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/149.png'/></td>
+					<td>26.80 °C</td>
+					<td>30.30 °C</td>
+					<td>10.10 km/h</td>
 					<td>13 %</td>
 				</tr>
 </table>
