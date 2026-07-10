@@ -26,15 +26,15 @@ I'm Henry Hai - a Full Stack Developer!
 [![Update README](https://github.com/henry0hai/henry0hai/actions/workflows/udpateReadme.yml/badge.svg)](https://github.com/henry0hai/henry0hai/actions/workflows/udpateReadme.yml)
 (Update every **hour**)
 <!-- CURRENT_WEATHER:START -->
-**Current City**: Ho Chi Minh City - *09/07/2026*
+**Current City**: Ho Chi Minh City - *10/07/2026*
 
-**Condition**: Partly cloudy, <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
+**Condition**: Partly Cloudy, <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
 
-**Current temperature**: 27.00 °C, **Feels like**: 31.20 °C, **Humidity**: 100%
+**Current temperature**: 27.00 °C, **Feels like**: 31.00 °C, **Humidity**: 100%
 
-**Wind**: 8.60 km/h, 250°, *WSW*
+**Wind**: 8.30 km/h, 246°, *WSW*
 
-**Pressure**: 1008.00 mb
+**Pressure**: 1009.00 mb
 
 **Sunrise**: 05:37 AM
 
@@ -48,7 +48,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 12
 
-**Updated at**: 2026-07-10 05:15 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2026-07-10 06:45 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -62,15 +62,6 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Wind</th>
 			<th>Chance of Rain</th>
 		</tr>
-				<tr>
-					<td>06:00</td>
-					<td>Partly Cloudy</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/116.png'/></td>
-					<td>25.80 °C</td>
-					<td>22.90 °C</td>
-					<td>8.30 km/h</td>
-					<td>14 %</td>
-				</tr>
 				<tr>
 					<td>07:00</td>
 					<td>Sunny</td>
@@ -115,6 +106,15 @@ I'm Henry Hai - a Full Stack Developer!
 					<td>36.70 °C</td>
 					<td>23.40 km/h</td>
 					<td>2 %</td>
+				</tr>
+				<tr>
+					<td>12:00</td>
+					<td>Partly Cloudy</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/116.png'/></td>
+					<td>34.80 °C</td>
+					<td>37.20 °C</td>
+					<td>25.20 km/h</td>
+					<td>3 %</td>
 				</tr>
 </table>
 <!-- FORECAST_WEATHER:END -->
