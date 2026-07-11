@@ -28,13 +28,13 @@ I'm Henry Hai - a Full Stack Developer!
 <!-- CURRENT_WEATHER:START -->
 **Current City**: Ho Chi Minh City - *11/07/2026*
 
-**Condition**: Partly cloudy, <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
+**Condition**: Patchy rain nearby, <img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"/>
 
-**Current temperature**: 33.20 °C, **Feels like**: 39.30 °C, **Humidity**: 59%
+**Current temperature**: 30.10 °C, **Feels like**: 35.40 °C, **Humidity**: 75%
 
-**Wind**: 24.80 km/h, 243°, *WSW*
+**Wind**: 23.80 km/h, 241°, *WSW*
 
-**Pressure**: 1003.00 mb
+**Pressure**: 1006.00 mb
 
 **Sunrise**: 05:37 AM
 
@@ -48,7 +48,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 6
 
-**Updated at**: 2026-07-11 18:00 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2026-07-11 20:30 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -63,29 +63,11 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Chance of Rain</th>
 		</tr>
 				<tr>
-					<td>19:00</td>
-					<td>Patchy rain nearby</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/176.png'/></td>
-					<td>29.90 °C</td>
-					<td>33.30 °C</td>
-					<td>25.20 km/h</td>
-					<td>20 %</td>
-				</tr>
-				<tr>
-					<td>20:00</td>
-					<td>Patchy rain nearby</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/176.png'/></td>
-					<td>28.50 °C</td>
-					<td>31.90 °C</td>
-					<td>23.80 km/h</td>
-					<td>19 %</td>
-				</tr>
-				<tr>
 					<td>21:00</td>
 					<td>Partly Cloudy</td>
 					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/116.png'/></td>
 					<td>27.80 °C</td>
-					<td>31.10 °C</td>
+					<td>30.80 °C</td>
 					<td>21.60 km/h</td>
 					<td>10 %</td>
 				</tr>
@@ -94,7 +76,7 @@ I'm Henry Hai - a Full Stack Developer!
 					<td>Partly Cloudy</td>
 					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/116.png'/></td>
 					<td>27.50 °C</td>
-					<td>30.70 °C</td>
+					<td>30.40 °C</td>
 					<td>21.20 km/h</td>
 					<td>12 %</td>
 				</tr>
@@ -103,7 +85,7 @@ I'm Henry Hai - a Full Stack Developer!
 					<td>Partly Cloudy</td>
 					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/116.png'/></td>
 					<td>27.30 °C</td>
-					<td>30.50 °C</td>
+					<td>30.10 °C</td>
 					<td>20.20 km/h</td>
 					<td>10 %</td>
 				</tr>
