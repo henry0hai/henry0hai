@@ -30,11 +30,11 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Condition**: Smoky haze, <img src="https://cdn.weatherapi.com/weather/64x64/night/149.png"/>
 
-**Current temperature**: 25.00 °C, **Feels like**: 28.10 °C, **Humidity**: 94%
+**Current temperature**: 25.20 °C, **Feels like**: 28.30 °C, **Humidity**: 94%
 
-**Wind**: 4.30 km/h, 188°, *S*
+**Wind**: 6.80 km/h, 226°, *SW*
 
-**Pressure**: 1012.00 mb
+**Pressure**: 1011.00 mb
 
 **Sunrise**: 05:38 AM
 
@@ -48,7 +48,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 8
 
-**Updated at**: 2026-07-16 01:00 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2026-07-16 03:00 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -62,24 +62,6 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Wind</th>
 			<th>Chance of Rain</th>
 		</tr>
-				<tr>
-					<td>02:00</td>
-					<td>Smoky haze</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/149.png'/></td>
-					<td>25.50 °C</td>
-					<td>21.60 °C</td>
-					<td>7.20 km/h</td>
-					<td>22 %</td>
-				</tr>
-				<tr>
-					<td>03:00</td>
-					<td>Smoky haze</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/149.png'/></td>
-					<td>25.30 °C</td>
-					<td>21.00 °C</td>
-					<td>6.80 km/h</td>
-					<td>25 %</td>
-				</tr>
 				<tr>
 					<td>04:00</td>
 					<td>Mist</td>
@@ -106,6 +88,24 @@ I'm Henry Hai - a Full Stack Developer!
 					<td>20.60 °C</td>
 					<td>6.50 km/h</td>
 					<td>28 %</td>
+				</tr>
+				<tr>
+					<td>07:00</td>
+					<td>Smoky haze</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/149.png'/></td>
+					<td>26.30 °C</td>
+					<td>25.90 °C</td>
+					<td>8.30 km/h</td>
+					<td>23 %</td>
+				</tr>
+				<tr>
+					<td>08:00</td>
+					<td>Smoky haze</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/149.png'/></td>
+					<td>28.10 °C</td>
+					<td>31.90 °C</td>
+					<td>9.70 km/h</td>
+					<td>12 %</td>
 				</tr>
 </table>
 <!-- FORECAST_WEATHER:END -->
