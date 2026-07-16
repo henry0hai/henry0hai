@@ -26,13 +26,13 @@ I'm Henry Hai - a Full Stack Developer!
 [![Update README](https://github.com/henry0hai/henry0hai/actions/workflows/udpateReadme.yml/badge.svg)](https://github.com/henry0hai/henry0hai/actions/workflows/udpateReadme.yml)
 (Update every **hour**)
 <!-- CURRENT_WEATHER:START -->
-**Current City**: Ho Chi Minh City - *15/07/2026*
+**Current City**: Ho Chi Minh City - *16/07/2026*
 
-**Condition**: Smoky haze, <img src="https://cdn.weatherapi.com/weather/64x64/night/149.png"/>
+**Condition**: Smoky haze, <img src="https://cdn.weatherapi.com/weather/64x64/day/149.png"/>
 
-**Current temperature**: 25.10 °C, **Feels like**: 28.10 °C, **Humidity**: 94%
+**Current temperature**: 25.20 °C, **Feels like**: 29.10 °C, **Humidity**: 100%
 
-**Wind**: 5.80 km/h, 232°, *SW*
+**Wind**: 6.80 km/h, 237°, *WSW*
 
 **Pressure**: 1011.00 mb
 
@@ -48,7 +48,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 8
 
-**Updated at**: 2026-07-16 05:00 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2026-07-16 06:45 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -62,15 +62,6 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Wind</th>
 			<th>Chance of Rain</th>
 		</tr>
-				<tr>
-					<td>06:00</td>
-					<td>Smoky haze</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/149.png'/></td>
-					<td>25.30 °C</td>
-					<td>21.10 °C</td>
-					<td>6.80 km/h</td>
-					<td>17 %</td>
-				</tr>
 				<tr>
 					<td>07:00</td>
 					<td>Smoky haze</td>
@@ -106,6 +97,24 @@ I'm Henry Hai - a Full Stack Developer!
 					<td>34.90 °C</td>
 					<td>11.90 km/h</td>
 					<td>13 %</td>
+				</tr>
+				<tr>
+					<td>11:00</td>
+					<td>Partly Cloudy</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/116.png'/></td>
+					<td>30.80 °C</td>
+					<td>35.20 °C</td>
+					<td>10.40 km/h</td>
+					<td>6 %</td>
+				</tr>
+				<tr>
+					<td>12:00</td>
+					<td>Patchy light drizzle</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/263.png'/></td>
+					<td>31.60 °C</td>
+					<td>36.20 °C</td>
+					<td>8.60 km/h</td>
+					<td>42 %</td>
 				</tr>
 </table>
 <!-- FORECAST_WEATHER:END -->
