@@ -28,13 +28,13 @@ I'm Henry Hai - a Full Stack Developer!
 <!-- CURRENT_WEATHER:START -->
 **Current City**: Ho Chi Minh City - *16/07/2026*
 
-**Condition**: Partly cloudy, <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
+**Condition**: Moderate or heavy rain with thunder, <img src="https://cdn.weatherapi.com/weather/64x64/night/389.png"/>
 
-**Current temperature**: 33.20 °C, **Feels like**: 38.70 °C, **Humidity**: 63%
+**Current temperature**: 31.10 °C, **Feels like**: 37.90 °C, **Humidity**: 71%
 
-**Wind**: 9.00 km/h, 260°, *W*
+**Wind**: 7.90 km/h, 202°, *SSW*
 
-**Pressure**: 1008.00 mb
+**Pressure**: 1010.00 mb
 
 **Sunrise**: 05:38 AM
 
@@ -48,7 +48,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 8
 
-**Updated at**: 2026-07-16 17:00 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2026-07-16 19:15 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -62,24 +62,6 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Wind</th>
 			<th>Chance of Rain</th>
 		</tr>
-				<tr>
-					<td>18:00</td>
-					<td>Light drizzle</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/266.png'/></td>
-					<td>29.50 °C</td>
-					<td>32.70 °C</td>
-					<td>12.60 km/h</td>
-					<td>39 %</td>
-				</tr>
-				<tr>
-					<td>19:00</td>
-					<td>Cloudy</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/119.png'/></td>
-					<td>28.50 °C</td>
-					<td>31.60 °C</td>
-					<td>7.90 km/h</td>
-					<td>12 %</td>
-				</tr>
 				<tr>
 					<td>20:00</td>
 					<td>Partly Cloudy</td>
@@ -106,6 +88,15 @@ I'm Henry Hai - a Full Stack Developer!
 					<td>30.30 °C</td>
 					<td>12.20 km/h</td>
 					<td>12 %</td>
+				</tr>
+				<tr>
+					<td>23:00</td>
+					<td>Smoky haze</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/149.png'/></td>
+					<td>27.00 °C</td>
+					<td>29.60 °C</td>
+					<td>12.20 km/h</td>
+					<td>13 %</td>
 				</tr>
 </table>
 <!-- FORECAST_WEATHER:END -->
