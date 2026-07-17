@@ -28,13 +28,13 @@ I'm Henry Hai - a Full Stack Developer!
 <!-- CURRENT_WEATHER:START -->
 **Current City**: Ho Chi Minh City - *17/07/2026*
 
-**Condition**: Patchy rain nearby, <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
+**Condition**: Partly cloudy, <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
 
-**Current temperature**: 32.30 °C, **Feels like**: 40.00 °C, **Humidity**: 67%
+**Current temperature**: 30.30 °C, **Feels like**: 36.00 °C, **Humidity**: 75%
 
-**Wind**: 15.50 km/h, 238°, *WSW*
+**Wind**: 16.60 km/h, 236°, *WSW*
 
-**Pressure**: 1008.00 mb
+**Pressure**: 1009.00 mb
 
 **Sunrise**: 05:39 AM
 
@@ -48,7 +48,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 15
 
-**Updated at**: 2026-07-17 18:00 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2026-07-17 20:30 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -63,29 +63,11 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Chance of Rain</th>
 		</tr>
 				<tr>
-					<td>19:00</td>
-					<td>Smoky haze</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/149.png'/></td>
-					<td>29.30 °C</td>
-					<td>33.00 °C</td>
-					<td>15.80 km/h</td>
-					<td>6 %</td>
-				</tr>
-				<tr>
-					<td>20:00</td>
-					<td>Patchy rain nearby</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/176.png'/></td>
-					<td>28.50 °C</td>
-					<td>31.90 °C</td>
-					<td>16.60 km/h</td>
-					<td>19 %</td>
-				</tr>
-				<tr>
 					<td>21:00</td>
 					<td>Smoky haze</td>
 					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/149.png'/></td>
 					<td>27.50 °C</td>
-					<td>30.50 °C</td>
+					<td>30.80 °C</td>
 					<td>13.00 km/h</td>
 					<td>8 %</td>
 				</tr>
@@ -94,7 +76,7 @@ I'm Henry Hai - a Full Stack Developer!
 					<td>Smoky haze</td>
 					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/149.png'/></td>
 					<td>26.90 °C</td>
-					<td>29.20 °C</td>
+					<td>30.10 °C</td>
 					<td>10.40 km/h</td>
 					<td>10 %</td>
 				</tr>
@@ -103,7 +85,7 @@ I'm Henry Hai - a Full Stack Developer!
 					<td>Smog</td>
 					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/152.png'/></td>
 					<td>26.50 °C</td>
-					<td>26.40 °C</td>
+					<td>29.50 °C</td>
 					<td>10.80 km/h</td>
 					<td>11 %</td>
 				</tr>
