@@ -28,13 +28,13 @@ I'm Henry Hai - a Full Stack Developer!
 <!-- CURRENT_WEATHER:START -->
 **Current City**: Ho Chi Minh City - *27/07/2026*
 
-**Condition**: Light rain shower, <img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"/>
+**Condition**: Patchy rain nearby, <img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"/>
 
-**Current temperature**: 25.80 °C, **Feels like**: 22.70 °C, **Humidity**: 85%
+**Current temperature**: 25.30 °C, **Feels like**: 20.00 °C, **Humidity**: 86%
 
-**Wind**: 12.20 km/h, 257°, *WSW*
+**Wind**: 14.00 km/h, 268°, *W*
 
-**Pressure**: 1008.00 mb
+**Pressure**: 1007.00 mb
 
 **Sunrise**: 05:41 AM
 
@@ -48,7 +48,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 100
 
-**Updated at**: 2026-07-28 02:30 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2026-07-28 04:00 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -62,24 +62,6 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Wind</th>
 			<th>Chance of Rain</th>
 		</tr>
-				<tr>
-					<td>03:00</td>
-					<td>Patchy rain nearby</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/176.png'/></td>
-					<td>25.60 °C</td>
-					<td>21.40 °C</td>
-					<td>13.00 km/h</td>
-					<td>35 %</td>
-				</tr>
-				<tr>
-					<td>04:00</td>
-					<td>Patchy rain nearby</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/176.png'/></td>
-					<td>25.30 °C</td>
-					<td>20.00 °C</td>
-					<td>14.00 km/h</td>
-					<td>27 %</td>
-				</tr>
 				<tr>
 					<td>05:00</td>
 					<td>Patchy rain nearby</td>
@@ -115,6 +97,15 @@ I'm Henry Hai - a Full Stack Developer!
 					<td>18.90 °C</td>
 					<td>11.50 km/h</td>
 					<td>34 %</td>
+				</tr>
+				<tr>
+					<td>09:00</td>
+					<td>Overcast</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/122.png'/></td>
+					<td>25.70 °C</td>
+					<td>22.10 °C</td>
+					<td>12.60 km/h</td>
+					<td>25 %</td>
 				</tr>
 </table>
 <!-- FORECAST_WEATHER:END -->
