@@ -26,13 +26,13 @@ I'm Henry Hai - a Full Stack Developer!
 [![Update README](https://github.com/henry0hai/henry0hai/actions/workflows/udpateReadme.yml/badge.svg)](https://github.com/henry0hai/henry0hai/actions/workflows/udpateReadme.yml)
 (Update every **hour**)
 <!-- CURRENT_WEATHER:START -->
-**Current City**: Ho Chi Minh City - *30/07/2026*
+**Current City**: Ho Chi Minh City - *31/07/2026*
 
-**Condition**: Mist, <img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"/>
+**Condition**: Partly Cloudy, <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
 
-**Current temperature**: 24.60 °C, **Feels like**: 28.80 °C, **Humidity**: 95%
+**Current temperature**: 25.70 °C, **Feels like**: 28.80 °C, **Humidity**: 90%
 
-**Wind**: 7.90 km/h, 190°, *S*
+**Wind**: 10.10 km/h, 196°, *SSW*
 
 **Pressure**: 1008.00 mb
 
@@ -48,7 +48,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 91
 
-**Updated at**: 2026-07-31 05:00 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2026-07-31 07:00 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -62,24 +62,6 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Wind</th>
 			<th>Chance of Rain</th>
 		</tr>
-				<tr>
-					<td>06:00</td>
-					<td>Mist</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/143.png'/></td>
-					<td>24.70 °C</td>
-					<td>28.90 °C</td>
-					<td>7.60 km/h</td>
-					<td>29 %</td>
-				</tr>
-				<tr>
-					<td>07:00</td>
-					<td>Partly Cloudy</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/116.png'/></td>
-					<td>25.70 °C</td>
-					<td>28.80 °C</td>
-					<td>10.10 km/h</td>
-					<td>17 %</td>
-				</tr>
 				<tr>
 					<td>08:00</td>
 					<td>Patchy rain nearby</td>
@@ -106,6 +88,24 @@ I'm Henry Hai - a Full Stack Developer!
 					<td>34.60 °C</td>
 					<td>17.30 km/h</td>
 					<td>26 %</td>
+				</tr>
+				<tr>
+					<td>11:00</td>
+					<td>Patchy rain nearby</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/176.png'/></td>
+					<td>30.80 °C</td>
+					<td>35.60 °C</td>
+					<td>17.30 km/h</td>
+					<td>23 %</td>
+				</tr>
+				<tr>
+					<td>12:00</td>
+					<td>Light rain shower</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/353.png'/></td>
+					<td>30.80 °C</td>
+					<td>35.60 °C</td>
+					<td>18.40 km/h</td>
+					<td>36 %</td>
 				</tr>
 </table>
 <!-- FORECAST_WEATHER:END -->
