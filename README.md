@@ -30,11 +30,11 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Condition**: Patchy rain nearby, <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
 
-**Current temperature**: 30.20 °C, **Feels like**: 35.30 °C, **Humidity**: 69%
+**Current temperature**: 28.00 °C, **Feels like**: 31.80 °C, **Humidity**: 78%
 
-**Wind**: 10.80 km/h, 203°, *SSW*
+**Wind**: 7.90 km/h, 186°, *S*
 
-**Pressure**: 1006.00 mb
+**Pressure**: 1007.00 mb
 
 **Sunrise**: 05:42 AM
 
@@ -48,7 +48,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 83
 
-**Updated at**: 2026-08-01 16:00 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2026-08-01 18:15 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -62,24 +62,6 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Wind</th>
 			<th>Chance of Rain</th>
 		</tr>
-				<tr>
-					<td>17:00</td>
-					<td>Patchy rain nearby</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/176.png'/></td>
-					<td>29.40 °C</td>
-					<td>34.20 °C</td>
-					<td>9.70 km/h</td>
-					<td>28 %</td>
-				</tr>
-				<tr>
-					<td>18:00</td>
-					<td>Patchy rain nearby</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/176.png'/></td>
-					<td>28.00 °C</td>
-					<td>31.80 °C</td>
-					<td>7.90 km/h</td>
-					<td>40 %</td>
-				</tr>
 				<tr>
 					<td>19:00</td>
 					<td>Partly Cloudy</td>
@@ -106,6 +88,24 @@ I'm Henry Hai - a Full Stack Developer!
 					<td>29.50 °C</td>
 					<td>7.60 km/h</td>
 					<td>13 %</td>
+				</tr>
+				<tr>
+					<td>22:00</td>
+					<td>Smoky haze</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/149.png'/></td>
+					<td>26.20 °C</td>
+					<td>29.20 °C</td>
+					<td>7.90 km/h</td>
+					<td>14 %</td>
+				</tr>
+				<tr>
+					<td>23:00</td>
+					<td>Smoky haze</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/149.png'/></td>
+					<td>25.80 °C</td>
+					<td>29.10 °C</td>
+					<td>7.20 km/h</td>
+					<td>15 %</td>
 				</tr>
 </table>
 <!-- FORECAST_WEATHER:END -->
