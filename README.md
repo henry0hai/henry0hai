@@ -28,13 +28,13 @@ I'm Henry Hai - a Full Stack Developer!
 <!-- CURRENT_WEATHER:START -->
 **Current City**: Ho Chi Minh City - *02/08/2026*
 
-**Condition**: Partly cloudy, <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
+**Condition**: Smoky haze, <img src="https://cdn.weatherapi.com/weather/64x64/night/149.png"/>
 
-**Current temperature**: 31.10 °C, **Feels like**: 39.00 °C, **Humidity**: 70%
+**Current temperature**: 27.00 °C, **Feels like**: 29.90 °C, **Humidity**: 81%
 
-**Wind**: 10.80 km/h, 202°, *SSW*
+**Wind**: 10.40 km/h, 207°, *SSW*
 
-**Pressure**: 1007.00 mb
+**Pressure**: 1009.00 mb
 
 **Sunrise**: 05:42 AM
 
@@ -48,7 +48,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 75
 
-**Updated at**: 2026-08-02 19:00 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2026-08-02 21:30 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -63,40 +63,22 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Chance of Rain</th>
 		</tr>
 				<tr>
-					<td>20:00</td>
-					<td>Clear</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/113.png'/></td>
-					<td>27.50 °C</td>
-					<td>30.80 °C</td>
-					<td>10.10 km/h</td>
-					<td>10 %</td>
-				</tr>
-				<tr>
-					<td>21:00</td>
-					<td>Smoky haze</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/149.png'/></td>
-					<td>27.00 °C</td>
-					<td>29.90 °C</td>
-					<td>10.40 km/h</td>
-					<td>11 %</td>
-				</tr>
-				<tr>
 					<td>22:00</td>
 					<td>Smoky haze</td>
 					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/149.png'/></td>
-					<td>26.70 °C</td>
-					<td>29.40 °C</td>
-					<td>10.40 km/h</td>
+					<td>26.60 °C</td>
+					<td>29.50 °C</td>
+					<td>10.10 km/h</td>
 					<td>12 %</td>
 				</tr>
 				<tr>
 					<td>23:00</td>
 					<td>Smoky haze</td>
 					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/149.png'/></td>
-					<td>26.40 °C</td>
-					<td>29.10 °C</td>
-					<td>10.10 km/h</td>
-					<td>12 %</td>
+					<td>26.20 °C</td>
+					<td>29.00 °C</td>
+					<td>9.70 km/h</td>
+					<td>14 %</td>
 				</tr>
 </table>
 <!-- FORECAST_WEATHER:END -->
