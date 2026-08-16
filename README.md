@@ -48,7 +48,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 27
 
-**Updated at**: 2026-08-17 00:15 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2026-08-17 01:30 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -62,15 +62,6 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Wind</th>
 			<th>Chance of Rain</th>
 		</tr>
-				<tr>
-					<td>01:00</td>
-					<td>Partly Cloudy</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/116.png'/></td>
-					<td>27.10 °C</td>
-					<td>29.70 °C</td>
-					<td>17.60 km/h</td>
-					<td>11 %</td>
-				</tr>
 				<tr>
 					<td>02:00</td>
 					<td>Partly Cloudy</td>
@@ -115,6 +106,15 @@ I'm Henry Hai - a Full Stack Developer!
 					<td>28.90 °C</td>
 					<td>14.80 km/h</td>
 					<td>18 %</td>
+				</tr>
+				<tr>
+					<td>07:00</td>
+					<td>Cloudy</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/119.png'/></td>
+					<td>27.60 °C</td>
+					<td>30.50 °C</td>
+					<td>14.80 km/h</td>
+					<td>14 %</td>
 				</tr>
 </table>
 <!-- FORECAST_WEATHER:END -->
