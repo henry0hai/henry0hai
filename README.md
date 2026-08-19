@@ -28,13 +28,13 @@ I'm Henry Hai - a Full Stack Developer!
 <!-- CURRENT_WEATHER:START -->
 **Current City**: Ho Chi Minh City - *19/08/2026*
 
-**Condition**: Patchy rain nearby, <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
+**Condition**: Patchy rain nearby, <img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"/>
 
-**Current temperature**: 29.70 °C, **Feels like**: 32.90 °C, **Humidity**: 64%
+**Current temperature**: 28.60 °C, **Feels like**: 32.10 °C, **Humidity**: 71%
 
-**Wind**: 22.30 km/h, 230°, *SW*
+**Wind**: 22.00 km/h, 234°, *SW*
 
-**Pressure**: 1006.00 mb
+**Pressure**: 1007.00 mb
 
 **Sunrise**: 05:43 AM
 
@@ -48,7 +48,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 48
 
-**Updated at**: 2026-08-19 17:15 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2026-08-19 18:15 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -62,15 +62,6 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Wind</th>
 			<th>Chance of Rain</th>
 		</tr>
-				<tr>
-					<td>18:00</td>
-					<td>Patchy rain nearby</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/176.png'/></td>
-					<td>28.60 °C</td>
-					<td>32.10 °C</td>
-					<td>22.00 km/h</td>
-					<td>21 %</td>
-				</tr>
 				<tr>
 					<td>19:00</td>
 					<td>Overcast</td>
