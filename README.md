@@ -26,15 +26,15 @@ I'm Henry Hai - a Full Stack Developer!
 [![Update README](https://github.com/henry0hai/henry0hai/actions/workflows/udpateReadme.yml/badge.svg)](https://github.com/henry0hai/henry0hai/actions/workflows/udpateReadme.yml)
 (Update every **hour**)
 <!-- CURRENT_WEATHER:START -->
-**Current City**: Ho Chi Minh City - *16/09/2026*
+**Current City**: Ho Chi Minh City - *17/09/2026*
 
-**Condition**: Mist, <img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"/>
+**Condition**: Light rain shower, <img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"/>
 
-**Current temperature**: 26.20 °C, **Feels like**: 29.30 °C, **Humidity**: 86%
+**Current temperature**: 28.80 °C, **Feels like**: 32.90 °C, **Humidity**: 74%
 
-**Wind**: 6.10 km/h, 285°, *WNW*
+**Wind**: 7.90 km/h, 301°, *WNW*
 
-**Pressure**: 1010.00 mb
+**Pressure**: 1011.00 mb
 
 **Sunrise**: 05:42 AM
 
@@ -48,7 +48,7 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Moon Illumination**: 42
 
-**Updated at**: 2026-09-17 05:30 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2026-09-17 08:00 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -62,33 +62,6 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Wind</th>
 			<th>Chance of Rain</th>
 		</tr>
-				<tr>
-					<td>06:00</td>
-					<td>Smoky haze</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/149.png'/></td>
-					<td>26.10 °C</td>
-					<td>29.30 °C</td>
-					<td>6.10 km/h</td>
-					<td>18 %</td>
-				</tr>
-				<tr>
-					<td>07:00</td>
-					<td>Light rain shower</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/353.png'/></td>
-					<td>27.40 °C</td>
-					<td>30.70 °C</td>
-					<td>7.20 km/h</td>
-					<td>46 %</td>
-				</tr>
-				<tr>
-					<td>08:00</td>
-					<td>Light rain shower</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/353.png'/></td>
-					<td>28.80 °C</td>
-					<td>32.90 °C</td>
-					<td>7.90 km/h</td>
-					<td>64 %</td>
-				</tr>
 				<tr>
 					<td>09:00</td>
 					<td>Smoky haze</td>
@@ -115,6 +88,24 @@ I'm Henry Hai - a Full Stack Developer!
 					<td>37.60 °C</td>
 					<td>9.70 km/h</td>
 					<td>36 %</td>
+				</tr>
+				<tr>
+					<td>12:00</td>
+					<td>Overcast</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/122.png'/></td>
+					<td>34.30 °C</td>
+					<td>38.50 °C</td>
+					<td>9.70 km/h</td>
+					<td>11 %</td>
+				</tr>
+				<tr>
+					<td>13:00</td>
+					<td>Patchy rain nearby</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/176.png'/></td>
+					<td>35.10 °C</td>
+					<td>39.10 °C</td>
+					<td>9.70 km/h</td>
+					<td>19 %</td>
 				</tr>
 </table>
 <!-- FORECAST_WEATHER:END -->
