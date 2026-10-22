@@ -30,25 +30,25 @@ I'm Henry Hai - a Full Stack Developer!
 
 **Condition**: Smoky haze, <img src="https://cdn.weatherapi.com/weather/64x64/night/149.png"/>
 
-**Current temperature**: 25.90 °C, **Feels like**: 29.30 °C, **Humidity**: 90%
+**Current temperature**: 25.00 °C, **Feels like**: 29.50 °C, **Humidity**: 92%
 
-**Wind**: 7.60 km/h, 155°, *SSE*
+**Wind**: 5.80 km/h, 164°, *SSE*
 
-**Pressure**: 1012.00 mb
+**Pressure**: 1010.00 mb
 
-**Sunrise**: 05:42 AM
+**Sunrise**: 05:43 AM
 
 **Sunset**: 05:32 PM
 
-**Moon Phase**: Waxing Gibbous
+**Moon Phase**: Full Moon
 
-**Moon Rise**: 02:52 PM
+**Moon Rise**: 03:28 PM
 
-**Moon Set**: 02:20 AM
+**Moon Set**: 03:05 AM
 
-**Moon Illumination**: 92
+**Moon Illumination**: 97
 
-**Updated at**: 2026-10-22 21:45 (GMT+7)<!-- CURRENT_WEATHER:END -->
+**Updated at**: 2026-10-23 02:00 (GMT+7)<!-- CURRENT_WEATHER:END -->
 
 ## 🌤️ / 🌧️ Forecast Weather
 <!-- FORECAST_WEATHER:START -->
@@ -63,22 +63,49 @@ I'm Henry Hai - a Full Stack Developer!
 			<th>Chance of Rain</th>
 		</tr>
 				<tr>
-					<td>22:00</td>
-					<td>Mist</td>
-					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/143.png'/></td>
-					<td>25.90 °C</td>
-					<td>29.80 °C</td>
-					<td>4.70 km/h</td>
-					<td>42 %</td>
+					<td>03:00</td>
+					<td>Patchy rain nearby</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/176.png'/></td>
+					<td>24.90 °C</td>
+					<td>29.40 °C</td>
+					<td>5.40 km/h</td>
+					<td>33 %</td>
 				</tr>
 				<tr>
-					<td>23:00</td>
+					<td>04:00</td>
+					<td>Patchy rain nearby</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/176.png'/></td>
+					<td>24.90 °C</td>
+					<td>30.90 °C</td>
+					<td>0.40 km/h</td>
+					<td>33 %</td>
+				</tr>
+				<tr>
+					<td>05:00</td>
 					<td>Smoky haze</td>
 					<td><img src='https://cdn.weatherapi.com/weather/64x64/night/149.png'/></td>
-					<td>25.50 °C</td>
-					<td>29.20 °C</td>
-					<td>7.60 km/h</td>
-					<td>14 %</td>
+					<td>24.80 °C</td>
+					<td>29.70 °C</td>
+					<td>4.00 km/h</td>
+					<td>15 %</td>
+				</tr>
+				<tr>
+					<td>06:00</td>
+					<td>Patchy rain nearby</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/176.png'/></td>
+					<td>24.70 °C</td>
+					<td>29.10 °C</td>
+					<td>5.80 km/h</td>
+					<td>40 %</td>
+				</tr>
+				<tr>
+					<td>07:00</td>
+					<td>Patchy light drizzle</td>
+					<td><img src='https://cdn.weatherapi.com/weather/64x64/day/263.png'/></td>
+					<td>25.80 °C</td>
+					<td>29.70 °C</td>
+					<td>4.30 km/h</td>
+					<td>53 %</td>
 				</tr>
 </table>
 <!-- FORECAST_WEATHER:END -->
